@@ -1,0 +1,354 @@
+<title>NeurIPS 2026 Workshops</title>
+<style>
+  :root {
+    --bg: #f6f5f2;
+    --surface: #ffffff;
+    --surface-2: #efeee9;
+    --ink: #1c1b19;
+    --ink-2: #55534d;
+    --ink-3: #8a877f;
+    --line: #e2e0d9;
+    --accent: #7a5cff;
+    --accent-ink: #4a37b3;
+    /* venue hues */
+    --syd: #0e8a7a;   --syd-bg: #dcf1ee;
+    --atl: #c2571a;   --atl-bg: #f7e6d8;
+    --par: #3a52c4;   --par-bg: #e1e6f7;
+    --multi: #8a877f; --multi-bg: #ecece6;
+    /* deadline status */
+    --ok: #1f8a4c;   --ok-bg: #dcefe2;
+    --warn: #9a7a12; --warn-bg: #f3ecd2;
+    --none: #8a877f; --none-bg: #ecece6;
+    --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16150f; --surface: #201f18; --surface-2: #2a2820;
+      --ink: #f2f0e8; --ink-2: #b8b5aa; --ink-3: #85827a; --line: #34322a;
+      --accent: #a996ff; --accent-ink: #c7bbff;
+      --syd: #4fd1bd; --syd-bg: #133d38; --atl: #f0975a; --atl-bg: #3d2818;
+      --par: #8aa0f5; --par-bg: #1e2648; --multi: #a8a59b; --multi-bg: #2e2c24;
+      --ok: #5fce8b; --ok-bg: #16351f; --warn: #d9b64a; --warn-bg: #372e12;
+      --none: #a8a59b; --none-bg: #2e2c24;
+    }
+  }
+  :root[data-theme="light"] {
+    --bg: #f6f5f2; --surface: #ffffff; --surface-2: #efeee9;
+    --ink: #1c1b19; --ink-2: #55534d; --ink-3: #8a877f; --line: #e2e0d9;
+    --accent: #7a5cff; --accent-ink: #4a37b3;
+    --syd: #0e8a7a; --syd-bg: #dcf1ee; --atl: #c2571a; --atl-bg: #f7e6d8;
+    --par: #3a52c4; --par-bg: #e1e6f7; --multi: #8a877f; --multi-bg: #ecece6;
+    --ok: #1f8a4c; --ok-bg: #dcefe2; --warn: #9a7a12; --warn-bg: #f3ecd2;
+    --none: #8a877f; --none-bg: #ecece6;
+  }
+  :root[data-theme="dark"] {
+    --bg: #16150f; --surface: #201f18; --surface-2: #2a2820;
+    --ink: #f2f0e8; --ink-2: #b8b5aa; --ink-3: #85827a; --line: #34322a;
+    --accent: #a996ff; --accent-ink: #c7bbff;
+    --syd: #4fd1bd; --syd-bg: #133d38; --atl: #f0975a; --atl-bg: #3d2818;
+    --par: #8aa0f5; --par-bg: #1e2648; --multi: #a8a59b; --multi-bg: #2e2c24;
+    --ok: #5fce8b; --ok-bg: #16351f; --warn: #d9b64a; --warn-bg: #372e12;
+    --none: #a8a59b; --none-bg: #2e2c24;
+  }
+
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font);
+    -webkit-font-smoothing: antialiased; line-height: 1.5; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 40px 24px 80px; }
+
+  header.masthead { border-bottom: 2px solid var(--ink); padding-bottom: 20px; margin-bottom: 8px; }
+  .eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--accent-ink); margin: 0 0 10px; }
+  h1 { font-size: clamp(30px, 5vw, 52px); line-height: 1.02; margin: 0; letter-spacing: -.02em;
+    text-wrap: balance; font-weight: 800; }
+  .sub { color: var(--ink-2); margin: 14px 0 0; max-width: 62ch; font-size: 15px; }
+  .venues-line { display: flex; flex-wrap: wrap; gap: 18px; margin-top: 18px; font-size: 13px; color: var(--ink-2); }
+  .venues-line b { color: var(--ink); }
+
+  /* controls */
+  .controls { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 16px 0 14px;
+    margin-top: 20px; border-bottom: 1px solid var(--line);
+    display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  .search { flex: 1 1 240px; min-width: 200px; position: relative; }
+  .search input { width: 100%; padding: 9px 12px 9px 34px; border: 1px solid var(--line);
+    border-radius: 8px; background: var(--surface); color: var(--ink); font-size: 14px; font-family: var(--font); }
+  .search input:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+  .search svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--ink-3); }
+  .filters { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip { border: 1px solid var(--line); background: var(--surface); color: var(--ink-2);
+    padding: 7px 13px; border-radius: 999px; font-size: 13px; cursor: pointer; font-family: var(--font);
+    display: inline-flex; align-items: center; gap: 7px; transition: background .12s, border-color .12s, color .12s; }
+  .chip:hover { border-color: var(--ink-3); }
+  .chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .chip .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .chip[aria-pressed="true"] .dot { box-shadow: 0 0 0 2px var(--bg); }
+  .count { font-family: var(--mono); font-size: 12px; color: var(--ink-3); margin-left: auto;
+    font-variant-numeric: tabular-nums; }
+
+  .tablewrap { overflow-x: auto; margin-top: 4px; }
+  table { width: 100%; border-collapse: collapse; font-size: 15px; }
+  thead th { position: sticky; top: 0; text-align: left; font-size: 11px; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--ink-3); font-weight: 600; padding: 12px 12px;
+    border-bottom: 1px solid var(--line); background: var(--bg); white-space: nowrap; }
+  thead th.sortable { cursor: pointer; user-select: none; }
+  thead th.sortable:hover { color: var(--ink); }
+  thead th .arr { opacity: 0; margin-left: 3px; }
+  thead th[data-dir] .arr { opacity: 1; color: var(--accent-ink); }
+  tbody td { padding: 13px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tbody tr:hover { background: var(--surface-2); }
+  .acr { font-weight: 700; font-size: 15px; letter-spacing: -.01em; white-space: nowrap; }
+  .acr .track { display: block; font-weight: 500; font-size: 11px; color: var(--ink-3); letter-spacing: 0; }
+  .desc { color: var(--ink-2); font-size: 15.5px; line-height: 1.5; }
+  /* let Description absorb the slack; keep the trailing columns compact */
+  thead th:nth-child(2), tbody td:nth-child(2) { width: 100%; }
+  thead th:nth-child(1), tbody td:nth-child(1) { white-space: nowrap; }
+  thead th:nth-child(3), tbody td:nth-child(3),
+  thead th:nth-child(4), tbody td:nth-child(4),
+  thead th:nth-child(5), tbody td:nth-child(5) { white-space: nowrap; padding-left: 10px; padding-right: 10px; }
+  .dl { font-family: var(--mono); font-size: 13.5px; font-variant-numeric: tabular-nums;
+    display: block; max-width: 15ch; line-height: 1.35; white-space: normal; }
+  .dl small { display: block; white-space: normal; color: var(--ink-3); font-size: 11px; margin-top: 2px; max-width: 22ch; }
+  .badge { display: inline-flex; align-items: center; gap: 6px; padding: 3px 9px; border-radius: 999px;
+    font-size: 12px; font-weight: 600; white-space: nowrap; }
+  .badge .dot { width: 7px; height: 7px; border-radius: 50%; }
+  .v-Sydney { background: var(--syd-bg); color: var(--syd); }
+  .v-Atlanta { background: var(--atl-bg); color: var(--atl); }
+  .v-Paris { background: var(--par-bg); color: var(--par); }
+  .v-Multi { background: var(--multi-bg); color: var(--multi); }
+  .status { font-family: var(--mono); font-size: 10px; letter-spacing: .05em; text-transform: uppercase;
+    padding: 2px 7px; border-radius: 5px; font-weight: 600; white-space: nowrap; display: inline-block; margin-top: 5px; }
+  .s-or { background: var(--ok-bg); color: var(--ok); }
+  .s-site { background: var(--none-bg); color: var(--none); }
+  .s-tbd { background: var(--warn-bg); color: var(--warn); }
+  a.src { color: var(--accent-ink); text-decoration: none; font-weight: 600; white-space: nowrap; }
+  a.src:hover { text-decoration: underline; }
+  a.src:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+
+  .notes { margin-top: 44px; border-top: 1px solid var(--line); padding-top: 22px; }
+  .notes h2 { font-size: 15px; margin: 0 0 6px; }
+  .notes p, .notes li { color: var(--ink-2); font-size: 13.5px; }
+  .notes ol { padding-left: 20px; }
+  .notes li { margin-bottom: 5px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 14px; margin: 14px 0 0; font-size: 12.5px; color: var(--ink-2); }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .empty { text-align: center; color: var(--ink-3); padding: 40px; font-style: italic; }
+  .updated { margin-top: 20px; font-family: var(--mono); font-size: 12px; color: var(--ink-3);
+    letter-spacing: .02em; }
+  .updated time { color: var(--ink-2); font-weight: 600; }
+  @media (max-width: 620px) { .desc { max-width: none; } .wrap { padding: 28px 16px 60px; } }
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <p class="eyebrow">OpenReview · NeurIPS.cc/2026/Workshop</p>
+    <h1>NeurIPS 2026 Workshops</h1>
+    <p class="sub">All 73 accepted workshop sub-groups, pulled from the OpenReview REST API and enriched from each
+      workshop's own site. Submission deadlines marked <strong>OpenReview-confirmed</strong> come from the live
+      submission invitation; the rest are site-reported and more likely to shift.</p>
+    <div class="venues-line">
+      <span><b>Sydney</b> — main venue, workshops Dec 11–12</span>
+      <span><b>Atlanta</b> — satellite, Dec 12–13</span>
+      <span><b>Paris</b> — satellite, Dec 12–13</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <label class="search">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="q" type="search" placeholder="Search name or topic…" aria-label="Search workshops">
+    </label>
+    <div class="filters" id="venueFilters" role="group" aria-label="Filter by venue">
+      <button class="chip" data-venue="Sydney" aria-pressed="false"><span class="dot" style="--c:var(--syd)"></span>Sydney</button>
+      <button class="chip" data-venue="Atlanta" aria-pressed="false"><span class="dot" style="--c:var(--atl)"></span>Atlanta</button>
+      <button class="chip" data-venue="Paris" aria-pressed="false"><span class="dot" style="--c:var(--par)"></span>Paris</button>
+    </div>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr>
+          <th class="sortable" data-key="acr">Workshop <span class="arr">▲</span></th>
+          <th>Description</th>
+          <th class="sortable" data-key="sortDate">Deadline <span class="arr">▲</span></th>
+          <th class="sortable" data-key="venue">Venue <span class="arr">▲</span></th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>No workshops match your filters.</div>
+  </div>
+
+  <div class="notes">
+    <h2>Reading the data</h2>
+    <div class="legend">
+      <span><em class="status s-or">OpenReview</em> deadline confirmed by the live submission invitation</span>
+      <span><em class="status s-site">site</em> reported only on the workshop's own website</span>
+      <span><em class="status s-tbd">unposted</em> no deadline published yet (or stale/prior-year page)</span>
+    </div>
+    <ol>
+      <li><strong>AI4Mat, EIML, MLForSys</strong> — live sites still show a prior/different edition (ICLR 2026 / ICML 2026 / NeurIPS 2025). MLForSys still has an OpenReview deadline (Aug 28); the other two have no NeurIPS-2026 CFP posted yet.</li>
+      <li><strong>ASCI, InfPriv, MLxOR, ReMuCAI, WiML, NewInML, EvoRobust, AI4GOOD</strong> — no discoverable submission deadline (empty/JS-only/403/404 sites, TBD, or no CFP page found).</li>
+      <li><strong>GenAI4Health</strong> (3 tracks) & <strong>ATTRIB</strong> — sites still serve last year's edition; 2026 deadlines not posted.</li>
+      <li><strong>MATH-AI</strong> & <strong>VERICODEGEN</strong> — the site and OpenReview disagree on the deadline; both shown, verify with organizers.</li>
+      <li><strong>MPLR-FM (PLOM)</strong> — site says "15 Sept 2025," almost certainly a typo for 2026.</li>
+      <li><strong>SocialAgent</strong> — site shows "April 1, 2026," which predates the proposal cycle and is likely a stale prior-year date.</li>
+      <li><strong>Simbiochem</strong> — accepted as a EurIPS workshop; CFP closed, site was unreachable.</li>
+      <li>All <strong>locations</strong> are confirmed from OpenReview <code>content.location</code>; none needed "Unconfirmed." GenAI4Health & NeurReps each appear as 3 submission tracks of one workshop; QueerInAI & WiML run at all three venues.</li>
+    </ol>
+    <p class="updated">Last updated <time datetime="2026-07-24">24 July 2026</time> · data from the OpenReview REST API and workshop websites</p>
+  </div>
+</div>
+
+<script>
+const DATA = [
+ ["Africa_in_AI","","Elevating African-led AI toward trustworthy, resource-efficient solutions for African contexts","Aug 10 (visa) / Sep 10","2026-09-10","site","Sydney","https://africainai.mailab.io/"],
+ ["AI-Native_Academia","","Rethinking authorship, peer review and governance when LLMs/agents join the research pipeline","Aug 30","2026-08-30","or","Atlanta","https://ai-native-academia.github.io"],
+ ["AI4ChipDesign","","Bringing AI researchers together with semiconductor/chip-design practitioners","Aug 30","2026-08-30","site","Paris","https://neurips-ai-for-chip-design-2026.github.io/"],
+ ["AI4DD","","Closing the gap between AI benchmark wins and real-world impact in drug discovery","Aug 29","2026-08-29","site","Sydney","https://ai4dd-neurips2026.github.io/"],
+ ["AI4GOOD","","Linking trustworthy/safe AI advances to real-world societal deployment","TBD","9999-12-31","tbd","Paris","https://trustworthy-ai-for-good.github.io/"],
+ ["AI4Mat","","AI for accelerated materials discovery — feedback-driven design, multi-modal representations","Not posted","9999-12-31","tbd","Sydney","https://sites.google.com/view/ai4mat/home"],
+ ["AI4MetaScience","","Keeping peer review, reproducibility and evaluation viable as AI produces papers at scale","Aug 29 (paper)","2026-08-29","site","Paris","https://ai4metascience.org/"],
+ ["AI_and_the_Self","","How AI constructs, extends or destabilizes human identity, authenticity and agency","Aug 24","2026-08-24","site","Paris","https://aintheself.github.io/"],
+ ["ASCI","","AI at scale for clinical impact — cancer pathology foundation models","Not posted","9999-12-31","tbd","Sydney","https://asci.artificialintelligencepathology.org/"],
+ ["ATTRIB","","Attributing model behavior to data, algorithms, architecture and scale","Not posted","9999-12-31","tbd","Sydney","https://attrib-workshop.cc/"],
+ ["AutoMLR","","Autonomous ML research assessed via independent review, foregrounding human judgment","Aug 22 (abstract)","2026-08-22","site","Sydney","https://automlr.com"],
+ ["AXIOM","","Predictive principles linking deep-learning theory to efficient AI system design","Aug 29","2026-08-29","site","Paris","https://axiom-neurips2026.github.io/"],
+ ["Child_Safety_in_AI","","Technical and sociotechnical approaches to keeping children safe within AI systems","Aug 29","2026-08-29","site","Atlanta","https://childsafety-ai.github.io/"],
+ ["CL4FMAgents","","Continual learning at the intersection of foundation models and embodied agents","Aug 29","2026-08-29","site","Sydney","https://neurips26-cl4fmagents.github.io"],
+ ["CLEA","","Continual learning as a core capability for enterprise AI agents","Jul 28","2026-07-28","site","Atlanta","https://clea-neurips.github.io/"],
+ ["CODEC-FM","","Collaborative, open, decentralized training of foundation models across distributed compute","Aug 29","2026-08-29","site","Sydney","https://open-collaborative-decentralized-fomo.github.io/"],
+ ["DynaFront","","Dynamical-systems views unifying optimization, sampling and game theory","Aug 29","2026-08-29","site","Atlanta","https://sites.google.com/view/dynafrontneurips26"],
+ ["EIML","","How ML systems recognize the limits of their own knowledge — uncertainty, hallucination","Not posted","9999-12-31","tbd","Paris","https://epistemic-intelligence-in-ml.github.io"],
+ ["EvoRobust","","Self-evolving, diversity-driven search for robust AI systems","Not posted","9999-12-31","tbd","Sydney","https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust"],
+ ["FAST","","Theory of system-level behavior and risk in populations of LLM agents","Aug 29","2026-08-29","site","Paris","https://fast-workshop.github.io"],
+ ["FLMSec","","Foundations of LLM security — from reactive attack/defense toward secure-by-design","Aug 22","2026-08-22","site","Paris","https://flmsec.github.io/"],
+ ["GDDL","","Jointly modeling geometry and distribution of data; optimal transport meets structured data","Aug 29","2026-08-29","site","Paris","https://gddl-neurips-2026.github.io"],
+ ["GenAI4Health","main track","Generative AI in healthcare — potential, trustworthiness, regulatory compliance","Not posted","9999-12-31","tbd","Sydney","https://genai4health.github.io/"],
+ ["GenAI4Health","Demonstration track","Demonstration-paper track of the GenAI-for-Health workshop","Not posted","9999-12-31","tbd","Sydney","https://genai4health.github.io/"],
+ ["GenAI4Health","Position track","Position-paper track of the GenAI-for-Health workshop","Not posted","9999-12-31","tbd","Sydney","https://genai4health.github.io/"],
+ ["IAB","","Interpreting agent behavior across agents, humans and their interaction","Aug 29 + Oct 1 (reviews track)","2026-08-29","site","Sydney","https://iab-agents.github.io/"],
+ ["IAEval","","Rigorous, scalable, scientific methods for evaluating interactive agents","Aug 29","2026-08-29","site","Atlanta","https://eval-interactive-agents-workshop.github.io/"],
+ ["ICBINB-BIO","","Why strong-benchmark AI models fail on new biology — failure modes and robustness","Aug 29 (tentative)","2026-08-29","site","Sydney","https://icbinb-bio.github.io/"],
+ ["InfPriv","","Privacy in ML beyond training — inference and deployment","Not posted","9999-12-31","tbd","Sydney","https://beyond-private-training.ai.studio/"],
+ ["Interp4Discovery","","Turning interpretable model representations into testable scientific knowledge","Aug 29","2026-08-29","site","Atlanta","https://interpretability4discovery.github.io/"],
+ ["JUDGe","","Building reliable LLM-based evaluators and checking they measure what they claim","Aug 29","2026-08-29","site","Atlanta","https://judge2026.github.io"],
+ ["LIGHT","","Small, trustworthy, energy-efficient models for real-world/regulated deployment","Aug 29","2026-08-29","site","Paris","https://almaai-disi-unibo.github.io/neurips2026-light-smallModels/"],
+ ["LP4FM","","Treating the linguistic/symbolic medium of foundation models as a first-class design axis","Aug 30","2026-08-30","or","Sydney","https://lp4fm.github.io/"],
+ ["LXAI","","LatinX in AI — showcasing ML/AI work from LatinX researchers and allies","Aug 20","2026-08-20","site","Sydney","https://www.latinxinai.org/neurips-2026"],
+ ["MATH-AI","","AI across mathematical research and reasoning, emphasizing agentic AI (6th)","Sep 25 (site) / Aug 30 (OR)","2026-08-30","or","Atlanta","https://mathai-2026.github.io/"],
+ ["Meta-Agents","","Agents that design, supervise, train or improve other agents","Aug 29","2026-08-29","site","Sydney","https://meta-agents-workshop.github.io/"],
+ ["ML4Molecules","","Agentic AI for molecular science — baselines, benchmarks, negative results","Aug 29","2026-08-29","or","Paris","https://moleculediscovery.github.io/workshop2026/"],
+ ["ML4SpatialBio","","ML for spatially-resolved, high-dimensional biology (spatial multiomics, tissue-scale)","Aug 29","2026-08-29","site","Paris","https://imsb-uke.github.io/ml4spatialbio-2026/"],
+ ["MLForSys","","Supervised/RL methods replacing hand-tuned heuristics in computer systems","Aug 28","2026-08-28","or","Sydney","https://mlforsystems.org"],
+ ["MLxOR","","Intersection of ML and operations research for uncertainty-aware decision-making","Not posted","9999-12-31","tbd","Atlanta","https://mlxor-2026.github.io/"],
+ ["MPLR-FM","PLOM","Privacy challenges from foundation models, LLMs and agentic systems","Sep 15 (verify)","2026-09-15","site","Paris","https://neurips-workshop2026.github.io/foundation_model_agentic_privacy/"],
+ ["MusIML","","Amplifying Muslim researchers in ML and topics relevant to Muslim communities (7th)","Aug 10 (visa) / Sep 10","2026-09-10","site","Sydney","https://www.musiml.org/"],
+ ["NeurReps","Extended Abstracts","Geometric/symmetry principles shared by biological and artificial neural systems","Aug 22","2026-08-22","site","Sydney","https://neurreps.org/"],
+ ["NeurReps","Findings","Same workshop — Findings track","Aug 22","2026-08-22","site","Sydney","https://neurreps.org/"],
+ ["NeurReps","Proceedings","Same workshop — Proceedings track","Aug 22","2026-08-22","site","Sydney","https://neurreps.org/"],
+ ["NewInML","","Introducing newcomers to the ML research community and first-time authors","Not posted","9999-12-31","tbd","Paris","https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NewInML"],
+ ["ODI","","Running foundation models on-device under real-world resource constraints","Aug 29","2026-08-29","site","Sydney","https://odi2026.github.io/"],
+ ["OPT","","Optimization for ML — themed “Can Anything Beat Adam?”","Sep 4","2026-09-04","site","Sydney","https://opt-ml.org/"],
+ ["PALM","","Personalized, aligned, long-term memory for AI systems and agents","Aug 24","2026-08-24","site","Paris","https://palm-neurips-2026.github.io/"],
+ ["PhysUnderstand","PUDM","Giving AI enough physical understanding for dependable embodied decisions","Aug 26","2026-08-26","site","Sydney","https://sites.google.com/view/neurips-2026-workshop-pudm"],
+ ["PTA","","Turning pretrained representations into effective behavior for sequential decisions","Aug 20","2026-08-20","site","Sydney","https://ptaworkshop.github.io/"],
+ ["QueerInAI","","Community space for queer researchers at the intersection of AI/ML and queerness","Sep 3 (site) / Sep 11 (OR)","2026-09-11","or","Multi","https://www.queerinai.com/neurips-2026"],
+ ["RCMLR","","Closing the gap between ML researchers and biomedicine clinicians/policymakers","Aug 30","2026-08-30","or","Sydney","https://translatingmlresearch.github.io/RCMLR/"],
+ ["ReMuCAI","","Real-time multimodal conversational agents (speech, video, sensors)","Not posted","9999-12-31","tbd","Paris","https://sites.google.com/view/remucai"],
+ ["RL4XS","","RL for real-world experimental science and autonomous labs","Aug 29","2026-08-29","site","Paris","https://rl-experimental-sciences-workshop.github.io/"],
+ ["RoboPAD","","Post-training adaptation, reasoning and evaluation of robot foundation models","Aug 29","2026-08-29","site","Paris","https://robotpad2026.github.io/"],
+ ["RoCo-Spring","competition","Benchmarking robustness of optical flow / stereo / scene flow to corruptions","Sep 15","2026-09-15","site","Sydney","https://roco-spring.github.io/"],
+ ["RPS","","Representations for the physical sciences (self-supervision, transfer, tokenization)","Aug 29","2026-08-29","site","Paris","https://representations-physical-sciences.github.io/workshop-2026/"],
+ ["RTCA","","Real-time multimodal conversational agents — latency, streaming, interaction","Aug 29","2026-08-29","site","Sydney","https://rtcaneurips26.github.io/"],
+ ["SaTQuML","","Secure and trustworthy quantum machine learning","Aug 29","2026-08-29","site","Atlanta","https://satquml.github.io/"],
+ ["Sim2Sci","","Making best use of imperfect scientific simulators combined with real data","Aug 29","2026-08-29","site","Paris","https://www.sim2science.com/"],
+ ["Simbiochem","EurIPS","Bridging scalable ML with rigorous molecular simulation","Aug 29 (closed)","2026-08-29","or","Sydney","https://www.simbiochem.com"],
+ ["SLM-Agents","","Small language models as the backbone of agentic AI on constrained devices","Aug 22","2026-08-22","site","Paris","https://slmw2026.github.io/"],
+ ["SocialAgent","","LLMs as agents to simulate/analyze social behavior","Apr 1 (stale?)","2026-04-01","tbd","Atlanta","https://social-llm-workshop.github.io/"],
+ ["STODY","","ML for systems governed by stochastic / random dynamics","Aug 29","2026-08-29","site","Sydney","https://eethanshi.github.io/stochastic-dynamics-2026/"],
+ ["TCCML","","Applying ML to climate change mitigation, adaptation and climate science","Abstract Aug 22 / Paper Aug 30","2026-08-30","or","Sydney","https://www.climatechange.ai/events/neurips2026"],
+ ["TTCL","","Agents that keep learning after deployment without catastrophic forgetting","Aug 29","2026-08-29","site","Atlanta","https://ttcl-agents.github.io"],
+ ["Verify-Agents","","Reliable verification of AI-agent improvements as a foundational discipline","Aug 29","2026-08-29","site","Sydney","https://verify-agents-workshop.github.io/"],
+ ["VERICODEGEN","","Verifiable code generation with proof assistants, model checkers and SMT solvers","Abstract Sep 8 / Paper Sep 10 (site); OR Aug 27","2026-08-27","or","Atlanta","https://vericodegen.github.io/"],
+ ["VLM4RWD","","Grounded, faithful vision-language models for real-world deployment","Aug 31","2026-08-31","or","Sydney","https://vlm4rwd.github.io"],
+ ["WiML","","Women in Machine Learning — supporting women and underrepresented researchers","Not posted","9999-12-31","tbd","Multi","https://www.wiml.org/"],
+ ["WM_PAI","","World models for physical AI — learned models that simulate, plan and act","Aug 29","2026-08-29","site","Sydney","http://www.worldmodels-physicalai.com/"],
+ ["XAI4Science","","Explainable-AI techniques applied to interpretable foundation models for science","Aug 29","2026-08-29","site","Sydney","https://xai4science.github.io/"]
+];
+
+const COL = {acr:0, track:1, desc:2, dl:3, sortDate:4, status:5, venue:6, url:7};
+const rowsEl = document.getElementById('rows');
+const qEl = document.getElementById('q');
+const countEl = document.getElementById('count');
+const emptyEl = document.getElementById('empty');
+const activeVenues = new Set();
+let sortKey = 'acr', sortDir = 1;
+
+const statusLabel = {or:'OpenReview', site:'site', tbd:'unposted'};
+function venueBadge(v){
+  const cls = (v==='Multi') ? 'v-Multi' : 'v-'+v;
+  const dotVar = v==='Sydney'?'--syd':v==='Atlanta'?'--atl':v==='Paris'?'--par':'--multi';
+  const label = v==='Multi' ? 'Sydney·Paris·Atlanta' : v;
+  return `<span class="badge ${cls}"><span class="dot" style="background:var(${dotVar})"></span>${label}</span>`;
+}
+function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
+
+function render(){
+  const q = qEl.value.trim().toLowerCase();
+  let rows = DATA.filter(r => {
+    if (activeVenues.size){
+      const v = r[COL.venue];
+      const ok = v==='Multi' ? true : activeVenues.has(v);
+      if (!ok) return false;
+    }
+    if (q){
+      return (r[COL.acr]+' '+r[COL.track]+' '+r[COL.desc]).toLowerCase().includes(q);
+    }
+    return true;
+  });
+  rows.sort((a,b) => {
+    let av=a[COL[sortKey]], bv=b[COL[sortKey]];
+    if (sortKey==='acr'){ av=av.toLowerCase(); bv=bv.toLowerCase(); }
+    return (av<bv?-1:av>bv?1:0)*sortDir;
+  });
+  rowsEl.innerHTML = rows.map(r => {
+    const track = r[COL.track] ? `<span class="track">${esc(r[COL.track])}</span>` : '';
+    const st = r[COL.status];
+    const stHtml = `<span class="status s-${st}">${statusLabel[st]}</span>`;
+    return `<tr>
+      <td><span class="acr">${esc(r[COL.acr])}</span>${track}</td>
+      <td class="desc">${esc(r[COL.desc])}</td>
+      <td><span class="dl">${esc(r[COL.dl])}</span>${stHtml}</td>
+      <td>${venueBadge(r[COL.venue])}</td>
+      <td><a class="src" href="${r[COL.url]}" target="_blank" rel="noopener">Open ↗</a></td>
+    </tr>`;
+  }).join('');
+  emptyEl.hidden = rows.length > 0;
+  countEl.textContent = rows.length + ' / ' + DATA.length + ' workshops';
+}
+
+qEl.addEventListener('input', render);
+document.getElementById('venueFilters').addEventListener('click', e => {
+  const btn = e.target.closest('.chip'); if(!btn) return;
+  const v = btn.dataset.venue;
+  if (activeVenues.has(v)){ activeVenues.delete(v); btn.setAttribute('aria-pressed','false'); }
+  else { activeVenues.add(v); btn.setAttribute('aria-pressed','true'); }
+  render();
+});
+document.querySelectorAll('th.sortable').forEach(th => {
+  th.addEventListener('click', () => {
+    const k = th.dataset.key;
+    if (sortKey===k){ sortDir*=-1; } else { sortKey=k; sortDir=1; }
+    document.querySelectorAll('th.sortable').forEach(x=>x.removeAttribute('data-dir'));
+    th.setAttribute('data-dir', sortDir>0?'asc':'desc');
+    th.querySelector('.arr').textContent = sortDir>0?'▲':'▼';
+    render();
+  });
+});
+render();
+</script>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>NeurIPS 2026 Workshop Hall — 102 Workshops</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:100%; height:100%; overflow:hidden; background:#e9e2d6;
+    font-family:"Avenir Next","Segoe UI","PingFang SC","Microsoft YaHei",sans-serif; }
+  #app { position:fixed; inset:0; }
+  canvas { display:block; }
+
+  /* ---------- overlay ---------- */
+  #overlay { position:fixed; inset:0; z-index:40; display:flex; align-items:center; justify-content:center;
+    background:radial-gradient(ellipse at 50% 40%, #f6f1e7 0%, #e6ddcc 70%, #d9cfba 100%);
+    transition:opacity .5s; }
+  #overlay.hidden { opacity:0; pointer-events:none; }
+  .panel { text-align:center; max-width:640px; padding:44px 48px; background:rgba(255,253,248,.86);
+    border:1px solid #d4c8b0; border-radius:14px; box-shadow:0 24px 60px rgba(120,100,70,.18); }
+  .panel h1 { font-size:30px; color:#4a3f2e; letter-spacing:.5px; margin-bottom:6px; font-weight:700; }
+  .panel h2 { font-size:15px; color:#8a7a5c; font-weight:500; margin-bottom:22px; }
+  .controls-grid { display:grid; grid-template-columns:auto 1fr; gap:7px 16px; text-align:left;
+    font-size:14px; color:#5d5138; margin:0 auto 24px; max-width:420px; }
+  .key { background:#efe7d6; border:1px solid #cfc0a2; border-radius:5px; padding:1px 9px;
+    font-family:ui-monospace,Menlo,monospace; font-size:12.5px; color:#6b5b3c; text-align:center; white-space:nowrap; }
+  #enterBtn { font-size:17px; padding:13px 46px; border:none; border-radius:9px; cursor:pointer;
+    background:#8a6d3f; color:#fdf9f0; letter-spacing:2px; transition:background .2s, transform .1s; }
+  #enterBtn:hover { background:#755a31; } #enterBtn:active { transform:scale(.97); }
+  #enterBtn:disabled { background:#b7a888; cursor:wait; }
+  #loadInfo { margin-top:14px; font-size:12.5px; color:#9a8b6d; }
+  .legend { margin-top:18px; font-size:12.5px; color:#9a8b6d; display:flex; gap:18px; justify-content:center; }
+
+  /* ---------- HUD ---------- */
+  #hud { position:fixed; inset:0; z-index:20; pointer-events:none; display:none; }
+  #hud.on { display:block; }
+  #topbar { position:absolute; top:0; left:0; right:0; display:flex; align-items:center; gap:8px;
+    padding:10px 14px; background:linear-gradient(rgba(60,48,30,.42), rgba(60,48,30,0)); }
+  .tbtn { pointer-events:auto; border:1px solid rgba(255,250,238,.45); background:rgba(52,42,26,.55);
+    color:#f3ead8; font-size:13px; padding:6px 14px; border-radius:7px; cursor:pointer; backdrop-filter:blur(3px);
+    transition:background .15s; }
+  .tbtn:hover { background:rgba(120,95,55,.75); }
+  .tbtn small { opacity:.7; font-size:10.5px; margin-left:4px; }
+  #crumb { display:none; color:#f3ead8; font-size:13px; background:rgba(52,42,26,.55);
+    border:1px solid rgba(255,250,238,.35); padding:6px 12px; border-radius:7px;
+    backdrop-filter:blur(3px); max-width:52vw; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  #crumb.on { display:block; }
+  #crumb b { color:#ffd98f; font-weight:600; }
+  #backBtn { display:none; pointer-events:auto; border:1px solid rgba(255,217,143,.6);
+    background:rgba(120,90,40,.7); color:#ffe9bd; font-size:13px; padding:6px 14px;
+    border-radius:7px; cursor:pointer; backdrop-filter:blur(3px); transition:background .15s; }
+  #backBtn:hover { background:rgba(150,112,50,.85); }
+  #counter { margin-left:auto; color:#f3ead8; font-size:13px; background:rgba(52,42,26,.55);
+    border:1px solid rgba(255,250,238,.35); padding:6px 12px; border-radius:7px; backdrop-filter:blur(3px); }
+  #crosshair { position:absolute; left:50%; top:50%; width:6px; height:6px; margin:-3px;
+    border-radius:50%; background:rgba(255,250,235,.9); box-shadow:0 0 6px rgba(0,0,0,.5); }
+  #crosshair.hot { background:#ffd489; transform:scale(1.5); }
+
+  #infocard { position:absolute; left:50%; bottom:46px; transform:translateX(-50%); width:min(560px,92vw);
+    background:rgba(253,250,243,.94); border:1px solid #cbba98; border-radius:12px; padding:16px 20px;
+    box-shadow:0 14px 40px rgba(80,64,38,.3); display:none; pointer-events:auto; }
+  #infocard.on { display:block; }
+  #infocard .venue { font-size:11.5px; letter-spacing:1.5px; text-transform:uppercase; color:#a08c60; margin-bottom:4px; }
+  #infocard .name { font-size:16.5px; font-weight:600; color:#43351f; line-height:1.35; margin-bottom:8px; }
+  #infocard a { font-size:13.5px; color:#7a5c26; text-decoration:none; border-bottom:1px dashed #b3945a; }
+  #infocard a:hover { color:#5c4312; }
+  #infocard .nourl { font-size:13px; color:#a99a7c; }
+  #infocard .hint { margin-top:8px; font-size:11.5px; color:#b0a184; }
+
+  #hint { position:absolute; bottom:12px; left:50%; transform:translateX(-50%); color:rgba(250,244,230,.85);
+    font-size:12px; text-shadow:0 1px 3px rgba(0,0,0,.4); }
+  #resume { position:absolute; top:64px; left:50%; transform:translateX(-50%); display:none;
+    background:rgba(253,250,243,.92); border:1px solid #cbba98; border-radius:999px;
+    color:#6b5b3c; font-size:13px; padding:8px 20px; box-shadow:0 8px 24px rgba(80,64,38,.25); }
+  #resume.on { display:block; }
+
+  /* ---------- room directory ---------- */
+  #dirPanel { position:fixed; inset:0; z-index:30; display:none; align-items:center; justify-content:center;
+    background:rgba(40,32,20,.45); backdrop-filter:blur(4px); }
+  #dirPanel.on { display:flex; }
+  #dirBox { width:min(860px,94vw); max-height:82vh; display:flex; flex-direction:column;
+    background:#faf6ec; border:1px solid #cfc0a2; border-radius:14px; box-shadow:0 24px 70px rgba(60,48,28,.35);
+    overflow:hidden; }
+  #dirHead { display:flex; align-items:center; gap:12px; padding:14px 18px; border-bottom:1px solid #e2d8c2;
+    font-size:15px; font-weight:600; color:#4a3f2e; }
+  #dirSearch { flex:1; padding:7px 12px; border:1px solid #cfc0a2; border-radius:8px; font-size:13.5px;
+    background:#fffdf7; color:#4a3f2e; outline:none; }
+  #dirClose { border:none; background:#efe7d6; border-radius:7px; padding:6px 12px; cursor:pointer; color:#6b5b3c; }
+  #dirClose:hover { background:#e2d5ba; }
+  #dirList { overflow-y:auto; padding:10px 14px; }
+  .dirVenue { margin:12px 4px 6px; font-size:12px; letter-spacing:1.5px; text-transform:uppercase; color:#a08c60;
+    border-bottom:1px solid #e6dcc6; padding-bottom:4px; }
+  .dirItem { display:block; width:100%; text-align:left; border:none; background:none; cursor:pointer;
+    padding:8px 10px; border-radius:8px; font-size:13.5px; color:#43351f; line-height:1.35; }
+  .dirItem:hover { background:#f0e8d6; }
+  .dirItem .v { font-size:11px; color:#a08c60; margin-right:8px; font-family:ui-monospace,Menlo,monospace; }
+
+  /* ---------- in-room prev/next ---------- */
+  #roomNav { position:absolute; bottom:14px; left:50%; transform:translateX(-50%); display:none; gap:10px; }
+  #roomNav.on { display:flex; }
+  #roomNav button { pointer-events:auto; border:1px solid rgba(255,250,238,.45); background:rgba(52,42,26,.6);
+    color:#f3ead8; font-size:13px; padding:7px 18px; border-radius:8px; cursor:pointer; backdrop-filter:blur(3px); }
+  #roomNav button:hover { background:rgba(120,95,55,.8); }
+
+  /* ---------- mobile controls ---------- */
+  #joy { position:absolute; left:26px; bottom:30px; width:110px; height:110px; border-radius:50%;
+    border:2px solid rgba(255,250,238,.5); background:rgba(52,42,26,.3); display:none; pointer-events:auto; }
+  #joyKnob { position:absolute; left:50%; top:50%; width:46px; height:46px; margin:-23px;
+    border-radius:50%; background:rgba(243,234,216,.85); }
+  body.touch #joy { display:block; }
+  body.touch #hint { display:none; }
+</style>
+</head>
+<body>
+<div id="app"></div>
+
+<div id="hud">
+  <div id="topbar">
+    <button class="tbtn" data-tp="hall">中央大厅</button>
+    <button class="tbtn" data-tp="sydney">Sydney<small>48</small></button>
+    <button class="tbtn" data-tp="paris">Paris<small>28</small></button>
+    <button class="tbtn" data-tp="atlanta">Atlanta<small>26</small></button>
+    <button class="tbtn" id="dirBtn">全部房间</button>
+    <span id="crumb"></span>
+    <button id="backBtn">← 返回大厅</button>
+    <span id="counter">—</span>
+  </div>
+  <div id="crosshair"></div>
+  <div id="infocard">
+    <div class="venue" id="icVenue"></div>
+    <div class="name" id="icName"></div>
+    <div id="icLink"></div>
+    <div class="hint" id="icHint"></div>
+  </div>
+  <div id="hint">WASD 移动 · Shift 加速 · 对准展位按 E 进入专属房间 · Esc 释放鼠标</div>
+  <div id="resume">已暂停 · 点击画面继续漫游（可直接点击上方按钮切换展厅）</div>
+
+  <!-- room directory -->
+  <div id="dirPanel">
+    <div id="dirBox">
+      <div id="dirHead">
+        <span>选择 Workshop 房间（102）</span>
+        <input id="dirSearch" placeholder="搜索名称 / 关键词…">
+        <button id="dirClose">✕</button>
+      </div>
+      <div id="dirList"></div>
+    </div>
+  </div>
+
+  <!-- in-room prev / next -->
+  <div id="roomNav">
+    <button id="prevRoom">← 上一个</button>
+    <button id="nextRoom">下一个 →</button>
+  </div>
+  <div id="joy"><div id="joyKnob"></div></div>
+</div>
+
+<div id="overlay">
+  <div class="panel">
+    <h1>NeurIPS 2026 Workshop Hall</h1>
+    <h2>102 Workshops · Sydney / Paris / Atlanta · 3D 虚拟展厅</h2>
+    <div class="controls-grid">
+      <span class="key">W A S D / 方向键</span><span>移动</span>
+      <span class="key">鼠标</span><span>环视（点击进入指针锁定）</span>
+      <span class="key">Shift</span><span>加速移动</span>
+      <span class="key">点击展位 / E</span><span>进入该 Workshop 专属房间（房间内再按 E 访问官网）</span>
+      <span class="key">Esc</span><span>释放鼠标 / 返回菜单</span>
+      <span class="key">触屏</span><span>左半屏虚拟摇杆移动，右半屏拖动视角</span>
+    </div>
+    <button id="enterBtn" disabled>加载中…</button>
+    <div id="loadInfo">正在加载 102 个展位资源…</div>
+    <div class="legend">
+      <span>■ Sydney · Dec 11–12, 2026</span>
+      <span>■ Paris · Dec 12–13, 2026</span>
+      <span>■ Atlanta · Dec 12–13, 2026</span>
+    </div>
+  </div>
+</div>
+
+<script type="importmap">
+{ "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js" } }
+</script>
+<script type="module" src="main.js"></script>
+</body>
+</html>

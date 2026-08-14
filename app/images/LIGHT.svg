@@ -1,0 +1,48 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#0B1020"/>
+  <defs>
+    <linearGradient id="g1" x1="154" y1="112" x2="1040" y2="796" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4D5A" stop-opacity="0.82"/>
+      <stop offset="0.5" stop-color="#7AA2FF" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="176" y1="182" x2="986" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7AA2FF" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <circle cx="880" cy="220" r="210" fill="url(#g1)" fill-opacity="0.26"/>
+  <circle cx="350" cy="650" r="260" fill="#FF4D5A" fill-opacity="0.07"/>
+  <path d="M146 610C240 470 354 403 512 360C689 311 835 343 1007 255" stroke="url(#g1)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M170 290C292 380 425 438 584 450C775 465 887 418 1050 292" stroke="url(#g2)" stroke-width="5" stroke-linecap="round"/>
+  <g opacity="0.92">
+    <circle cx="156" cy="610" r="18" fill="#FF4D5A"/>
+    <circle cx="334" cy="497" r="15" fill="#FF7A7A"/>
+    <circle cx="513" cy="360" r="18" fill="#FFFFFF"/>
+    <circle cx="694" cy="342" r="16" fill="#7AA2FF"/>
+    <circle cx="892" cy="293" r="18" fill="#FF4D5A"/>
+    <circle cx="1050" cy="255" r="15" fill="#FFFFFF"/>
+  </g>
+  <g opacity="0.95">
+    <rect x="76" y="72" width="260" height="54" rx="27" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="110" y="108" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">LIGHT / NeurIPS 2026</text>
+  </g>
+  <text x="76" y="225" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="800">Lightweight, Trustworthy</text>
+  <text x="76" y="300" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="800">Foundation Models</text>
+  <text x="76" y="377" fill="#DCE4FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">Compact • Trustworthy • Energy-Efficient AI</text>
+  <text x="76" y="435" fill="#B7BFDC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="400">Real-world deployment under operational constraints</text>
+
+  <g opacity="0.95">
+    <rect x="76" y="708" width="208" height="72" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="100" y="744" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Distillation</text>
+    <text x="100" y="771" fill="#B7BFDC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Smaller, faster, cheaper</text>
+
+    <rect x="304" y="708" width="208" height="72" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="328" y="744" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Trust</text>
+    <text x="328" y="771" fill="#B7BFDC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Explainable and safe</text>
+
+    <rect x="532" y="708" width="208" height="72" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="556" y="744" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Deployment</text>
+    <text x="556" y="771" fill="#B7BFDC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Edge and industry-ready</text>
+  </g>
+</svg>

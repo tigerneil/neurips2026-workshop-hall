@@ -1,0 +1,25 @@
+.DS_Store
+*.zip
+
+# scratch screenshots / verification artifacts (root only)
+/shots/
+/t_*.png
+/t[0-9]*.png
+/d[0-9]*.png
+/f[0-9]*.png
+/v[0-9]*.png
+/verify*.png
+
+# test scripts / logs (root only)
+/test*.py
+/test*.txt
+/t_yaw.py
+
+# raw working data (duplicated inside app/)
+/neurips2026_workshop_images/
+/neurips2026_showcase/
+/hall_data.json
+/rooms_data.json
+/neurips_200_CallForWorkshops.html
+/neurips_404_workshops.html.html
+/ai4mat_search/

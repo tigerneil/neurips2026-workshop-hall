@@ -1,0 +1,1407 @@
+[
+  {
+    "venue": "Sydney",
+    "idx": 1,
+    "name": "Workshop on the Linguistic Principles for Foundation Models",
+    "url": "https://lp4fm.github.io/",
+    "desc": "Making the linguistic medium a first-class design axis for foundation models.",
+    "topics": [
+      "language models",
+      "Linguistic Principles",
+      "Foundation Models"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 2,
+    "name": "DiffuLM – Diffusion Language Models: Foundations, Efficiency, and Reasoning",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on DiffuLM.",
+    "topics": [
+      "generative modeling",
+      "DiffuLM Diffusion",
+      "Language Models",
+      "Foundations Efficiency",
+      "Reasoning"
+    ],
+    "accent": "#a8895a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 3,
+    "name": "Beyond Next Token Prediction: Diffusion and Flow Models for Next-Generation Decoding",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on beyond Next Token Prediction.",
+    "topics": [
+      "generative modeling",
+      "Token Prediction",
+      "Diffusion Flow",
+      "Models Next-Generation",
+      "Decoding"
+    ],
+    "accent": "#a8895a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 4,
+    "name": "Real-Time Conversational Agents: Toward Natural Multimodal Interaction",
+    "url": "https://rtcaneurips26.github.io/",
+    "desc": "An official NeurIPS 2026 workshop in Sydney. A full-day workshop on real-time generation, interactional naturalness, and evaluation of live multimodal conversational systems.",
+    "topics": [
+      "multimodal learning",
+      "Real-Time Conversational",
+      "Agents Natural",
+      "Multimodal Interaction"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 5,
+    "name": "AI for Science: Verification in the Age of AI Scientists",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on AI for Science.",
+    "topics": [
+      "AI for science",
+      "Science Verification",
+      "Scientists"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 6,
+    "name": "AI for Stochastic Dynamics: From Theoretical Foundations to Scientific Applications",
+    "url": "https://eethanshi.github.io/stochastic-dynamics-2026/",
+    "desc": "A NeurIPS 2026 workshop in Sydney bridging the mathematical foundations of stochastic dynamics and scientific applications.",
+    "topics": [
+      "theory & math",
+      "Stochastic Dynamics",
+      "Theoretical Foundations",
+      "Scientific Applications"
+    ],
+    "accent": "#90826e"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 7,
+    "name": "On-Device Intelligence: Foundation Models under Real-World Constraints",
+    "url": "https://odi2026.github.io/",
+    "desc": "On-Device Intelligence · NeurIPS 2026 Workshop",
+    "topics": [
+      "efficient ML",
+      "On-Device Intelligence",
+      "Foundation Models",
+      "under",
+      "Real-World Constraints"
+    ],
+    "accent": "#a08656"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 8,
+    "name": "Foundation Models for Temporal Systems: From Forecasting to World Modeling",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on foundation Models for Temporal Systems.",
+    "topics": [
+      "efficient ML",
+      "Foundation Models",
+      "Temporal Systems",
+      "Forecasting World",
+      "Modeling"
+    ],
+    "accent": "#a08656"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 9,
+    "name": "Workshop for Autonomous Machine Learning Research",
+    "url": "https://automlr.com",
+    "desc": "A discussant-led workshop rethinking how autonomous research enters the machine learning community.",
+    "topics": [
+      "Autonomous Machine",
+      "Learning Research"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 10,
+    "name": "Optimization for Machine Learning",
+    "url": "https://opt-ml.org/",
+    "desc": "OPT 2026: Optimization for Machine Learning OPT2026 Optimization for Machine Learning Site menu: Home CFP Invited Talks Papers Schedule OPT2026 We welcome you to participate in the 18th International OPT Workshop on Optimization for Machine Learning, to be held as a part of the NeurIPS 2026 confe...",
+    "topics": [
+      "Optimization Machine",
+      "Learning"
+    ],
+    "accent": "#96714f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 11,
+    "name": "Dynamic Alignment in Human-AI Coupled Systems",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on dynamic Alignment in Human-AI Coupled Systems.",
+    "topics": [
+      "trust & safety",
+      "Dynamic Alignment",
+      "Human-AI Coupled",
+      "Systems"
+    ],
+    "accent": "#9a6f63"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 12,
+    "name": "AI at Scale for Clinical Impact (ASCI): Cancer Pathology Foundation Models",
+    "url": "https://asci.artificialintelligencepathology.org/",
+    "desc": "NeurIPS 2026 workshop in Sydney, Australia. Abstract registration (required) August 20, 2026; full paper deadline August 29, 2026.",
+    "topics": [
+      "AI for science",
+      "Scale Clinical",
+      "Impact ASCI",
+      "Cancer Pathology",
+      "Foundation Models"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 13,
+    "name": "VLM4RWD: Grounded and Faithful Vision-Language Models for Real-World Deployment",
+    "url": "https://vlm4rwd.github.io",
+    "desc": "Grounded and Faithful Vision-Language Models for Real-World Deployment. Join us at NeurIPS 2026 in Sydney, Australia to explore the potential of VLMs.",
+    "topics": [
+      "VLM RWD",
+      "Grounded Faithful",
+      "Vision-Language Models",
+      "Real-World Deployment"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 14,
+    "name": "Trustworthy AI Evaluation (TAI-Eval)",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on trustworthy AI Evaluation (TAI-Eval).",
+    "topics": [
+      "trust & safety",
+      "Trustworthy Evaluation",
+      "TAI-Eval"
+    ],
+    "accent": "#9a6f63"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 15,
+    "name": "PTA: From Pretrained Representations to Acting Agents",
+    "url": "https://ptaworkshop.github.io/",
+    "desc": "PTA: From Pretrained Representations to Acting Agents — a NeurIPS 2026 workshop bridging pretraining, planning, and test-time decision making.",
+    "topics": [
+      "agents & RL",
+      "PTA Pretrained",
+      "Representations Acting",
+      "Agents"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 16,
+    "name": "Agentic AI Benchmark and Application for Enterprise Tasks",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on agentic AI Benchmark and Application for Enterprise Tasks.",
+    "topics": [
+      "agents & RL",
+      "Agentic Benchmark",
+      "Application Enterprise",
+      "Tasks"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 17,
+    "name": "Physical Understanding for Decision-Making: Bridging Foundation Models and Reliable Agents",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on physical Understanding for Decision-Making.",
+    "topics": [
+      "agents & RL",
+      "Physical Understanding",
+      "Decision-Making Bridging",
+      "Foundation Models",
+      "Reliable Agents"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 18,
+    "name": "Tackling Climate Change with Machine Learning",
+    "url": "https://www.climatechange.ai/events/neurips2026",
+    "desc": "NeurIPS 2026 Workshop: Tackling Climate Change with Machine Learning",
+    "topics": [
+      "climate & sustainability",
+      "Tackling Climate",
+      "Change Machine",
+      "Learning"
+    ],
+    "accent": "#7d8a5c"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 19,
+    "name": "AI4Mat-NeurIPS-2026",
+    "url": "https://sites.google.com/view/ai4mat/home",
+    "desc": "A NeurIPS 2026 workshop on aI4Mat-NeurIPS-2026. (Official site: https://sites.google.com/view/ai4mat/home; page could not be fetched automatically.)",
+    "topics": [
+      "machine learning",
+      "Mat-NeurIPS"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 20,
+    "name": "AI Foundations for Power Grids: From Models to Deployment at Scale",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on AI Foundations for Power Grids.",
+    "topics": [
+      "efficient ML",
+      "Foundations Power",
+      "Grids Models",
+      "Deployment Scale"
+    ],
+    "accent": "#a08656"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 21,
+    "name": "World Models in Physical AI",
+    "url": "http://www.worldmodels-physicalai.com/",
+    "desc": "A one-day NeurIPS 2026 workshop on learned models of physical-world dynamics for embodied AI. Sydney, December 2026.",
+    "topics": [
+      "multimodal learning",
+      "World Models",
+      "Physical"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 22,
+    "name": "Machine Learning for Systems",
+    "url": "https://mlforsystems.org",
+    "desc": "Workshop on ML for Systems at NIPS 2018 Date December 8th, 2018",
+    "topics": [
+      "efficient ML",
+      "Machine Learning",
+      "Systems"
+    ],
+    "accent": "#a08656"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 23,
+    "name": "The Third Workshop on Agents in the Wild: Safety, Security, and Beyond",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on third Workshop on Agents in the Wild.",
+    "topics": [
+      "agents & RL",
+      "Third Agents",
+      "Wild Safety",
+      "Security"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 24,
+    "name": "Self-Evolving Diversity-Driven Search for Robust AI Systems",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on Self-Evolving Diversity-Driven Search for Robust AI Systems.",
+    "topics": [
+      "efficient ML",
+      "Self-Evolving Diversity-Driven",
+      "Search Robust",
+      "Systems"
+    ],
+    "accent": "#a08656"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 25,
+    "name": "Interpreting Agent Behavior (IAB): Human-Centered Interpretation for Understanding Agents, Humans, and Interaction",
+    "url": "https://iab-agents.github.io/",
+    "desc": "The first NeurIPS 2026 workshop on Interpreting Agent Behavior. Sydney, December 11–12, 2026.",
+    "topics": [
+      "agents & RL",
+      "Interpreting Agent",
+      "Behavior IAB",
+      "Human-Centered Interpretation",
+      "Understanding Agents"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 26,
+    "name": "AI for Drug Discovery: Bridging the Translation Gap",
+    "url": "https://ai4dd-neurips2026.github.io/",
+    "desc": "AI4DD is a NeurIPS 2026 workshop on robust, trustworthy, and translatable AI for real-world drug discovery.",
+    "topics": [
+      "AI for science",
+      "Drug Discovery",
+      "Bridging Translation",
+      "Gap"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 27,
+    "name": "Machine Learning for Simulations in Biology and Chemistry – Simbiochem",
+    "url": "https://www.simbiochem.com",
+    "desc": "Machine learning for simulations in biology and chemistry. Call for papers open — deadline August 29, 2026.",
+    "topics": [
+      "AI for science",
+      "Machine Learning",
+      "Simulations Biology",
+      "Chemistry Simbiochem"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 28,
+    "name": "Responsible Communication of Machine Learning Research in Biomedicine (RCMLR)",
+    "url": "https://translatingmlresearch.github.io/RCMLR/",
+    "desc": "Responsible Communication of Machine Learning Research in Biomedicine NeurIPS Workshop Responsible Communication of Machine Learning Research in Biomedicine Sydney, Australia December 2026 Home Call for papers The 'Responsible Communication of Machine Learning Research in Biomedicine' workshop wi...",
+    "topics": [
+      "language models",
+      "Responsible Communication",
+      "Machine Learning",
+      "Research Biomedicine",
+      "RCMLR"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 29,
+    "name": "Collaborative, Open, and Decentralized training of Foundation Models (CODEC-FM)",
+    "url": "https://collaborative-open-decentralized-fomo.github.io/",
+    "desc": "Scaling foundation model training across distributed, heterogeneous compute — from inter-datacenter training to internet-scale collaboration.",
+    "topics": [
+      "machine learning",
+      "Collaborative Open",
+      "Decentralized",
+      "training",
+      "Foundation Models"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 30,
+    "name": "Beyond Private Training: The New Landscape of AI Privacy",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on beyond Private Training.",
+    "topics": [
+      "trust & safety",
+      "Private Training",
+      "Landscape Privacy"
+    ],
+    "accent": "#9a6f63"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 31,
+    "name": "The Third Workshop on GenAI for Health: Agentic Systems, Clinical Trust, and Future Potential",
+    "url": "https://genai4health.github.io/",
+    "desc": "GenAI4Health @ NeurIPS 2026 Redirecting to GenAI4Health @ NeurIPS 2026 .",
+    "topics": [
+      "agents & RL",
+      "Third GenAI",
+      "Health Agentic",
+      "Systems Clinical",
+      "Trust Future"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 32,
+    "name": "Continual World Models",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on continual World Models.",
+    "topics": [
+      "machine learning",
+      "Continual World",
+      "Models"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 33,
+    "name": "AgenticOS: Co-designing Systems and ML Foundations of an OS Layer for Agentic AI",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on AgenticOS.",
+    "topics": [
+      "agents & RL",
+      "AgenticOS Co-designing",
+      "Systems Foundations",
+      "Layer Agentic"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 34,
+    "name": "Neuro-Symbolic Embodied Intelligence",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on Neuro-Symbolic Embodied Intelligence.",
+    "topics": [
+      "multimodal learning",
+      "Neuro-Symbolic Embodied",
+      "Intelligence"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 35,
+    "name": "Agentic AI for Biological Discovery (AgenticLS)",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on agentic AI for Biological Discovery (AgenticLS).",
+    "topics": [
+      "agents & RL",
+      "Agentic Biological",
+      "Discovery AgenticLS"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 36,
+    "name": "XAI4Science: Knowledge Discovery and Trust through Interpretable Foundation Models",
+    "url": "https://xai4science.github.io/",
+    "desc": "Knowledge Discovery and Trust through Interpretable Foundation Models. Sydney, December 11/12, 2026. Submissions due August 29, 2026.",
+    "topics": [
+      "AI for science",
+      "XAI Science",
+      "Knowledge Discovery",
+      "Trust",
+      "through"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 37,
+    "name": "Transitioning from Pre-Training to Post-Training",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on transitioning from Pre-Training to Post-Training.",
+    "topics": [
+      "machine learning",
+      "Transitioning Pre-Training",
+      "Post-Training"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 38,
+    "name": "Interpretability as a Science: Toward Rigorous Foundations for Understanding LLMs",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on interpretability as a Science.",
+    "topics": [
+      "language models",
+      "Interpretability Science",
+      "Rigorous Foundations",
+      "Understanding LLMs"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 39,
+    "name": "Who Verifies the Agents? Toward Reliable Agent Development",
+    "url": "https://verify-agents-workshop.github.io/",
+    "desc": "A NeurIPS 2026 workshop on verification for reliable agent development. Sydney, Australia, Dec 11 or 12, 2026.",
+    "topics": [
+      "agents & RL",
+      "Who Verifies",
+      "Agents Reliable",
+      "Agent Development"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 40,
+    "name": "I Can't Believe It's Not Better (ICBINB): Failure Modes of AI in Biology",
+    "url": "https://icbinb-bio.github.io/",
+    "desc": "Stress-testing AI for biology in the real world failure modes, robustness, and trustworthy scientific discovery",
+    "topics": [
+      "AI for science",
+      "Can Believe",
+      "Not Better",
+      "ICBINB Failure",
+      "Modes Biology"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 41,
+    "name": "2nd Embodied Spatial Reasoning Workshop",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on 2nd Embodied Spatial Reasoning Workshop.",
+    "topics": [
+      "multimodal learning",
+      "Embodied Spatial",
+      "Reasoning"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 42,
+    "name": "Symmetry and Geometry in Neural Representations (NeurReps)",
+    "url": "https://neurreps.org/",
+    "desc": "NeurReps 2026 — Symmetry and Geometry in Neural Representations NeurReps NeurReps About Speakers Panelists Schedule Organizers Call for Papers Sponsors Past Editions Menu NeurIPS 2026 Workshop · Sydney, Australia Symmetry and Geometry in Neural Representations A gathering of mathematicians, machi...",
+    "topics": [
+      "theory & math",
+      "Symmetry Geometry",
+      "Neural Representations",
+      "NeurReps"
+    ],
+    "accent": "#90826e"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 43,
+    "name": "Third Workshop on Attributing Model Behavior at Scale: Data Attribution and Provenance (ATTRIB)",
+    "url": "https://attrib-workshop.cc/",
+    "desc": "ATTRIB 2026 Workshop ATTRIB 2026 ATTRIB 2024 ATTRIB 2023 Speakers Call for Papers Important Dates TODO Schedule --> Organizers ATTRIB 2026 @ NeurIPS 3rd Workshop on Attributing Model Behavior at Scale: Data Attribution and Provenance Saturday December 14, 2026 TODO--> Sydney, Australia Contact in...",
+    "topics": [
+      "generative modeling",
+      "Third Attributing",
+      "Model Behavior",
+      "Scale Data",
+      "Attribution Provenance"
+    ],
+    "accent": "#a8895a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 44,
+    "name": "Robot Learning with World Models: Capabilities, Frontiers, and Challenges",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on robot Learning with World Models.",
+    "topics": [
+      "multimodal learning",
+      "Robot Learning",
+      "World Models",
+      "Capabilities Frontiers",
+      "Challenges"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 45,
+    "name": "First Workshop on Meta Agents: Managing Agents that Manage Agents",
+    "url": "https://meta-agents-workshop.github.io/",
+    "desc": "Managing Agents that Manage Agents: Workshop on Responsible Use of Meta-Agents (NeurIPS 2026) Managing Agents that Manage Agents Home About Topics Call for Papers Speakers Schedule Organizers Contact Managing Agents that Manage Agents Workshop on Responsible Use of Meta-Agents NeurIPS 2026 · Dece...",
+    "topics": [
+      "agents & RL",
+      "First Meta",
+      "Agents Managing",
+      "Agents",
+      "that"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 46,
+    "name": "8th Robot Learning Workshop: Is Physical AI truly going zero-shot?",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on 8th Robot Learning Workshop.",
+    "topics": [
+      "multimodal learning",
+      "Robot Learning",
+      "Physical",
+      "truly",
+      "going"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 47,
+    "name": "Foundation Models for the Brain and Body",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on foundation Models for the Brain and Body.",
+    "topics": [
+      "machine learning",
+      "Foundation Models",
+      "Brain Body"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Sydney",
+    "idx": 48,
+    "name": "Continual Learning in the Era of Foundation Models and Embodied Agents (CLEA)",
+    "url": "https://clea-neurips.github.io/",
+    "desc": "CLEA Workshop: Advancing methodological foundations and practical deployment strategies of continual learning for enterprise AI agents.",
+    "topics": [
+      "multimodal learning",
+      "Continual Learning",
+      "Era Foundation",
+      "Models Embodied",
+      "Agents CLEA"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Paris",
+    "idx": 1,
+    "name": "Foundations of Language Model Security: Theory, Practice and Fundamental Limits",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on foundations of Language Model Security.",
+    "topics": [
+      "language models",
+      "Foundations Language",
+      "Model Security",
+      "Theory Practice",
+      "Fundamental Limits"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Paris",
+    "idx": 2,
+    "name": "Reinforcement Learning for Experimental Sciences",
+    "url": "https://rl-experimental-sciences-workshop.github.io/",
+    "desc": "RL for Experimental Sciences Workshop Reinforcement Learning for Experimental Sciences Bridging the Simulation‑to‑Reality Gap Workshop at the Neural Information Processing Systems 2026 conference (Paris) About Topics Speakers Program Call for Papers Organizers Workshop Motivation Reinforcement le...",
+    "topics": [
+      "agents & RL",
+      "Reinforcement Learning",
+      "Experimental Sciences"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Paris",
+    "idx": 3,
+    "name": "RobotPAD: Post-Training Adaptation of Robot Foundation Models",
+    "url": "https://robotpad2026.github.io/",
+    "desc": "RoboPAD is a NeurIPS 2026 workshop on post-training adaptation of robot foundation models.",
+    "topics": [
+      "multimodal learning",
+      "RobotPAD Post-Training",
+      "Adaptation Robot",
+      "Foundation Models"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Paris",
+    "idx": 4,
+    "name": "2nd Workshop on Advances in Representation Learning for Earth Observation (REO-2)",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on 2nd Workshop on Advances in Representation Learning for Earth Observation (REO-2).",
+    "topics": [
+      "machine learning",
+      "Advances Representation",
+      "Learning Earth",
+      "Observation REO"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Paris",
+    "idx": 5,
+    "name": "AI for Peace",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on AI for Peace.",
+    "topics": [
+      "machine learning",
+      "Peace"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Paris",
+    "idx": 6,
+    "name": "TS-LIMITS: Generalization for Time Series in Tight Settings",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on TS-LIMITS.",
+    "topics": [
+      "machine learning",
+      "TS-LIMITS Generalization",
+      "Time Series",
+      "Tight Settings"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Paris",
+    "idx": 7,
+    "name": "Privacy in the Era of Large Opaque Models: Theoretical, Legal and Practical Perspectives",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on privacy in the Era of Large Opaque Models.",
+    "topics": [
+      "theory & math",
+      "Privacy Era",
+      "Large Opaque",
+      "Models Theoretical",
+      "Legal Practical"
+    ],
+    "accent": "#90826e"
+  },
+  {
+    "venue": "Paris",
+    "idx": 8,
+    "name": "Real-Time Multimodal Conversational AI Workshop",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on Real-Time Multimodal Conversational AI Workshop.",
+    "topics": [
+      "multimodal learning",
+      "Real-Time Multimodal",
+      "Conversational"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Paris",
+    "idx": 9,
+    "name": "Sim2Science: ML with Imperfect Scientific Models",
+    "url": "https://www.sim2science.com/",
+    "desc": "NeurIPS 2026 Workshop on how ML can leverage imperfect scientific simulators when confronted with real-world data.",
+    "topics": [
+      "AI for science",
+      "Sim Science",
+      "Imperfect Scientific",
+      "Models"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Paris",
+    "idx": 10,
+    "name": "Bridging Optimal Transport, Learning and Structured Data: Toward Geometric Distributional Learning",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on bridging Optimal Transport, Learning and Structured Data.",
+    "topics": [
+      "evaluation",
+      "Bridging Optimal",
+      "Transport Learning",
+      "Structured Data",
+      "Geometric Distributional"
+    ],
+    "accent": "#8f8060"
+  },
+  {
+    "venue": "Paris",
+    "idx": 11,
+    "name": "Representations for the Physical Sciences",
+    "url": "https://representations-physical-sciences.github.io/workshop-2026/",
+    "desc": "Representations for the Physical Sciences — a NeurIPS 2026 workshop on self-supervision, transfer, sampling, and tokenization.",
+    "topics": [
+      "language models",
+      "Representations Physical",
+      "Sciences"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Paris",
+    "idx": 12,
+    "name": "Foundations of LLM Post-Training in Changing Environments",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on foundations of LLM Post-Training in Changing Environments.",
+    "topics": [
+      "language models",
+      "Foundations LLM",
+      "Post-Training Changing",
+      "Environments"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Paris",
+    "idx": 13,
+    "name": "ML4Molecules: Agentic Systems for Molecular Sciences",
+    "url": "https://moleculediscovery.github.io/workshop2026/",
+    "desc": "A NeurIPS 2026 Workshop · Paris · Dec 12 or 13 — from in-silico chemists and closed-loop labs to failures at counting carbons.",
+    "topics": [
+      "agents & RL",
+      "Molecules Agentic",
+      "Systems Molecular",
+      "Sciences"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Paris",
+    "idx": 14,
+    "name": "LIGHT: Deployable Small Foundation Models",
+    "url": "https://almaai-disi-unibo.github.io/neurips2026-light-smallModels/",
+    "desc": "NeurIPS 2026 Workshop on Compact, Trustworthy and Energy-Efficient AI Systems for Real-World Deployment.",
+    "topics": [
+      "climate & sustainability",
+      "LIGHT Deployable",
+      "Small Foundation",
+      "Models"
+    ],
+    "accent": "#7d8a5c"
+  },
+  {
+    "venue": "Paris",
+    "idx": 15,
+    "name": "E-values: from Statistics to ML",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on e-values.",
+    "topics": [
+      "theory & math",
+      "E-values Statistics"
+    ],
+    "accent": "#90826e"
+  },
+  {
+    "venue": "Paris",
+    "idx": 16,
+    "name": "PALM: Personalized, Aligned, Long-term Memory for AI Systems",
+    "url": "https://palm-neurips-2026.github.io/",
+    "desc": "Personalized, Aligned, Long-Term Memory for AI Systems (PALM) Workshop at NeurIPS 2026, Paris.",
+    "topics": [
+      "trust & safety",
+      "PALM Personalized",
+      "Aligned Long-term",
+      "Memory Systems"
+    ],
+    "accent": "#9a6f63"
+  },
+  {
+    "venue": "Paris",
+    "idx": 17,
+    "name": "Trustworthy AI for Good (AI4GOOD) Workshop",
+    "url": "https://trustworthy-ai-for-good.github.io/",
+    "desc": "AI4GOOD @ NeurIPS 2026 | Trustworthy AI for Good AI4 GOOD NeurIPS 2026 ICML 2026 Overview Call for Papers Submission Dates Speakers Organizers Workshop Trustworthy AI for Good @ NeurIPS 2026 Date: TBD | Location: Paris, France Submit on OpenReview I'd Like to Be a Reviewer: Register Here! View IC...",
+    "topics": [
+      "agents & RL",
+      "Trustworthy Good",
+      "GOOD"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Paris",
+    "idx": 18,
+    "name": "AIDaR: AI Data Readiness for Scientific Discovery",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on AIDaR.",
+    "topics": [
+      "machine learning",
+      "AIDaR Data",
+      "Readiness Scientific",
+      "Discovery"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Paris",
+    "idx": 19,
+    "name": "Principles of Generative Modeling (PriGM)",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on principles of Generative Modeling (PriGM).",
+    "topics": [
+      "Principles Generative",
+      "Modeling PriGM"
+    ],
+    "accent": "#a8895a"
+  },
+  {
+    "venue": "Paris",
+    "idx": 20,
+    "name": "Neural Network Artifacts as a New Data Modality",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on neural Network Artifacts as a New Data Modality.",
+    "topics": [
+      "machine learning",
+      "Neural Network",
+      "Artifacts Data",
+      "Modality"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Paris",
+    "idx": 21,
+    "name": "AI for Meta-Science: Scaling and Organizing Science in the Age of AI Scientists",
+    "url": "https://ai4metascience.org/",
+    "desc": "Call for papers: technical and position tracks on AI in peer review, AI scientists, and scientific evaluation. Submission deadline August 29, 2026 (AoE). Paris, December 2026.",
+    "topics": [
+      "AI for science",
+      "Meta-Science Scaling",
+      "Organizing Science",
+      "Scientists"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Paris",
+    "idx": 22,
+    "name": "AI for Chip Design",
+    "url": "https://neurips-ai-for-chip-design-2026.github.io/",
+    "desc": "AI for Chip Design AI for Chip Design Call for Papers Organizers Speakers Program Committee Sponsors Contact On this page News Submission Topics of Interest Contact AI for Chip Design NeurIPS 2026 Workshop Date & Location: December 2026, Paris, France. Call for Papers Submit your latest research ...",
+    "topics": [
+      "machine learning",
+      "Chip Design"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Paris",
+    "idx": 23,
+    "name": "Machine Learning for Spatially Resolved High-dimensional Biology",
+    "url": "https://imsb-uke.github.io/ml4spatialbio-2026/",
+    "desc": "ml4spatialbio 2026: A NeurIPS 2026 workshop on machine learning for spatially resolved high-dimensional biology.",
+    "topics": [
+      "AI for science",
+      "Machine Learning",
+      "Spatially Resolved",
+      "High-dimensional Biology"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Paris",
+    "idx": 24,
+    "name": "Foundations of Agentic Systems Theory",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on foundations of Agentic Systems Theory.",
+    "topics": [
+      "agents & RL",
+      "Foundations Agentic",
+      "Systems Theory"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Paris",
+    "idx": 25,
+    "name": "AXIOM: Foundations of Efficient Deep Learning",
+    "url": "https://axiom-neurips2026.github.io/",
+    "desc": "AXIOM 2026 — Foundations of Efficient Deep Learning, a NeurIPS 2026 workshop in Paris, France, December 12, 2026.",
+    "topics": [
+      "efficient ML",
+      "AXIOM Foundations",
+      "Efficient Deep",
+      "Learning"
+    ],
+    "accent": "#a08656"
+  },
+  {
+    "venue": "Paris",
+    "idx": 26,
+    "name": "SLM-Agents: 1st Workshop on SLMs for Agentic Systems",
+    "url": "https://slmw2026.github.io/",
+    "desc": "The first workshop on small language models for agentic systems, accepted at NeurIPS 2026 in Paris.",
+    "topics": [
+      "language models",
+      "SLM-Agents SLMs",
+      "Agentic Systems"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Paris",
+    "idx": 27,
+    "name": "Grounded User Simulation for Model Evaluation and Training",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on grounded User Simulation for Model Evaluation and Training.",
+    "topics": [
+      "Grounded User",
+      "Simulation Model",
+      "Evaluation Training"
+    ],
+    "accent": "#8f8060"
+  },
+  {
+    "venue": "Paris",
+    "idx": 28,
+    "name": "AI and the Self: Human Identity, Authenticity, and Agency in the Age of AI",
+    "url": "https://aintheself.github.io/",
+    "desc": "AI and the Self is a NeurIPS 2026 workshop on identity, authenticity, and agency in the age of AI.",
+    "topics": [
+      "machine learning",
+      "Self Human",
+      "Identity Authenticity",
+      "Agency"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 1,
+    "name": "The 1st Workshop on Physical World AI: Geometry, Characteristics, and Multimodal Sensing",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on 1st Workshop on Physical World AI.",
+    "topics": [
+      "multimodal learning",
+      "Physical World",
+      "Geometry Characteristics",
+      "Multimodal Sensing"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 2,
+    "name": "AI for Verifiable Coding (VERICODEGEN)",
+    "url": "https://vericodegen.github.io/",
+    "desc": "A full-day NeurIPS 2026 workshop on verifiable code generation: autoformalization, LLM-guided proof search, verified refactoring, and evaluation protocols for end-to-end guarantees. Atlanta, December 2026.",
+    "topics": [
+      "language models",
+      "Verifiable Coding",
+      "VERICODEGEN"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 3,
+    "name": "The 6th Workshop on Mathematical Reasoning and AI (MATH-AI)",
+    "url": "https://mathai-2026.github.io/",
+    "desc": "The 6th Workshop on Mathematical Reasoning and AI",
+    "topics": [
+      "theory & math",
+      "Mathematical Reasoning",
+      "MATH-AI"
+    ],
+    "accent": "#90826e"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 4,
+    "name": "DynaFront: Dynamics at the Frontiers of Learning, Sampling, and Games",
+    "url": "https://sites.google.com/view/dynafrontneurips26",
+    "desc": "A NeurIPS 2026 workshop on dynaFront. (Official site: https://sites.google.com/view/dynafrontneurips26; page could not be fetched automatically.)",
+    "topics": [
+      "machine learning",
+      "DynaFront Dynamics",
+      "Frontiers Learning",
+      "Sampling Games"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 5,
+    "name": "World Models for High-Stakes Health: Reliable Clinical Trial Simulation and Intervention-Aware Reasoning",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on world Models for High-Stakes Health.",
+    "topics": [
+      "AI for science",
+      "World Models",
+      "High-Stakes Health",
+      "Reliable Clinical",
+      "Trial Simulation"
+    ],
+    "accent": "#8a7f5c"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 6,
+    "name": "Interpretability for Discovery: Understanding and Discovering Novel Knowledge in AI Models",
+    "url": "https://interpretability4discovery.github.io/",
+    "desc": "Interpretability for Discovery, a NeurIPS 2026 workshop on using model interpretability to uncover new scientific knowledge.",
+    "topics": [
+      "efficient ML",
+      "Interpretability Discovery",
+      "Understanding Discovering",
+      "Novel Knowledge",
+      "Models"
+    ],
+    "accent": "#a08656"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 7,
+    "name": "Medical Reasoning with Vision Language Foundation Models",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on medical Reasoning with Vision Language Foundation Models.",
+    "topics": [
+      "multimodal learning",
+      "Medical Reasoning",
+      "Vision Language",
+      "Foundation Models"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 8,
+    "name": "Can We Trust the Judge? Building Reliable Evaluation for Language Models (JUDGe)",
+    "url": "https://judge2026.github.io",
+    "desc": "JUDGe @ NeurIPS 2026 Overview Taxonomy Deliverable Dates Submit Schedule Speakers Organizers Contact NeurIPS 2026 · Atlanta · Dec 12–13 JUDGe Can We Trust the Judge? \"Rigorous evaluation is the backbone of trustworthy AI — let's scrutinize the scrutinizers.\" A full-day workshop on building reliab...",
+    "topics": [
+      "Can Trust",
+      "Judge Building",
+      "Reliable Evaluation",
+      "Language Models"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 9,
+    "name": "Workshop on Evaluation of Interactive Agents (IAEval)",
+    "url": "https://eval-interactive-agents-workshop.github.io/",
+    "desc": "NeurIPS 2026 Workshop on Evaluation of Interactive Agents in Atlanta, Georgia.",
+    "topics": [
+      "agents & RL",
+      "Evaluation Interactive",
+      "Agents IAEval"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 10,
+    "name": "SaTQuML: Secure and Trustworthy Quantum Machine Learning",
+    "url": "https://satquml.github.io/",
+    "desc": "SaTQuML: Secure and Trustworthy Quantum Machine Learning - NeurIPS 2026 Workshop",
+    "topics": [
+      "trust & safety",
+      "SaTQuML Secure",
+      "Trustworthy Quantum",
+      "Machine Learning"
+    ],
+    "accent": "#9a6f63"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 11,
+    "name": "EconML: Economics for Machine Learning",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on EconML.",
+    "topics": [
+      "EconML Economics",
+      "Machine Learning"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 12,
+    "name": "Towards Test-Time Continual Learning Agents (TTCL)",
+    "url": "https://ttcl-agents.github.io",
+    "desc": "NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents (TTCL). Agents that keep learning after deployment, uniting test-time, continual, and agentic learning. Atlanta, December 2026.",
+    "topics": [
+      "agents & RL",
+      "Test-Time Continual",
+      "Learning Agents",
+      "TTCL"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 13,
+    "name": "AI-Native Academia: Authorship, Peer Review, and Conference Governance under AI",
+    "url": "https://ai-native-academia.github.io",
+    "desc": "NeurIPS 2026 Workshop on AI-Native Academia: Authorship, Peer Review, and Conference Governance under AI.",
+    "topics": [
+      "trust & safety",
+      "AI-Native Academia",
+      "Authorship Peer",
+      "Review Conference",
+      "Governance"
+    ],
+    "accent": "#9a6f63"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 14,
+    "name": "Continual Learning for Enterprise AI Agents",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on continual Learning for Enterprise AI Agents.",
+    "topics": [
+      "agents & RL",
+      "Continual Learning",
+      "Enterprise Agents"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 15,
+    "name": "AI Agents for Biomedical Imaging and Multimodal Clinical Data",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on AI Agents for Biomedical Imaging and Multimodal Clinical Data.",
+    "topics": [
+      "multimodal learning",
+      "Agents Biomedical",
+      "Imaging Multimodal",
+      "Clinical Data"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 16,
+    "name": "The BabyVLM Workshop: Toward Developmentally Plausible Multimodal Systems",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on BabyVLM Workshop.",
+    "topics": [
+      "multimodal learning",
+      "BabyVLM Developmentally",
+      "Plausible Multimodal",
+      "Systems"
+    ],
+    "accent": "#8f7a66"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 17,
+    "name": "The Agentic Web: Networked, Continually-Adapting Agent Ecosystems",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on agentic Web.",
+    "topics": [
+      "agents & RL",
+      "Agentic Web",
+      "Networked Continually-Adapting",
+      "Agent Ecosystems"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 18,
+    "name": "SocialAgent: Second Workshop on Large Language Models for Social Reasoning and Simulation",
+    "url": "https://social-llm-workshop.github.io/",
+    "desc": "Workshops on large language models for social reasoning and simulation.",
+    "topics": [
+      "SocialAgent Second",
+      "Large Language",
+      "Models Social",
+      "Reasoning Simulation"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 19,
+    "name": "Workshop on Resource-Aware Agentic AI",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on Resource-Aware Agentic AI.",
+    "topics": [
+      "agents & RL",
+      "Resource-Aware Agentic"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 20,
+    "name": "Workshop on Child Safety in AI",
+    "url": "https://childsafety-ai.github.io/",
+    "desc": "NeurIPS 2026 Workshop on Child Safety in AI",
+    "topics": [
+      "trust & safety",
+      "Child Safety"
+    ],
+    "accent": "#9a6f63"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 21,
+    "name": "The Third Workshop on Long-Context Foundation Models",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on third Workshop on Long-Context Foundation Models.",
+    "topics": [
+      "language models",
+      "Third Long-Context",
+      "Foundation Models"
+    ],
+    "accent": "#9c7a54"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 22,
+    "name": "Human-AI Coevolution: Measuring Human-Agent Teams in the Agentic Era",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on Human-AI Coevolution.",
+    "topics": [
+      "agents & RL",
+      "Human-AI Coevolution",
+      "Measuring Human-Agent",
+      "Teams Agentic",
+      "Era"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 23,
+    "name": "Second Workshop on ML×OR (MLxOR)",
+    "url": "https://mlxor-2026.github.io/",
+    "desc": "NeurIPS 2026 — Second Workshop on ML×OR: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making NeurIPS 2026 WORKSHOP Second Workshop on ML×OR: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware De...",
+    "topics": [
+      "agents & RL",
+      "Second MLxOR"
+    ],
+    "accent": "#a0785f"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 24,
+    "name": "GEM: Integrating Generative and Experimental Platforms for Biomolecular Design",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on GEM.",
+    "topics": [
+      "generative modeling",
+      "GEM Integrating",
+      "Generative Experimental",
+      "Platforms Biomolecular",
+      "Design"
+    ],
+    "accent": "#a8895a"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 25,
+    "name": "DevAI: Developmental Perspectives on AI",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on DevAI.",
+    "topics": [
+      "machine learning",
+      "DevAI Developmental",
+      "Perspectives"
+    ],
+    "accent": "#a0855a"
+  },
+  {
+    "venue": "Atlanta",
+    "idx": 26,
+    "name": "AI & Science: Evolution or Extinction?",
+    "url": null,
+    "desc": "A NeurIPS 2026 workshop on AI & Science.",
+    "topics": [
+      "AI for science",
+      "Science Evolution",
+      "Extinction"
+    ],
+    "accent": "#8a7f5c"
+  }
+]
