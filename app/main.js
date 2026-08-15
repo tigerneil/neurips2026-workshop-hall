@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 
 /* ============================================================
-   NeurIPS 2026 Workshop Hall — 102 workshops, 3 wings
+   NeurIPS 2026 Workshop Hall — 107 workshops, 3 wings
    ============================================================ */
 
 const VENUE_DATES = {
@@ -101,8 +101,15 @@ async function init() {
     document.getElementById('hud').classList.add('on');
   }
 
+  const vc = {};
+  for (const ws of data) vc[ws.venue] = (vc[ws.venue] || 0) + 1;
   document.getElementById('counter').textContent =
-    `102 个展位 · Sydney 48 · Paris 28 · Atlanta 26`;
+    `${data.length} 个展位 · Sydney ${vc.Sydney || 0} · Paris ${vc.Paris || 0} · Atlanta ${vc.Atlanta || 0}`;
+  for (const btn of document.querySelectorAll('#topbar .tbtn[data-tp]')) {
+    const v = btn.dataset.tp.charAt(0).toUpperCase() + btn.dataset.tp.slice(1);
+    const small = btn.querySelector('small');
+    if (small) small.textContent = vc[v] || 0;
+  }
 
   // debug/testing hook
   window.__hall = {
@@ -287,9 +294,11 @@ function buildBanners() {
       scene.add(m);
     }
   }
-  banner('SYDNEY', 'Dec 11–12, 2026 · 48 Workshops', '#a8895a', 11, 2.75, -16.5, 4.1, 0, Math.PI / 2);
-  banner('PARIS', 'Dec 12–13, 2026 · 28 Workshops', '#9d8f74', 11, 2.75, 16.5, 4.1, 0, Math.PI / 2);
-  banner('ATLANTA', 'Dec 12–13, 2026 · 26 Workshops', '#9c7e5e', 10, 2.5, 0, 4.1, 11.5, 0);
+  const vc = {};
+  for (const ws of data) vc[ws.venue] = (vc[ws.venue] || 0) + 1;
+  banner('SYDNEY', `Dec 11–12, 2026 · ${vc.Sydney || 0} Workshops`, '#a8895a', 11, 2.75, -16.5, 4.1, 0, Math.PI / 2);
+  banner('PARIS', `Dec 12–13, 2026 · ${vc.Paris || 0} Workshops`, '#9d8f74', 11, 2.75, 16.5, 4.1, 0, Math.PI / 2);
+  banner('ATLANTA', `Dec 12–13, 2026 · ${vc.Atlanta || 0} Workshops`, '#9c7e5e', 10, 2.5, 0, 4.1, 11.5, 0);
 
   // large end-wall titles inside each wing
   const e1 = endTitle('SYDNEY', 'Dec 11–12, 2026');
@@ -484,7 +493,7 @@ async function buildBooths() {
 
   enterBtn.disabled = false;
   enterBtn.textContent = '进 入 展 厅';
-  loadInfo.textContent = '就绪 · 102 个展位已加载';
+  loadInfo.textContent = `就绪 · ${total} 个展位已加载`;
 }
 
 /* ======================= UI / input ======================= */
