@@ -4,1385 +4,1705 @@
   "idx": 1,
   "name": "Workshop on the Linguistic Principles for Foundation Models",
   "url": "https://lp4fm.github.io/",
-  "desc": "Making the linguistic/symbolic medium a first-class design axis for foundation models.",
+  "desc": "Treats the linguistic and symbolic medium through which foundation models perceive, reason, and act as a first-class design axis, on par with architecture and scale.",
   "topics": [
-   "language models",
-   "linguistic principles",
-   "symbolic medium"
+   "linguistics",
+   "natural language processing",
+   "foundation models",
+   "reasoning",
+   "interpretability"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 2,
   "name": "DiffuLM: Diffusion Language Models — Foundations, Efficiency, and Reasoning",
   "url": "https://7amin.github.io/diffulm-neurips2026/",
-  "desc": "Diffusion language models: foundations, efficiency, and reasoning.",
+  "desc": "The first NeurIPS workshop dedicated to diffusion language models, spanning foundations and theory, efficiency, and reasoning.",
   "topics": [
-   "generative modeling",
-   "diffusion",
+   "diffusion models",
    "language models",
-   "reasoning"
+   "generative modeling",
+   "reasoning",
+   "efficient inference"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 3,
   "name": "Beyond Next Token Prediction: Diffusion and Flow Models for Next-Generation Decoding",
   "url": "https://bento-neurips.github.io/",
-  "desc": "Diffusion and flow models for decoding beyond next-token prediction.",
+  "desc": "Explores the theory, algorithms, and applications of discrete diffusion and flow models for parallel, non-causal, controllable generation.",
   "topics": [
-   "generative modeling",
-   "diffusion",
+   "discrete diffusion",
    "flow models",
-   "decoding"
+   "generative modeling",
+   "language modeling",
+   "optimal transport"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 4,
   "name": "Real-Time Conversational Agents: Toward Natural Multimodal Interaction",
   "url": "https://rtcaneurips26.github.io/",
-  "desc": "Real-time generation, interactional naturalness, and evaluation of live multimodal conversational systems.",
+  "desc": "Focuses on real-time conversational agents across voice, video, and language under hard latency budgets, including turn-taking, prosody, and live-system evaluation.",
   "topics": [
-   "multimodal",
    "conversational agents",
-   "real-time",
-   "speech"
+   "speech",
+   "multimodal",
+   "low latency",
+   "human-computer interaction"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 5,
   "name": "AI for Science: Verification in the Age of AI Scientists",
   "url": "https://ai4sciencecommunity.github.io/neurips26.html",
-  "desc": "Verifying AI scientists and AI-generated scientific outputs.",
+  "desc": "Asks how to trust, judge, and act on AI-generated science when verifiers are imperfect, scarce, or absent, and how to allocate scarce verification budgets.",
   "topics": [
-   "AI for science",
+   "ai for science",
    "verification",
-   "scientific discovery"
+   "scientific discovery",
+   "trustworthiness",
+   "hypothesis generation"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 6,
   "name": "AI for Stochastic Dynamics: From Theoretical Foundations to Scientific Applications",
   "url": "https://eethanshi.github.io/stochastic-dynamics-2026/",
-  "desc": "ML for systems governed by stochastic and random dynamics.",
+  "desc": "Convenes research on learning stochastic dynamics, linking SDEs/SPDEs, diffusion and score-based models, and neural operators with scientific applications.",
   "topics": [
    "stochastic dynamics",
-   "theory",
-   "scientific applications"
+   "sde",
+   "diffusion models",
+   "neural operators",
+   "applied probability"
   ],
-  "accent": "#a0785f"
+  "accent": "#a0785f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 7,
   "name": "On-Device Intelligence: Foundation Models under Real-World Constraints",
   "url": "https://odi2026.github.io/",
-  "desc": "Running foundation models on-device under real-world resource constraints.",
+  "desc": "Treats on-device intelligence as an interdisciplinary problem spanning efficient foundation-model design, adaptation, reliability, and evaluation under resource constraints.",
   "topics": [
-   "on-device",
-   "efficient ML",
-   "foundation models"
+   "on-device ml",
+   "model compression",
+   "edge computing",
+   "foundation models",
+   "privacy"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 8,
   "name": "Foundation Models for Temporal Systems: From Forecasting to World Modeling",
   "url": "https://fmts-workshop.github.io/",
-  "desc": "Foundation models for temporal systems, from forecasting to world modeling.",
+  "desc": "Builds foundation models that forecast, simulate, adapt, and support decisions in systems evolving across time, modalities, and scales.",
   "topics": [
    "time series",
-   "world modeling",
-   "foundation models"
+   "foundation models",
+   "forecasting",
+   "world models",
+   "temporal data"
   ],
-  "accent": "#9c7a54"
+  "accent": "#9c7a54",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 9,
   "name": "Workshop for Autonomous Machine Learning Research",
   "url": "https://automlr.com",
-  "desc": "Autonomous ML research assessed via independent review, foregrounding human judgment.",
+  "desc": "A discussant-led workshop on ML research conducted end-to-end by autonomous agents, anchoring autonomous research in human judgment and public dialogue.",
   "topics": [
    "autonomous research",
-   "AI scientists",
-   "evaluation"
+   "ai agents",
+   "machine learning",
+   "scientific discovery",
+   "llm"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 10,
   "name": "Optimization for Machine Learning",
   "url": "https://opt-ml.org/",
-  "desc": "Optimization for ML — the 18th OPT workshop, themed “Can Anything Beat Adam?”",
+  "desc": "The 18th OPT workshop on optimization for machine learning, this year focusing on \"Can Anything Beat Adam? Frontier Optimizers\" and next-generation methods.",
   "topics": [
    "optimization",
-   "theory",
-   "training dynamics"
+   "machine learning",
+   "second-order methods",
+   "optimizers",
+   "training"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Sep 4, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 11,
   "name": "Dynamic Alignment in Human-AI Coupled Systems",
   "url": "https://bialign-workshop.github.io/",
-  "desc": "Dynamic alignment in human-AI coupled systems.",
+  "desc": "Develops theoretical, algorithmic, and evaluative foundations of dynamic bidirectional human-AI alignment as AI shifts to long-term interactive actors.",
   "topics": [
-   "alignment",
-   "human-AI interaction",
-   "trust & safety"
+   "human-ai alignment",
+   "human-ai interaction",
+   "ai safety",
+   "continual learning",
+   "governance"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 12,
   "name": "AI at Scale for Clinical Impact (ASCI): Cancer Pathology Foundation Models",
   "url": "https://asci.artificialintelligencepathology.org/",
-  "desc": "AI at scale for clinical impact — cancer pathology foundation models.",
+  "desc": "Brings together researchers and clinicians building cancer pathology foundation models that move from technical benchmarks to validated clinical impact.",
   "topics": [
-   "medical imaging",
-   "pathology",
+   "computational pathology",
    "foundation models",
-   "health"
+   "cancer",
+   "medical imaging",
+   "clinical ai"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 13,
   "name": "VLM4RWD: Grounded and Faithful Vision-Language Models for Real-World Deployment",
   "url": "https://vlm4rwd.github.io",
-  "desc": "Grounded, faithful vision-language models for real-world deployment.",
+  "desc": "Focuses on principles, methods, and evaluation for grounded, faithful, and reliable vision-language(-action) models deployed in real-world settings.",
   "topics": [
    "vision-language models",
    "grounding",
-   "deployment"
+   "hallucination",
+   "embodied ai",
+   "robotics"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 30, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 14,
   "name": "Trustworthy AI Evaluation (TAI-Eval)",
   "url": "https://tai-eval.github.io",
-  "desc": "Trustworthy evaluation of AI systems.",
+  "desc": "Treats AI evaluation itself as an object of study, addressing robustness, causality, measurement validity, and risk in modern AI assessment.",
   "topics": [
-   "evaluation",
-   "trustworthy AI"
+   "ai evaluation",
+   "benchmarking",
+   "robustness",
+   "causal validity",
+   "auditing"
   ],
-  "accent": "#a0785f"
+  "accent": "#a0785f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 15,
   "name": "PTA: From Pretrained Representations to Acting Agents",
   "url": "https://ptaworkshop.github.io/",
-  "desc": "Turning pretrained representations into effective behavior for sequential decisions.",
+  "desc": "Studies how pretrained representations can be aligned with and transformed into effective behavior for sequential decision-making agents.",
   "topics": [
-   "agents",
-   "RL",
-   "pretraining",
-   "decision making"
+   "representation learning",
+   "reinforcement learning",
+   "robotics",
+   "world models",
+   "planning"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 16,
   "name": "Agentic AI Benchmarks and Applications for Enterprise Tasks",
   "url": "https://sites.google.com/view/aaba4et",
-  "desc": "Benchmarks and applications for agentic AI in enterprise tasks.",
+  "desc": "Fosters work on benchmarking, evaluating, and deploying robust, trustworthy agentic AI systems for complex, dynamic enterprise operations.",
   "topics": [
-   "agents",
+   "agentic ai",
    "benchmarks",
-   "enterprise"
+   "enterprise",
+   "evaluation",
+   "multimodal reasoning"
   ],
-  "accent": "#9c7a54"
+  "accent": "#9c7a54",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 17,
   "name": "Physical Understanding for Decision-Making: Bridging Foundation Models and Reliable Agents",
   "url": "https://sites.google.com/view/neurips-2026-workshop-pudm",
-  "desc": "Giving AI enough physical understanding for dependable embodied decisions.",
+  "desc": "Examines how AI systems can understand the physical world well enough to make safe, reliable decisions, bridging foundation and world models with agents.",
   "topics": [
-   "embodied AI",
-   "physics",
-   "agents"
+   "physical understanding",
+   "world models",
+   "robotics",
+   "embodied ai",
+   "decision making"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 26, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 18,
   "name": "Tackling Climate Change with Machine Learning",
   "url": "https://www.climatechange.ai/events/neurips2026",
-  "desc": "Applying ML to climate change mitigation, adaptation, and climate science.",
+  "desc": "Highlights ML applications for climate mitigation, adaptation, and climate science, this year under the theme \"Fostering Ground-Up Innovation in AI and Climate\".",
   "topics": [
-   "climate",
+   "climate change",
+   "machine learning",
+   "climate science",
    "sustainability",
-   "applications"
+   "earth observation"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 19,
   "name": "AI4Mat: AI for Accelerated Materials Design",
   "url": "https://sites.google.com/view/ai4mat/home",
-  "desc": "AI for accelerated materials discovery — feedback-driven design and multi-modal representations.",
+  "desc": "Brings AI researchers and materials scientists together on AI-driven materials discovery, spanning design, synthesis, and characterization, with a focus on scaling laws for materials reasoning and automating real discovery.",
   "topics": [
-   "materials",
-   "AI for science",
-   "generative design"
+   "materials discovery",
+   "ai-guided design",
+   "self-driving laboratories",
+   "machine learning interatomic potentials",
+   "automated synthesis"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 20,
   "name": "AI Foundations for Power Grids: From Models to Deployment at Scale",
   "url": "https://ai4powergrids.github.io",
-  "desc": "AI foundations for power grids, from models to deployment at scale.",
+  "desc": "Brings power systems to the ML community as a methodological challenge, centered on how to evaluate learning-based methods under realistic, evolving operating conditions from benchmarks to deployment.",
   "topics": [
    "power grids",
-   "energy",
-   "deployment"
+   "benchmarks",
+   "model training",
+   "real-time control",
+   "evaluation"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 21,
   "name": "World Models in Physical AI",
   "url": "http://www.worldmodels-physicalai.com/",
-  "desc": "World models for physical AI — learned models that simulate, plan, and act.",
+  "desc": "One-day workshop on learned world models of physical-world dynamics for embodied AI, converging generative modeling, reinforcement learning, robotics, computer vision, and autonomous driving.",
   "topics": [
    "world models",
-   "physical AI",
-   "simulation"
+   "physical ai",
+   "model-based reinforcement learning",
+   "generative simulation",
+   "robotics"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 22,
   "name": "Machine Learning for Systems",
   "url": "https://mlforsystems.org",
-  "desc": "Supervised and RL methods replacing hand-tuned heuristics in computer systems.",
+  "desc": "Annual interdisciplinary workshop on applying ML (including LLMs and agentic workflows) to design and optimize computer systems, and to improve the infrastructure that trains and serves them.",
   "topics": [
-   "systems",
-   "RL",
-   "infrastructure"
+   "ml for systems",
+   "compilers",
+   "systems software",
+   "llms for systems",
+   "benchmarks"
   ],
-  "accent": "#a0785f"
+  "accent": "#a0785f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 23,
   "name": "The Third Workshop on Agents in the Wild: Safety, Security, and Beyond",
   "url": "https://agentwild-workshop.github.io/neurips2026/",
-  "desc": "Safety, security, and beyond for agents deployed in the wild.",
+  "desc": "Third edition workshop on the safety, security, and trustworthiness of AI agents that reason and act in open-ended real-world environments, spanning methods, benchmarks, and frameworks.",
   "topics": [
-   "agents",
-   "safety",
-   "security"
+   "agent safety",
+   "agent security",
+   "prompt injection",
+   "agent evaluation",
+   "governance"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 24,
   "name": "Self-Evolving Diversity-Driven Search for Robust AI Systems",
   "url": "https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust",
-  "desc": "Self-evolving, diversity-driven search for robust AI systems.",
+  "desc": "Workshop on self-evolving, diversity-driven search methods for building robust and adaptable AI systems.",
   "topics": [
-   "robustness",
-   "evolutionary methods",
-   "search"
+   "evolutionary algorithms",
+   "quality-diversity",
+   "neuroevolution",
+   "robust ai",
+   "self-evolving systems"
   ],
-  "accent": "#9c7a54"
+  "accent": "#9c7a54",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 25,
   "name": "Interpreting Agent Behavior (IAB): Human-Centered Interpretation for Understanding Agents, Humans, and Interaction",
   "url": "https://iab-agents.github.io/",
-  "desc": "Interpreting agent behavior across agents, humans, and their interaction.",
+  "desc": "First workshop on human-centered interpretation of agent behavior, bridging AI with social science and HCI to understand agents, humans, and their interaction.",
   "topics": [
-   "interpretability",
-   "agents",
-   "human-AI interaction"
+   "agent interpretability",
+   "trajectory analysis",
+   "human-agent interaction",
+   "agent evaluation",
+   "alignment"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 26,
   "name": "AI for Drug Discovery: Bridging the Translation Gap",
   "url": "https://ai4dd-neurips2026.github.io/",
-  "desc": "Closing the gap between AI benchmark wins and real-world impact in drug discovery.",
+  "desc": "Addresses the gap between benchmark success and real-world drug discovery, promoting reliable, interpretable, and experimentally actionable AI for therapeutic development.",
   "topics": [
    "drug discovery",
-   "AI for science",
-   "translation"
+   "molecular property prediction",
+   "uncertainty quantification",
+   "scientific agents",
+   "benchmark validation"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 27,
   "name": "Simulations for Biology and Chemistry (Simbiochem)",
   "url": "https://www.simbiochem.com",
-  "desc": "Bridging scalable ML with rigorous molecular simulation.",
+  "desc": "Second SIMBIOCHEM workshop fusing molecular simulation, generative models, and agentic AI into physics-aligned systems that accelerate biological and chemical discovery.",
   "topics": [
-   "molecular simulation",
-   "chemistry",
-   "biology"
+   "molecular dynamics",
+   "machine learning force fields",
+   "conformational ensembles",
+   "agentic ml",
+   "molecular foundation models"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 28,
   "name": "Responsible Communication of Machine Learning Research in Biomedicine (RCMLR)",
   "url": "https://translatingmlresearch.github.io/RCMLR/",
-  "desc": "Closing the gap between ML researchers and biomedicine clinicians/policymakers.",
+  "desc": "Bridges the translation gap between ML researchers and the clinicians, scientists, and policymakers who interpret their findings, focusing on responsible communication of capabilities and limits.",
   "topics": [
+   "science communication",
    "biomedicine",
-   "responsible AI",
-   "communication"
+   "responsible ai",
+   "reporting standards",
+   "interdisciplinary dialogue"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 29,
   "name": "Collaborative, Open, and Decentralized Training of Foundation Models (CODEC-FM)",
   "url": "https://collaborative-open-decentralized-fomo.github.io/",
-  "desc": "Collaborative, open, decentralized training of foundation models across distributed compute.",
+  "desc": "Workshop on scaling foundation-model training across distributed, heterogeneous compute, from inter-datacenter to internet-scale collaborative open model development.",
   "topics": [
    "decentralized training",
-   "foundation models",
-   "open science"
+   "federated learning",
+   "communication-efficient optimization",
+   "open model development",
+   "distributed systems"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 30,
   "name": "Beyond Private Training: The New Landscape of AI Privacy",
   "url": "https://beyond-private-training.ai.studio/",
-  "desc": "Privacy in ML beyond training — inference and deployment.",
+  "desc": "Shifts AI privacy beyond training-time DP-SGD toward inference-time safety, agentic privacy guardrails, and using AI models themselves to enforce privacy.",
   "topics": [
-   "privacy",
-   "security",
-   "deployment"
+   "differential privacy",
+   "inference-time privacy",
+   "privacy for agents",
+   "synthetic data",
+   "in-context learning"
   ],
-  "accent": "#a0785f"
+  "accent": "#a0785f",
+  "deadline": "Sep 7, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 31,
   "name": "The Third Workshop on GenAI for Health: Agentic Systems, Clinical Trust, and Future Potential",
   "url": "https://genai4health.github.io/",
-  "desc": "Generative AI in healthcare — potential, trustworthiness, and regulatory compliance.",
+  "desc": "Third edition convening ML researchers and clinicians to advance capable, safe, and equitable generative AI for health, adding a track on ambient, conversational, and embodied care systems.",
   "topics": [
-   "generative AI",
-   "health",
-   "clinical"
+   "generative ai for health",
+   "clinical foundation models",
+   "multimodal learning",
+   "trustworthy ai",
+   "embodied care"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Sep 5, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 32,
   "name": "Continual World Models",
   "url": "https://continual-world-models-workshop.github.io",
-  "desc": "World models that continually adapt to distribution shift.",
+  "desc": "Workshop on world models that keep learning from observation, memory, feedback, and interaction, defining a research agenda for continual adaptation beyond frozen predictors.",
   "topics": [
    "world models",
    "continual learning",
-   "robotics"
+   "adaptation",
+   "reinforcement learning",
+   "generative modeling"
   ],
-  "accent": "#9c7a54"
+  "accent": "#9c7a54",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 33,
   "name": "AgenticOS: Co-designing Systems and ML Foundations of an OS Layer for Agentic AI",
   "url": "https://agentic-fmos.github.io/",
-  "desc": "Co-designing systems and ML foundations of an OS layer for agentic AI.",
+  "desc": "Co-designs the systems and ML foundations of an operating-system layer for agentic AI, covering memory, scheduling, routing, governance, and reproducibility.",
   "topics": [
-   "systems",
-   "agents",
-   "operating systems"
+   "agentic os",
+   "memory systems",
+   "scheduling",
+   "model routing",
+   "governance"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 34,
   "name": "Neuro-Symbolic Embodied Intelligence",
   "url": "https://nemo.semantic.review/",
-  "desc": "Neuro-symbolic approaches to embodied intelligence.",
+  "desc": "Workshop on embodied neuro-symbolic AI integrating learned perception, reinforcement learning, LLMs, planning, and structured symbolic knowledge for agents acting in physical or simulated environments.",
   "topics": [
-   "neuro-symbolic",
-   "embodied AI"
+   "neuro-symbolic ai",
+   "planning",
+   "knowledge representation",
+   "embodied agents",
+   "llm planning"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Sep 10, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 35,
   "name": "Agentic AI for Biological Discovery (AgenticLS)",
   "url": "https://agenticls.github.io",
-  "desc": "Agentic AI for biological discovery.",
+  "desc": "Brings together ML and life-science researchers to build, benchmark, and deploy agentic AI systems for biological discovery, from scientific copilots to closed-loop laboratories.",
   "topics": [
-   "agents",
-   "biology",
-   "discovery"
+   "agentic ai",
+   "computational biology",
+   "drug discovery",
+   "lab automation",
+   "foundation models"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Sep 18, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 36,
   "name": "XAI4Science: Knowledge Discovery and Trust through Interpretable Foundation Models",
   "url": "https://xai4science.github.io/",
-  "desc": "Explainable-AI techniques for interpretable foundation models in science.",
+  "desc": "Focuses on explainable, interpretable foundation models for weather and climate forecasting, using XAI to build trust and scientific rigor in data-driven prediction.",
   "topics": [
-   "explainability",
-   "foundation models",
-   "AI for science"
+   "explainable ai",
+   "weather forecasting",
+   "climate foundation models",
+   "interpretability",
+   "climate science"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 37,
   "name": "Transitioning from Pre-Training to Post-Training",
   "url": "https://pretrain2posttrain.github.io",
-  "desc": "Transitioning from pre-training to post-training.",
+  "desc": "Examines how pre-training and post-training stages of LLM training interact, what base models must provide for post-training to succeed, and how to predict training-stage outcomes.",
   "topics": [
+   "pre-training",
    "post-training",
-   "alignment",
-   "foundation models"
+   "llm training",
+   "fine-tuning",
+   "reinforcement learning"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 38,
   "name": "Interpretability as a Science: Toward Rigorous Foundations for Understanding LLMs",
   "url": "https://interpscience.github.io/",
-  "desc": "Toward rigorous scientific foundations for understanding LLMs.",
+  "desc": "Asks what it would take to ground LLM interpretability as a rigorous empirical science, focusing on measurement, causality, and falsifiability informed by adjacent sciences.",
   "topics": [
    "interpretability",
-   "LLMs",
-   "science of ML"
+   "llm",
+   "causality",
+   "measurement",
+   "mechanistic interpretability"
   ],
-  "accent": "#a0785f"
+  "accent": "#a0785f",
+  "deadline": "Aug 28, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 39,
   "name": "Who Verifies the Agents? Toward Reliable Agent Development",
   "url": "https://verify-agents-workshop.github.io/",
-  "desc": "Reliable verification of AI-agent improvements as a foundational discipline.",
+  "desc": "Treats verification of AI agents as a first-class research problem, spanning robust verifiers, environment-grounded evaluation, and heterogeneous verification signals.",
   "topics": [
-   "verification",
-   "agents",
-   "reliability"
+   "agent verification",
+   "evaluation",
+   "reliability",
+   "simulators",
+   "ai safety"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 40,
   "name": "I Can't Believe It's Not Better (ICBINB): Failure Modes of AI in Biology",
   "url": "https://icbinb-bio.github.io/",
-  "desc": "Why strong-benchmark AI models fail on new biology — failure modes and robustness.",
+  "desc": "Studies failure modes of AI in biology, from out-of-distribution generalization and domain shift to robustness and trustworthy scientific discovery.",
   "topics": [
    "failure modes",
-   "robustness",
-   "biology"
+   "ai for biology",
+   "out-of-distribution",
+   "generalization",
+   "robustness"
   ],
-  "accent": "#9c7a54"
+  "accent": "#9c7a54",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 41,
   "name": "Symmetry and Geometry in Neural Representations (NeurReps)",
   "url": "https://neurreps.org/",
-  "desc": "Geometric and symmetry principles shared by biological and artificial neural systems.",
+  "desc": "Gathers mathematicians, ML researchers, and neuroscientists to study symmetry and geometry in neural representations shared by brains and machines.",
   "topics": [
-   "geometry",
    "symmetry",
-   "representations",
-   "neuroscience"
+   "geometry",
+   "neural representations",
+   "equivariance",
+   "topological data analysis"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 24, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 42,
   "name": "Third Workshop on Attributing Model Behavior at Scale: Data Attribution and Provenance (ATTRIB)",
   "url": "https://attrib-workshop.cc/",
-  "desc": "Attributing model behavior to data, algorithms, architecture, and scale.",
+  "desc": "Focuses on attributing model outputs to training data, spanning contributive and corroborative attribution and downstream uses such as provenance, litigation, and auditing.",
   "topics": [
    "data attribution",
    "provenance",
-   "interpretability"
+   "training data influence",
+   "causal attribution"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Sep 1, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 43,
   "name": "Robot Learning with World Models: Capabilities, Frontiers, and Challenges",
   "url": "https://robowm-ws.github.io/",
-  "desc": "Robot learning with world models — capabilities, frontiers, and challenges.",
+  "desc": "Explores using world models to advance physical AI and robot learning, addressing consistency, physical accuracy, and multimodality beyond vision for real-world control.",
   "topics": [
-   "robotics",
    "world models",
-   "RL"
+   "robot learning",
+   "physical ai",
+   "action models",
+   "simulation"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 44,
   "name": "First Workshop on Meta Agents: Managing Agents that Manage Agents",
   "url": "https://meta-agents-workshop.github.io/",
-  "desc": "Agents that design, supervise, train, or improve other agents.",
+  "desc": "Examines meta-agents that build, optimize, and supervise other agents, covering technical challenges, evaluation, safety, and governance of their responsible use.",
   "topics": [
-   "agents",
-   "meta-learning",
-   "supervision"
+   "meta-agents",
+   "agent design",
+   "self-improvement",
+   "oversight",
+   "agent safety"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 45,
   "name": "8th Robot Learning Workshop: Is Physical AI Truly Going Zero-Shot?",
   "url": "https://www.robot-learning.ml/2026/",
-  "desc": "Robot learning — is physical AI truly going zero-shot?",
+  "desc": "Debates whether physical AI is going zero-shot, examining foundation models, scaling laws, and embodied generalization in robot learning.",
   "topics": [
-   "robotics",
-   "RL",
-   "physical AI"
+   "robot learning",
+   "foundation models",
+   "zero-shot",
+   "embodied ai",
+   "generalization"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 26, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 46,
   "name": "Foundation Models for the Brain and Body",
   "url": "https://brainbodyfm-workshop.github.io",
-  "desc": "Foundation models for the brain and body.",
+  "desc": "Focuses on foundation models for neural and physiological biosignals, spanning brain-computer interfacing, health monitoring, and embodied intelligence.",
   "topics": [
-   "neuroscience",
-   "biomedical",
-   "foundation models"
+   "foundation models",
+   "biosignals",
+   "brain-computer interface",
+   "eeg",
+   "neural decoding"
   ],
-  "accent": "#a0785f"
+  "accent": "#a0785f",
+  "deadline": "Sep 5, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 47,
   "name": "Continual Learning in the Era of Foundation Models and Embodied Agents (CL4FMAgents)",
   "url": "https://neurips26-cl4fmagents.github.io",
-  "desc": "Continual learning at the intersection of foundation models and embodied agents.",
+  "desc": "Addresses continual learning for foundation models and embodied agents in dynamic environments, from catastrophic forgetting to agent self-improvement.",
   "topics": [
    "continual learning",
    "foundation models",
-   "embodied agents"
+   "embodied agents",
+   "lifelong learning",
+   "self-improvement"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 48,
   "name": "Africa in AI",
   "url": "https://africainai.mailab.io/",
-  "desc": "Elevating African-led AI toward trustworthy, resource-efficient solutions for African contexts.",
+  "desc": "Elevates African perspectives in AI for sustainable development, advancing resource-efficient, trustworthy AI across health, education, and energy.",
   "topics": [
-   "community",
-   "trustworthy AI",
-   "resource-efficient"
+   "ai for africa",
+   "low-resource ai",
+   "sustainable development",
+   "language technologies",
+   "ai ethics"
   ],
-  "accent": "#9c7a54"
+  "accent": "#9c7a54",
+  "deadline": "Sep 10, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 49,
   "name": "LatinX in AI (LXAI)",
   "url": "https://www.latinxinai.org/neurips-2026",
-  "desc": "Showcasing ML/AI work from LatinX researchers and allies.",
+  "desc": "Official LatinX in AI affinity workshop offering LatinX researchers a venue for talks, posters, panels, and mentoring across machine learning topics.",
   "topics": [
-   "community",
-   "diversity"
+   "affinity group",
+   "diversity",
+   "machine learning",
+   "mentorship"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 20, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 50,
   "name": "Muslims in ML (MusIML)",
   "url": "https://www.musiml.org/",
-  "desc": "Amplifying Muslim researchers in ML and topics relevant to Muslim communities.",
+  "desc": "Affinity workshop advancing ML research by Muslim scholars and exploring AI's impact on Muslim communities, emphasizing fairness, ethics, and inclusion.",
   "topics": [
-   "community",
-   "diversity"
+   "affinity group",
+   "muslim community",
+   "ethical ai",
+   "fairness",
+   "nlp"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Sep 10, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 51,
   "name": "RoCo-Spring: The Robust Correspondence Challenge",
   "url": "https://roco-spring.github.io/",
-  "desc": "Benchmarking robustness of optical flow, stereo, and scene flow to corruptions.",
+  "desc": "Competition-track challenge evaluating robust dense correspondence under realistic corruptions across optical flow, stereo matching, and scene flow.",
   "topics": [
-   "computer vision",
-   "robustness",
    "optical flow",
-   "benchmarks"
+   "stereo matching",
+   "scene flow",
+   "robustness",
+   "dense correspondence"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Sep 15, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 52,
   "name": "Global South in AI (GlobalSouthAI)",
   "url": "https://sites.google.com/view/globalsouthai-neurips26/home",
-  "desc": "AI research and community for the Global South (runs at Sydney and Paris).",
+  "desc": "Affinity event strengthening AI research for and from the Global South, covering resource-aware AI, low-resource languages, and AI for social impact.",
   "topics": [
-   "community",
-   "global south"
+   "global south",
+   "resource-aware ai",
+   "low-resource languages",
+   "ai for social impact"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Sep 5, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 53,
   "name": "Queer in AI and {Dis}Ability in AI",
   "url": "https://www.queerinai.com/neurips-2026",
-  "desc": "Community space for queer researchers at the intersection of AI/ML and queerness (runs at Sydney, Paris, and Atlanta).",
+  "desc": "Joint affinity workshop gathering queer and disabled scholars to explore AI and ML at the intersection of queerness and disability, from research to community building.",
   "topics": [
-   "community",
-   "diversity"
+   "queer",
+   "disability",
+   "intersectionality",
+   "bias",
+   "affinity group"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Sep 3, 2026"
  },
  {
   "venue": "Sydney",
   "idx": 54,
   "name": "Women in Machine Learning (WiML)",
   "url": "https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/",
-  "desc": "Supporting women and underrepresented researchers in ML (runs at Sydney, Paris, and Atlanta).",
+  "desc": "21st Women in Machine Learning workshop providing women and non-binary researchers a venue for talks, posters, and mentoring across ML topics.",
   "topics": [
-   "community",
-   "diversity"
+   "women in ml",
+   "affinity group",
+   "mentoring",
+   "machine learning"
   ],
-  "accent": "#a0785f"
+  "accent": "#a0785f",
+  "deadline": "Aug 17, 2026"
  },
  {
   "venue": "Paris",
   "idx": 1,
   "name": "Foundations of Language Model Security: Theory, Practice, and Fundamental Limits",
   "url": "https://flmsec.github.io/",
-  "desc": "Foundations of LLM security — from reactive attack/defense toward secure-by-design.",
+  "desc": "Advances secure-by-design LLM systems, moving beyond attack-defense cycles to formalize LLM security, design reproducible evaluations, and understand fundamental security-utility limits.",
   "topics": [
-   "security",
-   "LLMs",
-   "theory"
+   "llm security",
+   "prompt injection",
+   "secure-by-design",
+   "formal verification",
+   "security-utility tradeoff"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 22, 2026"
  },
  {
   "venue": "Paris",
   "idx": 2,
   "name": "Reinforcement Learning for Experimental Sciences",
   "url": "https://rl-experimental-sciences-workshop.github.io/",
-  "desc": "RL for real-world experimental science and autonomous labs.",
+  "desc": "Explores reinforcement learning for adaptive experimentation and scientific discovery, focusing on bridging the simulation-to-reality gap in laboratory and field experiments.",
   "topics": [
-   "RL",
-   "experimental science",
-   "autonomous labs"
+   "reinforcement learning",
+   "adaptive experimentation",
+   "sim-to-real",
+   "bandits",
+   "autonomous laboratories"
   ],
-  "accent": "#7d8a5c"
+  "accent": "#7d8a5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 3,
   "name": "RoboPAD: Post-Training Adaptation of Robot Foundation Models",
   "url": "https://robotpad2026.github.io/",
-  "desc": "Post-training adaptation, reasoning, and evaluation of robot foundation models.",
+  "desc": "Focuses on post-training adaptation of robot foundation models, covering how to adapt, correct, evaluate, and safely improve them after pretraining for real-world deployment.",
   "topics": [
-   "robotics",
-   "foundation models",
-   "post-training"
+   "robot foundation models",
+   "post-training",
+   "embodied ai",
+   "world models",
+   "cross-embodiment adaptation"
   ],
-  "accent": "#a08656"
+  "accent": "#a08656",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 4,
   "name": "TS-LIMITS: Generalization for Time Series in Tight Settings",
   "url": "https://ts-limits.github.io/",
-  "desc": "Time-series generalization under latency, memory, privacy, and sustainability constraints.",
+  "desc": "Addresses generalization for time series under tight constraints of latency, inference, memory, privacy, and sustainability for practical deployment.",
   "topics": [
    "time series",
    "generalization",
+   "privacy",
+   "latency",
    "efficiency"
   ],
-  "accent": "#90826e"
+  "accent": "#90826e",
+  "deadline": "Sep 5, 2026"
  },
  {
   "venue": "Paris",
   "idx": 5,
   "name": "Privacy in the Era of Large Opaque Models: Theoretical, Legal, and Practical Perspectives",
   "url": "https://neurips-workshop2026.github.io/foundation_model_agentic_privacy/",
-  "desc": "Privacy challenges from foundation models, LLMs, and agentic systems.",
+  "desc": "Examines memorization and privacy risks in opaque foundation models and agentic systems, bridging theoretical, legal, and practical perspectives on defining, measuring, and governing privacy.",
   "topics": [
    "privacy",
+   "memorization",
    "foundation models",
-   "LLMs"
+   "opaque models",
+   "governance"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 6,
   "name": "Real-Time Multimodal Conversational AI",
   "url": "https://sites.google.com/view/remucai",
-  "desc": "Real-time multimodal conversational agents (speech, video, sensors).",
+  "desc": "Advances real-time multimodal conversational AI spanning speech, video, and embodied interaction, integrating egocentric, exocentric, and dyadic perspectives.",
   "topics": [
-   "multimodal",
-   "conversational agents",
-   "real-time"
+   "multimodal conversational ai",
+   "real-time interaction",
+   "embodied agents",
+   "speech",
+   "egocentric perception"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 7,
   "name": "Sim2Science: ML with Imperfect Scientific Models",
   "url": "https://www.sim2science.com/",
-  "desc": "Making best use of imperfect scientific simulators combined with real data.",
+  "desc": "Focuses on leveraging imperfect, misspecified scientific simulators, using machine learning to account for and mitigate simulator limitations across scientific domains.",
   "topics": [
-   "simulation",
-   "AI for science",
-   "scientific models"
+   "simulation-based inference",
+   "model misspecification",
+   "surrogate modeling",
+   "multi-fidelity",
+   "scientific simulators"
   ],
-  "accent": "#9d8f74"
+  "accent": "#9d8f74",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 8,
   "name": "Bridging Optimal Transport, Learning, and Structured Data: Toward Geometric Distributional Learning",
   "url": "https://gddl-neurips-2026.github.io",
-  "desc": "Jointly modeling geometry and distribution; optimal transport meets structured data.",
+  "desc": "Bridges optimal transport, geometric deep learning, and structured data to build models that jointly capture the geometry and distributional nature of data.",
   "topics": [
    "optimal transport",
-   "geometry",
+   "geometric deep learning",
+   "graphs",
+   "manifolds",
    "generative modeling"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 9,
   "name": "Representations for the Physical Sciences",
   "url": "https://representations-physical-sciences.github.io/workshop-2026/",
-  "desc": "Representations for the physical sciences (self-supervision, transfer, tokenization).",
+  "desc": "A forum for representation learning in physical systems, centered on self-supervision, transfer learning, sampling, and tokenization of scientific data.",
   "topics": [
-   "representations",
-   "physical sciences",
-   "self-supervision"
+   "representation learning",
+   "self-supervised learning",
+   "transfer learning",
+   "tokenization",
+   "physical sciences"
   ],
-  "accent": "#7d8a5c"
+  "accent": "#7d8a5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 10,
   "name": "Foundations of LLM Post-Training in Changing Environments",
   "url": "https://www.fllmpt-work.shop/",
-  "desc": "Foundations of LLM post-training in changing environments.",
+  "desc": "Develops principled foundations for LLM post-training under task evolution and distribution shift, addressing repeated adaptation in non-stationary environments.",
   "topics": [
    "post-training",
-   "LLMs",
-   "continual learning"
+   "distribution shift",
+   "llm adaptation",
+   "continual learning",
+   "non-stationary environments"
   ],
-  "accent": "#a08656"
+  "accent": "#a08656",
+  "deadline": "Aug 30, 2026"
  },
  {
   "venue": "Paris",
   "idx": 11,
   "name": "ML4Molecules: Agentic Systems for Molecular Sciences",
   "url": "https://moleculediscovery.github.io/workshop2026/",
-  "desc": "Agentic AI for molecular science — baselines, benchmarks, negative results.",
+  "desc": "Focuses on agentic systems for the molecular sciences, from in-silico chemists and closed-loop labs to rigorous benchmarking, negative results, and careful baselines.",
   "topics": [
-   "molecules",
-   "agents",
-   "chemistry"
+   "molecular sciences",
+   "agentic ai",
+   "chemistry",
+   "self-driving labs",
+   "benchmarking"
   ],
-  "accent": "#90826e"
+  "accent": "#90826e",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 12,
   "name": "LIGHT: Deployable Small Foundation Models",
   "url": "https://almaai-disi-unibo.github.io/neurips2026-light-smallModels/",
-  "desc": "Small, trustworthy, energy-efficient models for real-world/regulated deployment.",
+  "desc": "Promotes compact, trustworthy, energy-efficient foundation models for real-world deployment through distillation, compression, quantization, and pruning.",
   "topics": [
-   "small models",
-   "efficiency",
-   "deployment"
+   "small language models",
+   "knowledge distillation",
+   "quantization",
+   "trustworthy ai",
+   "edge deployment"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 13,
   "name": "E-values: From Statistics to ML",
   "url": "https://e-values-workshop.github.io/",
-  "desc": "E-values: from statistics to machine learning.",
+  "desc": "Bridges statistics and machine learning around e-values for anytime-valid inference, sequential monitoring, and uncertainty quantification in modern ML systems.",
   "topics": [
-   "statistics",
-   "theory",
-   "uncertainty"
+   "e-values",
+   "sequential inference",
+   "hypothesis testing",
+   "uncertainty quantification",
+   "conformal prediction"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 14,
   "name": "PALM: Personalized, Aligned, Long-Term Memory for AI Systems",
   "url": "https://palm-neurips-2026.github.io/",
-  "desc": "Personalized, aligned, long-term memory for AI systems and agents.",
+  "desc": "Workshop on safe, personalized, long-term memory for AI agents and conversational assistants, covering memory architectures, personalization, evaluation, and safety.",
   "topics": [
-   "memory",
+   "long-term memory",
+   "ai agents",
    "personalization",
-   "agents"
+   "conversational assistants",
+   "memory safety"
   ],
-  "accent": "#9d8f74"
+  "accent": "#9d8f74",
+  "deadline": "Aug 24, 2026"
  },
  {
   "venue": "Paris",
   "idx": 15,
   "name": "Trustworthy AI for Good (AI4GOOD)",
   "url": "https://trustworthy-ai-for-good.github.io/",
-  "desc": "Linking trustworthy/safe AI advances to real-world societal deployment.",
+  "desc": "Bridges trustworthy AI, AI for social good, and policy/governance to translate model safety into societal impact, with a multi-agent security and safety track.",
   "topics": [
-   "trustworthy AI",
-   "social good",
-   "deployment"
+   "trustworthy ai",
+   "ai for social good",
+   "multi-agent safety",
+   "information integrity",
+   "ai governance"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 16,
   "name": "AIDaR: AI Data Readiness for Scientific Discovery",
   "url": "https://aidar-workshop.github.io/2026/",
-  "desc": "AI data readiness for scientific discovery.",
+  "desc": "Focuses on AI data readiness for scientific discovery, addressing how scientific data should be organized for models and agents and how evaluations determine model reliability.",
   "topics": [
-   "data",
-   "AI for science",
-   "discovery"
+   "scientific data infrastructure",
+   "benchmarks",
+   "foundation models",
+   "scientific agents",
+   "data readiness"
   ],
-  "accent": "#7d8a5c"
+  "accent": "#7d8a5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 17,
   "name": "Principles of Generative Modeling (PriGM)",
   "url": "https://sites.google.com/view/prigmneurips2026/home",
-  "desc": "Principles of generative modeling.",
+  "desc": "Second workshop on the principles of generative modeling, articulating theoretical foundations for expressivity, generalization, inference-time computation, and post-training.",
   "topics": [
    "generative modeling",
-   "theory"
+   "theory",
+   "in-context learning",
+   "diffusion models",
+   "post-training"
   ],
-  "accent": "#a08656"
+  "accent": "#a08656",
+  "deadline": "Sep 5, 2026"
  },
  {
   "venue": "Paris",
   "idx": 18,
   "name": "Neural Network Artifacts as a New Data Modality",
   "url": "https://artifactsasdata.org",
-  "desc": "Neural network artifacts as a new data modality.",
+  "desc": "Treats neural network artifacts (weights, gradients, representations, training traces) as a data modality, covering model analysis, synthesis, search, and AI supply chains.",
   "topics": [
-   "representations",
-   "data modality"
+   "neural artifacts",
+   "model merging",
+   "meta-learning",
+   "model zoos",
+   "interpretability"
   ],
-  "accent": "#90826e"
+  "accent": "#90826e",
+  "deadline": "Sep 1, 2026"
  },
  {
   "venue": "Paris",
   "idx": 19,
   "name": "AI for Meta-Science: Scaling and Organizing Science in the Age of AI Scientists",
   "url": "https://ai4metascience.org/",
-  "desc": "Keeping peer review, reproducibility, and evaluation viable as AI produces papers at scale.",
+  "desc": "Treats the scientific enterprise itself as an object of study, focusing on evaluation, verification, peer review, and governance as AI scientists scale research production.",
   "topics": [
    "meta-science",
    "peer review",
-   "reproducibility"
+   "scientific evaluation",
+   "ai scientists",
+   "research governance"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 20,
   "name": "AI for Chip Design",
   "url": "https://neurips-ai-for-chip-design-2026.github.io/",
-  "desc": "Bringing AI researchers together with semiconductor/chip-design practitioners.",
+  "desc": "Brings together ML and semiconductor communities on AI-driven chip design, covering electronic design automation, physical design, and LLMs for hardware description languages.",
   "topics": [
    "chip design",
-   "hardware",
-   "EDA"
+   "electronic design automation",
+   "hardware description languages",
+   "physical design",
+   "ml for hardware"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 30, 2026"
  },
  {
   "venue": "Paris",
   "idx": 21,
   "name": "Machine Learning for Spatially Resolved High-dimensional Biology",
   "url": "https://imsb-uke.github.io/ml4spatialbio-2026/",
-  "desc": "ML for spatially-resolved, high-dimensional biology (spatial multiomics, tissue-scale).",
+  "desc": "Explores ML methods for spatially resolved high-dimensional biology, including spatial multiomics integration, geometry-based learning, and foundation models for tissue data.",
   "topics": [
-   "spatial biology",
-   "multiomics",
-   "health"
+   "spatial transcriptomics",
+   "spatial proteomics",
+   "foundation models",
+   "geometry-based learning",
+   "multimodal integration"
   ],
-  "accent": "#9d8f74"
+  "accent": "#9d8f74",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 22,
   "name": "Foundations of Agentic Systems Theory",
   "url": "https://fast-workshop.github.io",
-  "desc": "Theory of system-level behavior and risk in populations of LLM agents.",
+  "desc": "Investigates foundations of emergent behavior in systems of LLM-based agents, drawing on control theory, game theory, and social sciences to understand system-level risks.",
   "topics": [
-   "agents",
-   "theory",
-   "systems"
+   "agentic systems",
+   "emergent behavior",
+   "multi-agent",
+   "control theory",
+   "game theory"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 23,
   "name": "AXIOM: Foundations of Efficient Deep Learning",
   "url": "https://axiom-neurips2026.github.io/",
-  "desc": "Predictive principles linking deep-learning theory to efficient AI system design.",
+  "desc": "Develops predictive theoretical principles for efficient deep learning, connecting scaling laws and learning dynamics with pruning, quantization, and sparse computation.",
   "topics": [
-   "efficient ML",
-   "theory",
-   "systems"
+   "efficient deep learning",
+   "scaling laws",
+   "pruning",
+   "quantization",
+   "optimization theory"
   ],
-  "accent": "#7d8a5c"
+  "accent": "#7d8a5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 24,
   "name": "SLM-Agents: 1st Workshop on SLMs for Agentic Systems",
   "url": "https://slmw2026.github.io/",
-  "desc": "Small language models as the backbone of agentic AI on constrained devices.",
+  "desc": "Focuses on small language models as the foundation for agentic AI systems, covering compression, distillation, hardware co-design, and on-device deployment.",
   "topics": [
-   "small models",
-   "agents",
-   "efficiency"
+   "small language models",
+   "agentic systems",
+   "model compression",
+   "on-device deployment",
+   "distillation"
   ],
-  "accent": "#a08656"
+  "accent": "#a08656",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 25,
   "name": "Grounded User Simulation for Model Evaluation and Training",
   "url": "https://usersim-workshop.github.io/",
-  "desc": "Grounded user simulation for model evaluation and training.",
+  "desc": "Works to establish evidence, standards, and open tools for trustworthy user simulation in AI evaluation and training, centered on diversity, fidelity, and validity.",
   "topics": [
    "user simulation",
-   "evaluation",
-   "training"
+   "model evaluation",
+   "synthetic data",
+   "recommender systems",
+   "validity"
   ],
-  "accent": "#90826e"
+  "accent": "#90826e",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 26,
   "name": "AI and the Self: Human Identity, Authenticity, and Agency in the Age of AI",
   "url": "https://aintheself.github.io/",
-  "desc": "How AI constructs, extends, or destabilizes human identity, authenticity, and agency.",
+  "desc": "Explores how AI systems mediate human identity, agency, authenticity, and flourishing, combining technical, empirical, and philosophical methods.",
   "topics": [
-   "society",
-   "identity",
-   "philosophy"
+   "human identity",
+   "agency",
+   "ai ethics",
+   "personalization",
+   "human flourishing"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": null
  },
  {
   "venue": "Paris",
   "idx": 27,
   "name": "Epistemic Intelligence in Machine Learning (EIML)",
   "url": "https://epistemic-intelligence-in-ml.github.io",
-  "desc": "How ML systems recognize the limits of their own knowledge — uncertainty, hallucination.",
+  "desc": "Studies how learning systems recognize, represent, and act under the limits of their knowledge, spanning epistemic uncertainty, robustness, and uncertainty quantification.",
   "topics": [
-   "uncertainty",
-   "hallucination",
-   "epistemic"
+   "epistemic uncertainty",
+   "uncertainty quantification",
+   "robustness",
+   "unknown unknowns",
+   "bayesian inference"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Paris",
   "idx": 28,
   "name": "New in Machine Learning (NewInML)",
   "url": "https://newinml.github.io/NewInML2026NeurIPS/",
-  "desc": "Introducing newcomers to the ML research community and first-time authors.",
+  "desc": "Supports researchers who have not yet published at a top ML venue, offering mentoring, reviewing, and guidance to help them publish and contribute to ML research.",
   "topics": [
-   "community",
-   "early-career"
+   "machine learning",
+   "mentorship",
+   "early-career research",
+   "publishing guidance"
   ],
-  "accent": "#9d8f74"
+  "accent": "#9d8f74",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 1,
   "name": "The 1st Workshop on Physical World AI: Geometry, Characteristics, and Multimodal Sensing",
   "url": "https://physworld-org.github.io/physworld.github.io/",
-  "desc": "Physical world AI: geometry, characteristics, and multimodal sensing.",
+  "desc": "Examines how AI systems can perceive, represent, and reason about the physical world through geometry, physical characteristics, and multimodal sensing.",
   "topics": [
-   "physical AI",
-   "geometry",
-   "sensing"
+   "physical world ai",
+   "3d reconstruction",
+   "physical properties",
+   "multimodal sensing",
+   "embodied ai"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Sep 9, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 2,
   "name": "AI for Verifiable Coding (VERICODEGEN)",
   "url": "https://vericodegen.github.io/",
-  "desc": "Verifiable code generation with proof assistants, model checkers, and SMT solvers.",
+  "desc": "Advances AI for verifiable coding, where agents collaborate with proof assistants, solvers, and static analyzers to co-design code and proofs with machine-checkable guarantees.",
   "topics": [
-   "code generation",
-   "verification",
-   "formal methods"
+   "formal verification",
+   "proof assistants",
+   "program verification",
+   "autoformalization",
+   "llm code generation"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Sep 13, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 3,
   "name": "The Sixth Workshop on Mathematical Reasoning and AI (MATH-AI)",
   "url": "https://mathai-2026.github.io/",
-  "desc": "AI across mathematical research and reasoning, emphasizing agentic AI.",
+  "desc": "Focuses on mathematical reasoning and agentic AI, spanning theorem proving, autoformalization, conjecture generation, and human-AI collaboration in mathematics.",
   "topics": [
-   "mathematics",
-   "reasoning",
-   "agents"
+   "mathematical reasoning",
+   "theorem proving",
+   "autoformalization",
+   "agents",
+   "automated discovery"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Sep 25, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 4,
   "name": "DynaFront: Dynamics at the Frontiers of Optimization, Sampling, and Games",
   "url": "https://sites.google.com/view/dynafrontneurips26",
-  "desc": "Dynamical-systems views unifying optimization, sampling, and game theory.",
+  "desc": "Highlights the unifying role of dynamical systems in optimization, sampling, and game theory, with applications to diffusion models and adversarial training.",
   "topics": [
-   "dynamical systems",
    "optimization",
    "sampling",
-   "games"
+   "game theory",
+   "dynamical systems",
+   "diffusion models"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": null
  },
  {
   "venue": "Atlanta",
   "idx": 5,
   "name": "World Models for High-Stakes Health: Reliable Clinical Trial Simulation and Intervention-Aware Reasoning",
   "url": "https://wmhs-neurips.github.io/WMHS/",
-  "desc": "World models for high-stakes health — reliable clinical trial simulation and intervention-aware reasoning.",
+  "desc": "Advances patient world models for reliable clinical trial simulation and intervention-aware reasoning in high-stakes healthcare.",
   "topics": [
-   "health",
    "world models",
-   "clinical trials"
+   "clinical trial simulation",
+   "causal inference",
+   "electronic health records",
+   "healthcare ai"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Sep 1, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 6,
   "name": "Interpretability for Discovery: Understanding and Discovering Novel Knowledge in AI Models",
   "url": "https://interpretability4discovery.github.io/",
-  "desc": "Turning interpretable model representations into testable scientific knowledge.",
+  "desc": "Reframes interpretability as a tool for scientific discovery, extracting novel, testable knowledge from learned model representations across scientific domains.",
   "topics": [
    "interpretability",
-   "discovery",
-   "science"
+   "scientific discovery",
+   "representation learning",
+   "knowledge extraction"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 7,
   "name": "Medical Reasoning with Vision Language Foundation Models",
   "url": "https://med-reasoner.github.io/neurips2026/",
-  "desc": "Medical reasoning with vision-language foundation models.",
+  "desc": "Explores reasoning capabilities in medical vision-language foundation models, including chain-of-thought diagnosis and multimodal grounding for clinical decisions.",
   "topics": [
-   "medical",
    "vision-language models",
-   "reasoning"
+   "medical imaging",
+   "chain-of-thought reasoning",
+   "multimodal grounding",
+   "clinical ai"
   ],
-  "accent": "#9c7e5e"
+  "accent": "#9c7e5e",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 8,
   "name": "First Workshop on Reliable Evaluation for Language Models (JUDGe)",
   "url": "https://judge2026.github.io",
-  "desc": "Building reliable LLM-based evaluators and checking they measure what they claim.",
+  "desc": "Investigates the reliability and validity of LLM-based evaluators, treating evaluator failure as a systems problem across bias, calibration, and safety.",
   "topics": [
-   "evaluation",
-   "LLM judges",
-   "reliability"
+   "llm evaluation",
+   "evaluator reliability",
+   "calibration",
+   "bias",
+   "benchmarking"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 9,
   "name": "Workshop on Evaluation of Interactive Agents (IAEval)",
   "url": "https://eval-interactive-agents-workshop.github.io/",
-  "desc": "Rigorous, scalable, scientific methods for evaluating interactive agents.",
+  "desc": "Focuses on rigorous, scalable, and scientific methods for evaluating interactive agents, from rubric-based grading to LLM user simulators, across multi-turn and tool-using systems.",
   "topics": [
+   "interactive agents",
    "evaluation",
-   "agents",
-   "interactive"
+   "user simulation",
+   "benchmarks",
+   "trajectory evaluation"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 10,
   "name": "SaTQuML: Secure and Trustworthy Quantum Machine Learning",
   "url": "https://satquml.github.io/",
-  "desc": "Secure and trustworthy quantum machine learning.",
+  "desc": "Bridges quantum machine learning, cybersecurity, and trustworthy AI, emphasizing rigorous evaluation of secure QML systems and QML methods for cyberdefense applications.",
   "topics": [
-   "quantum ML",
-   "security",
-   "trust"
+   "quantum machine learning",
+   "adversarial robustness",
+   "privacy",
+   "cyberdefense",
+   "benchmarking"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 11,
   "name": "EconML: Economics for Machine Learning",
   "url": "https://econml26-workshop.github.io/",
-  "desc": "Economics for machine learning.",
+  "desc": "Brings together ML, economics, and game theory to map economic consequences of ML, using economic tools for learning and alignment, and studying ecosystems of interacting models.",
   "topics": [
-   "economics",
-   "applications"
+   "mechanism design",
+   "game theory",
+   "incentives",
+   "multi-agent ecosystems",
+   "strategic behavior"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 12,
   "name": "Towards Test-Time Continual Learning Agents (TTCL)",
   "url": "https://ttcl-agents.github.io",
-  "desc": "Agents that keep learning after deployment without catastrophic forgetting.",
+  "desc": "Studies AI agents that continually acquire, consolidate, and refine knowledge during deployment, uniting test-time, continual, and agentic learning without catastrophic forgetting.",
   "topics": [
    "continual learning",
-   "agents",
-   "test-time"
+   "test-time adaptation",
+   "memory consolidation",
+   "embodied agents",
+   "agentic learning"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 13,
   "name": "AI-Native Academia: Authorship, Peer Review, and Conference Governance under AI",
   "url": "https://ai-native-academia.github.io",
-  "desc": "Rethinking authorship, peer review, and governance when LLMs/agents join the research pipeline.",
+  "desc": "Examines how institutions of science should change when AI is embedded in authorship, peer review, citation, and governance, building a shared taxonomy and security framework.",
   "topics": [
    "peer review",
-   "governance",
-   "meta-science"
+   "authorship",
+   "citation integrity",
+   "conference governance",
+   "prompt injection"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 14,
   "name": "Continual Learning for Enterprise AI Agents (CLEA)",
   "url": "https://clea-neurips.github.io/",
-  "desc": "Continual learning as a core capability for enterprise AI agents.",
+  "desc": "Brings together researchers and practitioners on continual learning for enterprise AI agents, covering adaptation, orchestration, memory, benchmarks, and real-world deployment challenges.",
   "topics": [
    "continual learning",
-   "enterprise",
-   "agents"
+   "enterprise ai",
+   "catastrophic forgetting",
+   "agent orchestration",
+   "deployment"
   ],
-  "accent": "#9c7e5e"
+  "accent": "#9c7e5e",
+  "deadline": "Sep 4, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 15,
   "name": "AI Agents for Biomedical Imaging and Multimodal Clinical Data",
   "url": "https://aim-neurips26.github.io/",
-  "desc": "AI agents for biomedical imaging and multimodal clinical data.",
+  "desc": "Focuses on AI agents for biomedical imaging and multimodal clinical data, exploring tool orchestration, grounding, multi-step reasoning, and evaluation in clinical workflows.",
   "topics": [
    "biomedical imaging",
-   "agents",
-   "clinical"
+   "medical ai agents",
+   "tool orchestration",
+   "multimodal clinical data",
+   "evaluation"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 16,
   "name": "The BabyVLM Workshop: Toward Developmentally Plausible Multimodal Systems",
   "url": "https://babyvlm.github.io/#cfp",
-  "desc": "Toward developmentally plausible multimodal systems.",
+  "desc": "Asks how to build multimodal models that learn as efficiently as human infants, using developmentally plausible pretraining and human-inspired evaluation in vision-language systems.",
   "topics": [
-   "multimodal",
-   "development",
-   "cognition"
+   "sample-efficient pretraining",
+   "vision-language models",
+   "developmental psychology",
+   "cognitive science",
+   "egocentric learning"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Aug 31, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 17,
   "name": "The Agentic Web: Networked, Continually-Adapting Agent Ecosystems",
   "url": "https://theagenticweb.ai",
-  "desc": "Networked, continually-adapting agent ecosystems on the web.",
+  "desc": "Treats the networked agent collective as a research object, studying representation, learning, coordination, and safety for continually adapting agent ecosystems at internet scale.",
   "topics": [
-   "agents",
-   "web",
-   "decentralization"
+   "multi-agent systems",
+   "networked agents",
+   "collective intelligence",
+   "coordination",
+   "trust and safety"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Sep 5, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 18,
   "name": "Second Workshop on Large Language Models for Social Reasoning and Simulation",
   "url": "https://social-llm-workshop.github.io/",
-  "desc": "LLMs as agents to simulate and analyze social behavior.",
+  "desc": "Advances principled research on LLM-based social agents, covering social reasoning, simulation validity, pluralistic alignment, and evaluation beyond task accuracy.",
   "topics": [
    "social simulation",
-   "LLMs",
-   "agents"
+   "theory of mind",
+   "norm formation",
+   "multi-agent simulation",
+   "alignment"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Aug 25, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 19,
   "name": "Workshop on Resource-Aware Agentic AI",
   "url": "https://resource-aware-workshop.github.io/",
-  "desc": "Resource-aware agentic AI.",
+  "desc": "Explores how to design AI agents that reason about and adapt to compute, energy, memory, latency, and cost budgets, enabling efficient and accessible deployment.",
   "topics": [
-   "agents",
-   "efficiency",
-   "resources"
+   "resource-aware agents",
+   "compute efficiency",
+   "model compression",
+   "on-device deployment",
+   "agent orchestration"
   ],
-  "accent": "#9a6f63"
+  "accent": "#9a6f63",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 20,
   "name": "Workshop on Child Safety in AI",
   "url": "https://childsafety-ai.github.io/",
-  "desc": "Technical and sociotechnical approaches to keeping children safe within AI systems.",
+  "desc": "Addresses technical and sociotechnical challenges of protecting children from AI risks, spanning safe data, robust models, deployment safeguards, and policy.",
   "topics": [
-   "safety",
-   "children",
-   "trust & safety"
+   "child safety",
+   "ai safety",
+   "content moderation",
+   "machine unlearning",
+   "governance"
   ],
-  "accent": "#8a7f5c"
+  "accent": "#8a7f5c",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 21,
   "name": "Human-AI Coevolution: Measuring Human-Agent Teams in the Agentic Era",
   "url": "https://neurips2026haic.com",
-  "desc": "Measuring human-agent teams in the agentic era.",
+  "desc": "Builds methodological foundations for empirically evaluating human-agent teams, focusing on validity, expert disagreement, and adaptive evaluation as systems and users coevolve.",
   "topics": [
-   "human-AI interaction",
-   "agents",
-   "evaluation"
+   "human-agent teams",
+   "evaluation",
+   "human feedback",
+   "continual evaluation",
+   "validity"
   ],
-  "accent": "#9c7e5e"
+  "accent": "#9c7e5e",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 22,
   "name": "Second Workshop on ML×OR (MLxOR)",
   "url": "https://mlxor-2026.github.io/",
-  "desc": "ML and operations research for uncertainty-aware decision-making.",
+  "desc": "Presents developments at the intersection of machine learning and operations research, emphasizing decision-making with GenAI and OR for uncertainty-aware applications.",
   "topics": [
    "operations research",
+   "generative ai",
+   "decision-making",
    "optimization",
-   "uncertainty"
+   "reinforcement learning"
   ],
-  "accent": "#a8895a"
+  "accent": "#a8895a",
+  "deadline": "Aug 31, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 23,
   "name": "GEM: Integrating Generative and Experimental Platforms for Biomolecular Design",
   "url": "https://www.gembio.ai/",
-  "desc": "Integrating generative and experimental platforms for biomolecular design.",
+  "desc": "Bridges generative machine learning and experimental biology for biomolecular design, with in-silico and wet-lab tracks and seed grants for dry-wet collaborations.",
   "topics": [
    "biomolecular design",
    "generative models",
-   "experiments"
+   "protein design",
+   "active learning",
+   "experimental biology"
   ],
-  "accent": "#a0855a"
+  "accent": "#a0855a",
+  "deadline": "Aug 30, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 24,
   "name": "DevAI: Developmental Perspectives on AI",
   "url": "https://sites.google.com/view/devai-workshop-2026/",
-  "desc": "Developmental perspectives on AI.",
+  "desc": "Brings together AI, cognitive science, neuroscience, and developmental psychology to explore what human development teaches about building more robust, human-like AI.",
   "topics": [
-   "development",
-   "cognition"
+   "developmental psychology",
+   "cognitive science",
+   "neuroscience",
+   "human-like ai",
+   "emergence of intelligence"
   ],
-  "accent": "#8f7a66"
+  "accent": "#8f7a66",
+  "deadline": "Aug 29, 2026"
  },
  {
   "venue": "Atlanta",
   "idx": 25,
   "name": "AI & Science: Evolution or Extinction?",
   "url": "https://aiscik.github.io/",
-  "desc": "AI and science: evolution or extinction?",
+  "desc": "Develops a domain-specific safety, alignment, and evaluation agenda for AI in science, examining epistemic integrity when AI systems participate in scientific discovery.",
   "topics": [
-   "AI for science",
-   "meta-science"
+   "ai for science",
+   "epistemology",
+   "scientific integrity",
+   "ai safety",
+   "evaluation"
   ],
-  "accent": "#96714f"
+  "accent": "#96714f",
+  "deadline": "Sep 7, 2026"
  }
 ]

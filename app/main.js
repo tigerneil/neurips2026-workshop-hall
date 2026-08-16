@@ -777,7 +777,10 @@ function roomTopicsTex(r) {
     g.fillText('INFO', 34, h - 118);
     g.fillStyle = '#463921'; g.font = '500 28px Georgia, serif';
     g.fillText(VENUE_DATES[r.venue] || r.venue, 45, h - 74);
-    g.fillText('展位 Booth #' + r.idx + (r.url ? '' : ' · 官网待公布'), 45, h - 38);
+    let meta = 'Booth #' + r.idx;
+    if (r.deadline) meta += ' · 截止 ' + r.deadline;
+    else if (!r.url) meta += ' · 官网待公布';
+    g.fillText(meta, 45, h - 38);
   });
 }
 
@@ -1070,7 +1073,8 @@ function animate() {
       const ws = hit.object.userData.ws;
       if (targeted !== ws) {
         targeted = ws;
-        document.getElementById('icVenue').textContent = VENUE_DATES[ws.venue] + ' · Booth #' + ws.idx;
+        document.getElementById('icVenue').textContent = VENUE_DATES[ws.venue] + ' · Booth #' + ws.idx
+          + (ws.room && ws.room.deadline ? ' · 截止 ' + ws.room.deadline : '');
         document.getElementById('icName').textContent = ws.name;
         const lk = document.getElementById('icLink');
         lk.innerHTML = ws.url
@@ -1095,7 +1099,8 @@ function animate() {
       targeted = kind ? { kind } : null;
       if (kind === 'front') {
         const ws = currentWs;
-        document.getElementById('icVenue').textContent = VENUE_DATES[ws.venue] + ' · Booth #' + ws.idx;
+        document.getElementById('icVenue').textContent = VENUE_DATES[ws.venue] + ' · Booth #' + ws.idx
+          + (ws.room && ws.room.deadline ? ' · 截止 ' + ws.room.deadline : '');
         document.getElementById('icName').textContent = ws.name;
         const lk = document.getElementById('icLink');
         lk.innerHTML = ws.url
