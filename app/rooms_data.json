@@ -13,7 +13,51 @@
    "interpretability"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Zhiqin Yang",
+    "role": "Organizer",
+    "affiliation": "Hong Kong University of Science and Technology",
+    "photo": "images/people/Sydney_1_0.jpg"
+   },
+   {
+    "name": "Yuhan Liu",
+    "role": "Organizer",
+    "affiliation": "Xiaomi Inc.",
+    "photo": "images/people/Sydney_1_1.jpg"
+   },
+   {
+    "name": "Xiuying Chen",
+    "role": "Organizer",
+    "affiliation": "Mohamed bin Zayed University of Artificial Intelligence",
+    "photo": "images/people/Sydney_1_2.jpg"
+   },
+   {
+    "name": "Ekaterina Vylomova",
+    "role": "Organizer",
+    "affiliation": "University of Melbourne",
+    "photo": "images/people/Sydney_1_3.jpg"
+   },
+   {
+    "name": "Bo Han",
+    "role": "Organizer",
+    "affiliation": "Hong Kong Baptist University & RIKEN AIP",
+    "photo": "images/people/Sydney_1_4.jpg"
+   },
+   {
+    "name": "Masashi Sugiyama",
+    "role": "Organizer",
+    "affiliation": "RIKEN AIP & University of Tokyo",
+    "photo": "images/people/Sydney_1_5.jpg"
+   },
+   {
+    "name": "Jingwen Fu",
+    "role": "Organizer",
+    "affiliation": "Zhongguancun Academy",
+    "photo": "images/people/Sydney_1_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -29,7 +73,57 @@
    "efficient inference"
   ],
   "accent": "#a0855a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Jinjie Ni",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_2_0.jpg"
+   },
+   {
+    "name": "Shansan Gong",
+    "role": "Organizer",
+    "affiliation": "HKU",
+    "photo": "images/people/Sydney_2_1.jpg"
+   },
+   {
+    "name": "Amin Karimi Monsefi",
+    "role": "Organizer",
+    "affiliation": "Ohio State University",
+    "photo": "images/people/Sydney_2_2.jpg"
+   },
+   {
+    "name": "Yuchen Zhu",
+    "role": "Organizer",
+    "affiliation": "Georgia Tech",
+    "photo": "images/people/Sydney_2_3.jpg"
+   },
+   {
+    "name": "Irina Belousova",
+    "role": "Organizer",
+    "affiliation": "Apple",
+    "photo": "images/people/Sydney_2_4.jpg"
+   },
+   {
+    "name": "Michael Qizhe Shieh",
+    "role": "Organizer",
+    "affiliation": "NUS",
+    "photo": "images/people/Sydney_2_5.jpg"
+   },
+   {
+    "name": "Yizhe Zhang",
+    "role": "Organizer",
+    "affiliation": "Meta",
+    "photo": "images/people/Sydney_2_6.jpg"
+   },
+   {
+    "name": "Pavlo Molchanov",
+    "role": "Organizer",
+    "affiliation": "NVIDIA Research",
+    "photo": "images/people/Sydney_2_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -45,7 +139,51 @@
    "optimal transport"
   ],
   "accent": "#8f7a66",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Minhyuk Sung",
+    "role": "Organizer",
+    "affiliation": "KAIST",
+    "photo": "images/people/Sydney_3_0.jpg"
+   },
+   {
+    "name": "Jaihoon Kim",
+    "role": "Organizer",
+    "affiliation": "KAIST",
+    "photo": "images/people/Sydney_3_1.jpg"
+   },
+   {
+    "name": "Molei Tao",
+    "role": "Organizer",
+    "affiliation": "Georgia Tech",
+    "photo": "images/people/Sydney_3_2.jpg"
+   },
+   {
+    "name": "Pranam Chatterjee",
+    "role": "Organizer",
+    "affiliation": "University of Pennsylvania",
+    "photo": "images/people/Sydney_3_3.jpg"
+   },
+   {
+    "name": "Sophia Tang",
+    "role": "Organizer",
+    "affiliation": "University of Pennsylvania",
+    "photo": "images/people/Sydney_3_4.jpg"
+   },
+   {
+    "name": "Nolan Dey",
+    "role": "Organizer",
+    "affiliation": "Cerebras Systems",
+    "photo": "images/people/Sydney_3_5.jpg"
+   },
+   {
+    "name": "Subham Sekhar Sahoo",
+    "role": "Organizer",
+    "affiliation": "MBZUAI",
+    "photo": "images/people/Sydney_3_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -61,7 +199,45 @@
    "human-computer interaction"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Niki Foteinopoulou",
+    "role": "Organizer",
+    "affiliation": "Tavus",
+    "photo": "images/people/Sydney_4_0.jpg"
+   },
+   {
+    "name": "Alessandro Conti",
+    "role": "Organizer",
+    "affiliation": "Tavus",
+    "photo": "images/people/Sydney_4_1.jpg"
+   },
+   {
+    "name": "Jack Saunders",
+    "role": "Organizer",
+    "affiliation": "Tavus",
+    "photo": "images/people/Sydney_4_2.jpg"
+   },
+   {
+    "name": "Oya Celiktutan",
+    "role": "Organizer",
+    "affiliation": "King's College London",
+    "photo": "images/people/Sydney_4_3.jpg"
+   },
+   {
+    "name": "Cigdem Beyan",
+    "role": "Organizer",
+    "affiliation": "University of Verona",
+    "photo": "images/people/Sydney_4_4.jpg"
+   },
+   {
+    "name": "Ioannis Patras",
+    "role": "Organizer",
+    "affiliation": "Queen Mary University of London",
+    "photo": "images/people/Sydney_4_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -77,7 +253,51 @@
    "hypothesis generation"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Marinka Zitnik",
+    "role": "Organizer",
+    "affiliation": "Harvard",
+    "photo": "images/people/Sydney_5_0.jpg"
+   },
+   {
+    "name": "Priya Donti",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Sydney_5_1.jpg"
+   },
+   {
+    "name": "Yuanqi Du",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research",
+    "photo": "images/people/Sydney_5_2.jpg"
+   },
+   {
+    "name": "Ada Fang",
+    "role": "Organizer",
+    "affiliation": "Harvard",
+    "photo": "images/people/Sydney_5_3.jpg"
+   },
+   {
+    "name": "Anvita Bhagavathula",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Sydney_5_4.jpg"
+   },
+   {
+    "name": "Ana Rivera",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Sydney_5_5.jpg"
+   },
+   {
+    "name": "Emilien Dupont",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_5_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -93,7 +313,51 @@
    "applied probability"
   ],
   "accent": "#a0785f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Dai Shi",
+    "role": "Organizer",
+    "affiliation": "University of Cambridge",
+    "photo": "images/people/Sydney_6_0.jpg"
+   },
+   {
+    "name": "Andi Han",
+    "role": "Organizer",
+    "affiliation": "University of Sydney",
+    "photo": "images/people/Sydney_6_1.jpg"
+   },
+   {
+    "name": "Bingxin Zhou",
+    "role": "Organizer",
+    "affiliation": "Shanghai Jiao Tong University",
+    "photo": "images/people/Sydney_6_2.jpg"
+   },
+   {
+    "name": "Junbin Gao",
+    "role": "Organizer",
+    "affiliation": "University of Sydney",
+    "photo": "images/people/Sydney_6_3.jpg"
+   },
+   {
+    "name": "Valentin De Bortoli",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind · ENS Paris",
+    "photo": "images/people/Sydney_6_4.jpg"
+   },
+   {
+    "name": "Luke Thompson",
+    "role": "Organizer",
+    "affiliation": "University of Sydney",
+    "photo": "images/people/Sydney_6_5.jpg"
+   },
+   {
+    "name": "José Miguel Hernández-Lobato",
+    "role": "Organizer",
+    "affiliation": "University of Cambridge",
+    "photo": "images/people/Sydney_6_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -109,7 +373,57 @@
    "privacy"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Niao He",
+    "role": "Organizer",
+    "affiliation": "ETH Zurich",
+    "photo": "images/people/Sydney_7_0.jpg"
+   },
+   {
+    "name": "Bingcong Li",
+    "role": "Organizer",
+    "affiliation": "ETH Zurich",
+    "photo": "images/people/Sydney_7_1.jpg"
+   },
+   {
+    "name": "Shiwei Liu",
+    "role": "Organizer",
+    "affiliation": "ELLIS Institute Tübingen, MPI for Intelligent Systems, and Tübingen AI Center",
+    "photo": "images/people/Sydney_7_2.jpg"
+   },
+   {
+    "name": "Hao Ma",
+    "role": "Organizer",
+    "affiliation": "ETH Zurich",
+    "photo": "images/people/Sydney_7_3.jpg"
+   },
+   {
+    "name": "Michael Muehlebach",
+    "role": "Organizer",
+    "affiliation": "MPI for Intelligent Systems",
+    "photo": "images/people/Sydney_7_4.jpg"
+   },
+   {
+    "name": "Daniela Rus",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Sydney_7_5.jpg"
+   },
+   {
+    "name": "Marko Zarić",
+    "role": "Organizer",
+    "affiliation": "MPI for Intelligent Systems",
+    "photo": "images/people/Sydney_7_6.jpg"
+   },
+   {
+    "name": "Melanie Zeilinger",
+    "role": "Organizer",
+    "affiliation": "ETH Zurich",
+    "photo": "images/people/Sydney_7_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -125,7 +439,57 @@
    "temporal data"
   ],
   "accent": "#9c7a54",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Boris N. Oreshkin",
+    "role": "Organizer",
+    "affiliation": "Amazon",
+    "photo": "images/people/Sydney_8_0.jpg"
+   },
+   {
+    "name": "Mayank Jauhari",
+    "role": "Organizer",
+    "affiliation": "Amazon",
+    "photo": "images/people/Sydney_8_1.jpg"
+   },
+   {
+    "name": "Danielle Maddix Robinson",
+    "role": "Organizer",
+    "affiliation": "Siemens Physical AI",
+    "photo": "images/people/Sydney_8_2.jpg"
+   },
+   {
+    "name": "Omri Azencot",
+    "role": "Organizer",
+    "affiliation": "Ben-Gurion University",
+    "photo": "images/people/Sydney_8_3.jpg"
+   },
+   {
+    "name": "Ming Jin",
+    "role": "Organizer",
+    "affiliation": "Griffith University",
+    "photo": "images/people/Sydney_8_4.jpg"
+   },
+   {
+    "name": "Emadeldeen Eldele",
+    "role": "Organizer",
+    "affiliation": "Khalifa University",
+    "photo": "images/people/Sydney_8_5.jpg"
+   },
+   {
+    "name": "Chenghao Liu",
+    "role": "Organizer",
+    "affiliation": "Datadog",
+    "photo": "images/people/Sydney_8_6.jpg"
+   },
+   {
+    "name": "N. Benjamin Erichson",
+    "role": "Organizer",
+    "affiliation": "Berkeley Lab · ICSI",
+    "photo": "images/people/Sydney_8_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -141,7 +505,64 @@
    "llm"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Arjun Prakash",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Aditya Iyer",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Hamish Ivison",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Jack Liell-Cock",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Amy Greenwald",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Nora Ayanian",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "David Tao",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Kevin Wang",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Anna Hakhverdyan",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Stephen Crawford",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Zarif Aziz",
+    "role": "Organizer",
+    "affiliation": null
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -157,7 +578,39 @@
    "training"
   ],
   "accent": "#a0855a",
-  "deadline": "Sep 4, 2026"
+  "deadline": "Sep 4, 2026",
+  "organizers": [
+   {
+    "name": "Michael Crawshaw",
+    "role": "Organizer",
+    "affiliation": "Flatiron Institute"
+   },
+   {
+    "name": "Frederik Kunstner",
+    "role": "Chair",
+    "affiliation": "INRIA"
+   },
+   {
+    "name": "Fred Roosta",
+    "role": "Organizer",
+    "affiliation": "University of Queensland"
+   },
+   {
+    "name": "Courtney Paquette",
+    "role": "Organizer",
+    "affiliation": "McGill University/Google DeepMind"
+   },
+   {
+    "name": "Sebastian Stich",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center"
+   },
+   {
+    "name": "Chulhee Yun",
+    "role": "Organizer",
+    "affiliation": "KAIST"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -173,7 +626,57 @@
    "governance"
   ],
   "accent": "#8f7a66",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Hua Shen",
+    "role": "Organizer",
+    "affiliation": "NYU Shanghai / New York University",
+    "photo": "images/people/Sydney_11_0.jpg"
+   },
+   {
+    "name": "Divy Thakkar",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_11_1.jpg"
+   },
+   {
+    "name": "Gordon Dai",
+    "role": "Organizer",
+    "affiliation": "NYU Shanghai / New York University",
+    "photo": "images/people/Sydney_11_2.jpg"
+   },
+   {
+    "name": "Vivek Myers",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Sydney_11_3.jpg"
+   },
+   {
+    "name": "Nick Haber",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_11_4.jpg"
+   },
+   {
+    "name": "Joan Bruna",
+    "role": "Organizer",
+    "affiliation": "New York University",
+    "photo": "images/people/Sydney_11_5.jpg"
+   },
+   {
+    "name": "Dawn Song",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Sydney_11_6.jpg"
+   },
+   {
+    "name": "Yoshua Bengio",
+    "role": "Organizer",
+    "affiliation": "Mila / LawZero / Université de Montréal",
+    "photo": "images/people/Sydney_11_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -189,7 +692,129 @@
    "clinical ai"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Chad Vanderbilt",
+    "role": "Chair",
+    "affiliation": "Memorial Sloan Kettering Cancer Center",
+    "photo": "images/people/Sydney_12_0.jpg"
+   },
+   {
+    "name": "Neeraj Kumar",
+    "role": "Chair",
+    "affiliation": "Memorial Sloan Kettering Cancer Center",
+    "photo": "images/people/Sydney_12_1.jpg"
+   },
+   {
+    "name": "Gabriele Campanella",
+    "role": "Principal Investigator",
+    "affiliation": "Icahn School of Medicine at Mount Sinai",
+    "photo": "images/people/Sydney_12_2.jpg"
+   },
+   {
+    "name": "Ruchika Verma",
+    "role": "Organizer",
+    "affiliation": "Icahn School of Medicine at Mount Sinai",
+    "photo": "images/people/Sydney_12_3.jpg"
+   },
+   {
+    "name": "Jia Wu",
+    "role": "Principal Investigator",
+    "affiliation": "MD Anderson Cancer Center",
+    "photo": "images/people/Sydney_12_4.jpg"
+   },
+   {
+    "name": "Jianjun Zhang",
+    "role": "Organizer",
+    "affiliation": "MD Anderson Cancer Center",
+    "photo": "images/people/Sydney_12_5.jpg"
+   },
+   {
+    "name": "Luisa M. Solis Soto",
+    "role": "Organizer",
+    "affiliation": "MD Anderson Cancer Center",
+    "photo": "images/people/Sydney_12_6.jpg"
+   },
+   {
+    "name": "Rukhmini Bandyopadhyay",
+    "role": "Organizer",
+    "affiliation": "MD Anderson Cancer Center",
+    "photo": "images/people/Sydney_12_7.jpg"
+   },
+   {
+    "name": "Muhammad Waqas",
+    "role": "Organizer",
+    "affiliation": "MD Anderson Cancer Center",
+    "photo": "images/people/Sydney_12_8.jpg"
+   },
+   {
+    "name": "Hamid Reza Tizhoosh",
+    "role": "Principal Investigator",
+    "affiliation": "Mayo Clinic",
+    "photo": "images/people/Sydney_12_9.jpg"
+   },
+   {
+    "name": "Wataru Uegami",
+    "role": "Organizer",
+    "affiliation": "Mayo Clinic",
+    "photo": "images/people/Sydney_12_10.jpg"
+   },
+   {
+    "name": "Saghir A. Al-Fasly",
+    "role": "Organizer",
+    "affiliation": "Mayo Clinic",
+    "photo": "images/people/Sydney_12_11.jpg"
+   },
+   {
+    "name": "Joel Saltz",
+    "role": "Principal Investigator",
+    "affiliation": "Stony Brook University",
+    "photo": "images/people/Sydney_12_12.jpg"
+   },
+   {
+    "name": "Jakub Kaczmarzyk",
+    "role": "Organizer",
+    "affiliation": "Stony Brook University",
+    "photo": "images/people/Sydney_12_13.jpg"
+   },
+   {
+    "name": "Kostas Triaridis",
+    "role": "Organizer",
+    "affiliation": "Stony Brook University",
+    "photo": "images/people/Sydney_12_14.jpg"
+   },
+   {
+    "name": "Katherine Hoadley",
+    "role": "Lead",
+    "affiliation": "University of North Carolina at Chapel Hill",
+    "photo": "images/people/Sydney_12_15.jpg"
+   },
+   {
+    "name": "Melissa Troester",
+    "role": "Organizer",
+    "affiliation": "University of North Carolina at Chapel Hill",
+    "photo": "images/people/Sydney_12_16.jpg"
+   },
+   {
+    "name": "Gregory M. Goldgof",
+    "role": "Organizer",
+    "affiliation": "Memorial Sloan Kettering Cancer Center",
+    "photo": "images/people/Sydney_12_17.jpg"
+   },
+   {
+    "name": "Ali Kamali",
+    "role": "Organizer",
+    "affiliation": "Memorial Sloan Kettering Cancer Center",
+    "photo": "images/people/Sydney_12_18.jpg"
+   },
+   {
+    "name": "Siddharth Singi",
+    "role": "Organizer",
+    "affiliation": "Memorial Sloan Kettering Cancer Center",
+    "photo": "images/people/Sydney_12_19.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -205,7 +830,57 @@
    "robotics"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 30, 2026"
+  "deadline": "Aug 30, 2026",
+  "organizers": [
+   {
+    "name": "Mozhgan Nasr Azadani",
+    "role": "Organizer",
+    "affiliation": "University of Waterloo, Stanford",
+    "photo": "images/people/Sydney_13_0.jpg"
+   },
+   {
+    "name": "Yimu Wang",
+    "role": "Organizer",
+    "affiliation": "RBC, University of Waterloo",
+    "photo": "images/people/Sydney_13_1.jpg"
+   },
+   {
+    "name": "Milan Ganai",
+    "role": "Organizer",
+    "affiliation": "Stanford",
+    "photo": "images/people/Sydney_13_2.jpg"
+   },
+   {
+    "name": "Jiayuan Mao",
+    "role": "Organizer",
+    "affiliation": "Amazon FAR, University of Pennsylvania",
+    "photo": "images/people/Sydney_13_3.jpg"
+   },
+   {
+    "name": "William Zhi",
+    "role": "Organizer",
+    "affiliation": "University of Sydney",
+    "photo": "images/people/Sydney_13_4.jpg"
+   },
+   {
+    "name": "Elahe Arani",
+    "role": "Organizer",
+    "affiliation": "Wayve, Eindhoven University of Technology",
+    "photo": "images/people/Sydney_13_5.jpg"
+   },
+   {
+    "name": "Krzysztof Czarnecki",
+    "role": "Organizer",
+    "affiliation": "University of Waterloo",
+    "photo": "images/people/Sydney_13_6.jpg"
+   },
+   {
+    "name": "Marco Pavone",
+    "role": "Organizer",
+    "affiliation": "Stanford, NVIDIA",
+    "photo": "images/people/Sydney_13_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -221,7 +896,45 @@
    "auditing"
   ],
   "accent": "#a0785f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Hanxun Huang",
+    "role": "Organizer",
+    "affiliation": "University of Melbourne",
+    "photo": "images/people/Sydney_14_0.jpg"
+   },
+   {
+    "name": "Barbara Tarantino",
+    "role": "Organizer",
+    "affiliation": "University of Pavia",
+    "photo": "images/people/Sydney_14_1.jpg"
+   },
+   {
+    "name": "Paolo Giudici",
+    "role": "Organizer",
+    "affiliation": "University of Pavia",
+    "photo": "images/people/Sydney_14_2.jpg"
+   },
+   {
+    "name": "Xingjun Ma",
+    "role": "Organizer",
+    "affiliation": "Fudan University",
+    "photo": "images/people/Sydney_14_3.jpg"
+   },
+   {
+    "name": "Eduard Hovy",
+    "role": "Organizer",
+    "affiliation": "University of Melbourne",
+    "photo": "images/people/Sydney_14_4.jpg"
+   },
+   {
+    "name": "Sarah M. Erfani",
+    "role": "Organizer",
+    "affiliation": "University of Melbourne",
+    "photo": "images/people/Sydney_14_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -237,7 +950,57 @@
    "planning"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Ping-Chun Hsieh",
+    "role": "Organizer",
+    "affiliation": "National Yang Ming Chiao Tung University",
+    "photo": "images/people/Sydney_15_0.jpg"
+   },
+   {
+    "name": "Kuang-Huei Lee",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_15_1.jpg"
+   },
+   {
+    "name": "Bo Dai",
+    "role": "Organizer",
+    "affiliation": "Georgia Tech / Google DeepMind",
+    "photo": "images/people/Sydney_15_2.jpg"
+   },
+   {
+    "name": "Yen-Ling Kuo",
+    "role": "Organizer",
+    "affiliation": "University of Virginia",
+    "photo": "images/people/Sydney_15_3.jpg"
+   },
+   {
+    "name": "Georgia Chalvatzaki",
+    "role": "Organizer",
+    "affiliation": "TU Darmstadt and Hessian.AI",
+    "photo": "images/people/Sydney_15_4.jpg"
+   },
+   {
+    "name": "Karen Leung",
+    "role": "Organizer",
+    "affiliation": "University of Washington / NVIDIA Research",
+    "photo": "images/people/Sydney_15_5.jpg"
+   },
+   {
+    "name": "Co Yong",
+    "role": "Organizer",
+    "affiliation": "National Taiwan University",
+    "photo": "images/people/Sydney_15_6.jpg"
+   },
+   {
+    "name": "Claas Voelcker",
+    "role": "Organizer",
+    "affiliation": "University of Texas at Austin",
+    "photo": "images/people/Sydney_15_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -253,7 +1016,34 @@
    "multimodal reasoning"
   ],
   "accent": "#9c7a54",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Graham Neubig",
+    "role": "Organizer",
+    "affiliation": "Carnegie Mellon University"
+   },
+   {
+    "name": "Yonatan Bisk",
+    "role": "Organizer",
+    "affiliation": "Carnegie Mellon University"
+   },
+   {
+    "name": "Hideo Saito",
+    "role": "Organizer",
+    "affiliation": "Keio University"
+   },
+   {
+    "name": "Alexandre Drouin",
+    "role": "Organizer",
+    "affiliation": "ServiceNow"
+   },
+   {
+    "name": "Atsunori Moteki",
+    "role": "Organizer",
+    "affiliation": "Fujitsu Limited"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -269,7 +1059,64 @@
    "decision making"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 26, 2026"
+  "deadline": "Aug 26, 2026",
+  "organizers": [
+   {
+    "name": "Felix Juefei-Xu",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind"
+   },
+   {
+    "name": "Tianyu Shi",
+    "role": "Organizer",
+    "affiliation": "McGill University"
+   },
+   {
+    "name": "Shirley Rong Zou",
+    "role": "Organizer",
+    "affiliation": "Apple"
+   },
+   {
+    "name": "Mengyue Yang",
+    "role": "Organizer",
+    "affiliation": "University of Bristol"
+   },
+   {
+    "name": "Aaron Xuxiang Tian",
+    "role": "Publicity Chair",
+    "affiliation": "Toyota"
+   },
+   {
+    "name": "Zhenyu Zhang",
+    "role": "Communication Chair",
+    "affiliation": "OpenAI"
+   },
+   {
+    "name": "Charles R. Qi",
+    "role": "Advisor",
+    "affiliation": "OpenAI"
+   },
+   {
+    "name": "Jim Fan",
+    "role": "Advisor",
+    "affiliation": "Nvidia"
+   },
+   {
+    "name": "Yuke Zhu",
+    "role": "Advisor",
+    "affiliation": "UT Austin & Nvidia"
+   },
+   {
+    "name": "Steven L. Waslander",
+    "role": "Advisor",
+    "affiliation": "University of Toronto"
+   },
+   {
+    "name": "Michael Rabbat",
+    "role": "Advisor",
+    "affiliation": "AMI Labs"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -285,7 +1132,49 @@
    "earth observation"
   ],
   "accent": "#a0855a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Utkarsha Agwan",
+    "role": "Organizer",
+    "affiliation": "Tyba Energy"
+   },
+   {
+    "name": "John Duncan",
+    "role": "Organizer",
+    "affiliation": "University of Western Australia"
+   },
+   {
+    "name": "Kim Bente",
+    "role": "Organizer",
+    "affiliation": "University of Tasmania"
+   },
+   {
+    "name": "Rajanie Prabha",
+    "role": "Organizer",
+    "affiliation": "Stanford University"
+   },
+   {
+    "name": "Jonathan Richetti",
+    "role": "Organizer",
+    "affiliation": "CSIRO"
+   },
+   {
+    "name": "Chen Chen",
+    "role": "Organizer",
+    "affiliation": "Centre for Climate Research Singapore"
+   },
+   {
+    "name": "Yuanyuan Shi",
+    "role": "Organizer",
+    "affiliation": "University of California, San Diego"
+   },
+   {
+    "name": "David Rolnick",
+    "role": "Organizer",
+    "affiliation": "McGill University and Mila - Quebec AI Institute"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -301,7 +1190,34 @@
    "automated synthesis"
   ],
   "accent": "#8f7a66",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Santiago Miret",
+    "role": "Organizer",
+    "affiliation": "Lila Sciences"
+   },
+   {
+    "name": "Mara Schilling-Wilhelmi",
+    "role": "Organizer",
+    "affiliation": "Friedrich Schiller University Jena"
+   },
+   {
+    "name": "Vijay Narasimhan",
+    "role": "Organizer",
+    "affiliation": "Merck KGaA, Darmstadt, Germany"
+   },
+   {
+    "name": "N M Anoop Krishnan",
+    "role": "Organizer",
+    "affiliation": "IIT Delhi"
+   },
+   {
+    "name": "Stefano Martiniani",
+    "role": "Organizer",
+    "affiliation": "New York University"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -317,7 +1233,51 @@
    "evaluation"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Andrea Britto Mattos Lima",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research",
+    "photo": "images/people/Sydney_20_0.jpg"
+   },
+   {
+    "name": "Thomas Brunschwiler",
+    "role": "Organizer",
+    "affiliation": "IBM Research – Zurich",
+    "photo": "images/people/Sydney_20_1.jpg"
+   },
+   {
+    "name": "Baosen Zhang",
+    "role": "Organizer",
+    "affiliation": "University of Washington",
+    "photo": "images/people/Sydney_20_2.jpg"
+   },
+   {
+    "name": "Nicolas Christianson",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Sydney_20_3.jpg"
+   },
+   {
+    "name": "Wenqi Cui",
+    "role": "Organizer",
+    "affiliation": "NYU",
+    "photo": "images/people/Sydney_20_4.jpg"
+   },
+   {
+    "name": "Rabab Haider",
+    "role": "Organizer",
+    "affiliation": "University of Michigan",
+    "photo": "images/people/Sydney_20_5.jpg"
+   },
+   {
+    "name": "Christopher Yeh",
+    "role": "Organizer",
+    "affiliation": "Harvard",
+    "photo": "images/people/Sydney_20_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -333,7 +1293,39 @@
    "robotics"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Jenny Schmalfuss",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Sydney_21_0.jpg"
+   },
+   {
+    "name": "German Ros",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Sydney_21_1.jpg"
+   },
+   {
+    "name": "Despoina Paschalidou",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Sydney_21_2.jpg"
+   },
+   {
+    "name": "Roberto Martín-Martín",
+    "role": "Organizer",
+    "affiliation": "UT Austin",
+    "photo": "images/people/Sydney_21_3.jpg"
+   },
+   {
+    "name": "Jose M. Alvarez",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Sydney_21_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -349,7 +1341,39 @@
    "benchmarks"
   ],
   "accent": "#a0785f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Divya Mahajan",
+    "role": "Organizer",
+    "affiliation": "Georgia Tech"
+   },
+   {
+    "name": "Patrick Musau",
+    "role": "Organizer",
+    "affiliation": "Google"
+   },
+   {
+    "name": "Phitchaya Mangpo Phothilimthana",
+    "role": "Organizer",
+    "affiliation": "OpenAI"
+   },
+   {
+    "name": "Haoran Qiu",
+    "role": "Organizer",
+    "affiliation": "Microsoft Azure Research"
+   },
+   {
+    "name": "Mimee Xu",
+    "role": "Organizer",
+    "affiliation": "NYU"
+   },
+   {
+    "name": "Dan Zhang",
+    "role": "Organizer",
+    "affiliation": "Recursive Intelligence"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -365,7 +1389,51 @@
    "governance"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Chenguang Wang",
+    "role": "Organizer",
+    "affiliation": "University of California, Santa Cruz & Scale AI",
+    "photo": "images/people/Sydney_23_0.jpg"
+   },
+   {
+    "name": "Wei Wang",
+    "role": "Organizer",
+    "affiliation": "UCLA",
+    "photo": "images/people/Sydney_23_1.jpg"
+   },
+   {
+    "name": "Yuan (Emily) Xue",
+    "role": "Organizer",
+    "affiliation": "Scale AI",
+    "photo": "images/people/Sydney_23_2.jpg"
+   },
+   {
+    "name": "Nicholas Crispino",
+    "role": "Organizer",
+    "affiliation": "University of California, Santa Cruz",
+    "photo": "images/people/Sydney_23_3.jpg"
+   },
+   {
+    "name": "Tianneng Shi",
+    "role": "Organizer",
+    "affiliation": "University of California, Berkeley",
+    "photo": "images/people/Sydney_23_4.jpg"
+   },
+   {
+    "name": "Vincent Siu",
+    "role": "Organizer",
+    "affiliation": "University of California, Santa Cruz",
+    "photo": "images/people/Sydney_23_5.jpg"
+   },
+   {
+    "name": "Zhe Ye",
+    "role": "Organizer",
+    "affiliation": "University of California, Berkeley",
+    "photo": "images/people/Sydney_23_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -381,7 +1449,8 @@
    "self-evolving systems"
   ],
   "accent": "#9c7a54",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": []
  },
  {
   "venue": "Sydney",
@@ -397,7 +1466,65 @@
    "alignment"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Jie (Sophia) Gao",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Sydney_25_0.jpg"
+   },
+   {
+    "name": "Kaiser Sun",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University"
+   },
+   {
+    "name": "Teresa Yeo",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_25_2.jpg"
+   },
+   {
+    "name": "Daniel Khashabi",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Sydney_25_3.jpg"
+   },
+   {
+    "name": "Zhuoran Lu",
+    "role": "Organizer",
+    "affiliation": "University of Hong Kong",
+    "photo": "images/people/Sydney_25_4.jpg"
+   },
+   {
+    "name": "Boyuan Zheng",
+    "role": "Organizer",
+    "affiliation": "xAI"
+   },
+   {
+    "name": "Katherine Van Koevering",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University"
+   },
+   {
+    "name": "Sijie Ji",
+    "role": "Organizer",
+    "affiliation": "Caltech",
+    "photo": "images/people/Sydney_25_7.jpg"
+   },
+   {
+    "name": "Jen-tse Huang",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University"
+   },
+   {
+    "name": "Ziang Xiao",
+    "role": "Advisor",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Sydney_25_9.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -413,7 +1540,57 @@
    "benchmark validation"
   ],
   "accent": "#a0855a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Ivor Tsang",
+    "role": "Organizer",
+    "affiliation": "CFAR, IAIC, A*STAR · NTU · UTS",
+    "photo": "images/people/Sydney_26_0.jpg"
+   },
+   {
+    "name": "Yinghua Yao",
+    "role": "Organizer",
+    "affiliation": "CFAR, IAIC, A*STAR",
+    "photo": "images/people/Sydney_26_1.jpg"
+   },
+   {
+    "name": "Yu Xie",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research AI for Science, Berlin",
+    "photo": "images/people/Sydney_26_2.jpg"
+   },
+   {
+    "name": "Steve Ling",
+    "role": "Organizer",
+    "affiliation": "University of Technology Sydney",
+    "photo": "images/people/Sydney_26_3.jpg"
+   },
+   {
+    "name": "Matthew Jacobson",
+    "role": "Advisor",
+    "affiliation": "AIDD, A*STAR",
+    "photo": "images/people/Sydney_26_4.jpg"
+   },
+   {
+    "name": "Chuan-Sheng Foo",
+    "role": "Advisor",
+    "affiliation": "Calico Life Sciences",
+    "photo": "images/people/Sydney_26_5.jpg"
+   },
+   {
+    "name": "Yew Soon Ong",
+    "role": "Advisor",
+    "affiliation": "Nanyang Technological University",
+    "photo": "images/people/Sydney_26_6.jpg"
+   },
+   {
+    "name": "Andrea Zerio",
+    "role": "Publicity Chair",
+    "affiliation": "CFAR, IAIC, A*STAR · Aalborg University",
+    "photo": "images/people/Sydney_26_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -429,7 +1606,75 @@
    "molecular foundation models"
   ],
   "accent": "#8f7a66",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Bruno Trentini",
+    "role": "Organizer",
+    "affiliation": "University of Oxford · NVIDIA",
+    "photo": "images/people/Sydney_27_0.jpg"
+   },
+   {
+    "name": "Emine Kucukbenli",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Sydney_27_1.jpg"
+   },
+   {
+    "name": "Jigyasa Nigam",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Sydney_27_2.jpg"
+   },
+   {
+    "name": "Max Secor",
+    "role": "Organizer",
+    "affiliation": "Novo Nordisk",
+    "photo": "images/people/Sydney_27_3.jpg"
+   },
+   {
+    "name": "Ole Winther",
+    "role": "Organizer",
+    "affiliation": "U. of Copenhagen · DTU · Raffle.ai",
+    "photo": "images/people/Sydney_27_4.jpg"
+   },
+   {
+    "name": "Runzhong Wang",
+    "role": "Organizer",
+    "affiliation": "MIT (Coley Lab)",
+    "photo": "images/people/Sydney_27_5.jpg"
+   },
+   {
+    "name": "Michael Bronstein",
+    "role": "Advisor",
+    "affiliation": "U. of Oxford · AITHYRA · Proxima Bio",
+    "photo": "images/people/Sydney_27_6.jpg"
+   },
+   {
+    "name": "Kristine Deibler",
+    "role": "Advisor",
+    "affiliation": "Novo Nordisk",
+    "photo": "images/people/Sydney_27_7.jpg"
+   },
+   {
+    "name": "Marwin Segler",
+    "role": "Advisor",
+    "affiliation": "Microsoft Research AI for Science",
+    "photo": "images/people/Sydney_27_8.jpg"
+   },
+   {
+    "name": "Pranam Chatterjee",
+    "role": "Advisor",
+    "affiliation": "University of Pennsylvania",
+    "photo": "images/people/Sydney_27_9.jpg"
+   },
+   {
+    "name": "Tejs Vegge",
+    "role": "Advisor",
+    "affiliation": "Technical University of Denmark",
+    "photo": "images/people/Sydney_27_10.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -445,7 +1690,51 @@
    "interdisciplinary dialogue"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Siobhan Sanford",
+    "role": "Organizer",
+    "affiliation": "GSK AIML",
+    "photo": "images/people/Sydney_28_0.jpg"
+   },
+   {
+    "name": "Julia Meister",
+    "role": "Organizer",
+    "affiliation": "GSK AIML",
+    "photo": "images/people/Sydney_28_1.jpg"
+   },
+   {
+    "name": "Qiyao Wei",
+    "role": "Organizer",
+    "affiliation": "Cambridge University",
+    "photo": "images/people/Sydney_28_2.jpg"
+   },
+   {
+    "name": "Galvin Khara",
+    "role": "Organizer",
+    "affiliation": "GSK AIML",
+    "photo": "images/people/Sydney_28_3.jpg"
+   },
+   {
+    "name": "Nikhil Kurian",
+    "role": "Organizer",
+    "affiliation": "Adelaide University",
+    "photo": "images/people/Sydney_28_4.jpg"
+   },
+   {
+    "name": "Ben Glocker",
+    "role": "Organizer",
+    "affiliation": "Imperial University",
+    "photo": "images/people/Sydney_28_5.jpg"
+   },
+   {
+    "name": "Jessica Schrouff",
+    "role": "Organizer",
+    "affiliation": "GSK AIML",
+    "photo": "images/people/Sydney_28_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -461,7 +1750,57 @@
    "distributed systems"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Thalaiyasingam Ajanthan",
+    "role": "Organizer",
+    "affiliation": "Pluralis Research · ANU",
+    "photo": "images/people/Sydney_29_0.jpg"
+   },
+   {
+    "name": "Sameera Ramasinghe",
+    "role": "Organizer",
+    "affiliation": "Pluralis Research · U Adelaide",
+    "photo": "images/people/Sydney_29_1.jpg"
+   },
+   {
+    "name": "Benjamin Thérien",
+    "role": "Organizer",
+    "affiliation": "Mila · UdeM",
+    "photo": "images/people/Sydney_29_2.jpg"
+   },
+   {
+    "name": "Anastasia Koloskova",
+    "role": "Organizer",
+    "affiliation": "University of Zurich",
+    "photo": "images/people/Sydney_29_3.jpg"
+   },
+   {
+    "name": "Kaja Gruntkowska",
+    "role": "Organizer",
+    "affiliation": "KAUST",
+    "photo": "images/people/Sydney_29_4.jpg"
+   },
+   {
+    "name": "Eugene Belilovsky",
+    "role": "Organizer",
+    "affiliation": "Concordia · Mila",
+    "photo": "images/people/Sydney_29_5.jpg"
+   },
+   {
+    "name": "Aakanksha Chowdhery",
+    "role": "Organizer",
+    "affiliation": "Reflection AI · Stanford",
+    "photo": "images/people/Sydney_29_6.jpg"
+   },
+   {
+    "name": "Nicholas Lane",
+    "role": "Organizer",
+    "affiliation": "Cambridge · Flower Labs",
+    "photo": "images/people/Sydney_29_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -477,7 +1816,51 @@
    "in-context learning"
   ],
   "accent": "#a0785f",
-  "deadline": "Sep 7, 2026"
+  "deadline": "Sep 7, 2026",
+  "organizers": [
+   {
+    "name": "Eli Chien",
+    "role": "Organizer",
+    "affiliation": "National Taiwan University (NTU)",
+    "photo": "images/people/Sydney_30_0.jpg"
+   },
+   {
+    "name": "Ruihan Wu",
+    "role": "Organizer",
+    "affiliation": "OpenAI",
+    "photo": "images/people/Sydney_30_1.jpg"
+   },
+   {
+    "name": "Kamalika Chaudhuri",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind / UCSD",
+    "photo": "images/people/Sydney_30_2.jpg"
+   },
+   {
+    "name": "Yu-Xiang Wang",
+    "role": "Organizer",
+    "affiliation": "UCSD",
+    "photo": "images/people/Sydney_30_3.jpg"
+   },
+   {
+    "name": "Niloofar Mireshghallah",
+    "role": "Organizer",
+    "affiliation": "humans& / Carnegie Mellon University (CMU)",
+    "photo": "images/people/Sydney_30_4.jpg"
+   },
+   {
+    "name": "Erchi Wang",
+    "role": "Organizer",
+    "affiliation": "UC San Diego (UCSD)",
+    "photo": "images/people/Sydney_30_5.jpg"
+   },
+   {
+    "name": "Antti Honkela",
+    "role": "Organizer",
+    "affiliation": "University of Helsinki",
+    "photo": "images/people/Sydney_30_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -493,7 +1876,117 @@
    "embodied care"
   ],
   "accent": "#96714f",
-  "deadline": "Sep 5, 2026"
+  "deadline": "Sep 5, 2026",
+  "organizers": [
+   {
+    "name": "Jiayuan Ding",
+    "role": "Organizer",
+    "affiliation": "Hippocratic AI",
+    "photo": "images/people/Sydney_31_0.jpg"
+   },
+   {
+    "name": "Pranav Rajpurkar",
+    "role": "Organizer",
+    "affiliation": "Harvard University",
+    "photo": "images/people/Sydney_31_1.jpg"
+   },
+   {
+    "name": "Junyuan Hong",
+    "role": "Organizer",
+    "affiliation": "National University of Singapore",
+    "photo": "images/people/Sydney_31_2.jpg"
+   },
+   {
+    "name": "Joseph J. Lim",
+    "role": "Organizer",
+    "affiliation": "KAIST",
+    "photo": "images/people/Sydney_31_3.jpg"
+   },
+   {
+    "name": "Tanveer Fathima Syeda-Mahmood",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_31_4.jpg"
+   },
+   {
+    "name": "Ehsan Adeli",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_31_5.jpg"
+   },
+   {
+    "name": "Subhabrata Mukherjee",
+    "role": "Organizer",
+    "affiliation": "Hippocratic AI",
+    "photo": "images/people/Sydney_31_6.jpg"
+   },
+   {
+    "name": "Fei-Fei Li",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_31_7.jpg"
+   },
+   {
+    "name": "Ying Ding",
+    "role": "Organizer",
+    "affiliation": "UT Austin",
+    "photo": "images/people/Sydney_31_8.jpg"
+   },
+   {
+    "name": "Jiawei Xu",
+    "role": "Student Organizer",
+    "affiliation": "UT Austin",
+    "photo": "images/people/Sydney_31_9.jpg"
+   },
+   {
+    "name": "Jinrui Fang",
+    "role": "Student Organizer",
+    "affiliation": "UT Austin",
+    "photo": "images/people/Sydney_31_10.jpg"
+   },
+   {
+    "name": "Ziheng Zhang",
+    "role": "Student Organizer",
+    "affiliation": "UT Austin",
+    "photo": "images/people/Sydney_31_11.jpg"
+   },
+   {
+    "name": "Tiange Xiang",
+    "role": "Student Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_31_12.jpg"
+   },
+   {
+    "name": "Yixin Wang",
+    "role": "Student Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_31_13.jpg"
+   },
+   {
+    "name": "Hyewon Jeong",
+    "role": "Student Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Sydney_31_14.jpg"
+   },
+   {
+    "name": "Sheng Liu",
+    "role": "Local Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_31_15.jpg"
+   },
+   {
+    "name": "Kevin Y.C. Hou",
+    "role": "Local Organizer",
+    "affiliation": "Sydney Medical School",
+    "photo": "images/people/Sydney_31_16.jpg"
+   },
+   {
+    "name": "Matthew Shu",
+    "role": "Local Organizer",
+    "affiliation": "University of Sydney",
+    "photo": "images/people/Sydney_31_17.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -509,7 +2002,45 @@
    "generative modeling"
   ],
   "accent": "#9c7a54",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Laura Leal-Taixé",
+    "role": "Organizer",
+    "affiliation": "NVIDIA / University of Toronto",
+    "photo": "images/people/Sydney_32_0.jpg"
+   },
+   {
+    "name": "Xindi Wu",
+    "role": "Organizer",
+    "affiliation": "Princeton",
+    "photo": "images/people/Sydney_32_1.jpg"
+   },
+   {
+    "name": "Jonathan Lorraine",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Sydney_32_2.jpg"
+   },
+   {
+    "name": "Qianqian Wang",
+    "role": "Organizer",
+    "affiliation": "Harvard / Rhoda AI",
+    "photo": "images/people/Sydney_32_3.jpg"
+   },
+   {
+    "name": "Shengbang Tong",
+    "role": "Organizer",
+    "affiliation": "NYU / AMI Labs",
+    "photo": "images/people/Sydney_32_4.jpg"
+   },
+   {
+    "name": "Amir Bar",
+    "role": "Organizer",
+    "affiliation": "Meta / Imperial College London",
+    "photo": "images/people/Sydney_32_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -525,7 +2056,34 @@
    "governance"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Suparna Bhattacharya",
+    "role": "Organizer",
+    "affiliation": "Hewlett Packard Enterprise (HPE Labs)"
+   },
+   {
+    "name": "Ian Foster",
+    "role": "Organizer",
+    "affiliation": "University of Chicago & Argonne National Laboratory"
+   },
+   {
+    "name": "Jishen Zhao",
+    "role": "Organizer",
+    "affiliation": "University of California, San Diego"
+   },
+   {
+    "name": "Cong Wang",
+    "role": "Organizer",
+    "affiliation": "Multikernel Technologies"
+   },
+   {
+    "name": "Tarun Kumar",
+    "role": "Organizer",
+    "affiliation": "Hewlett Packard Enterprise (HPE Labs)"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -541,7 +2099,39 @@
    "llm planning"
   ],
   "accent": "#a0855a",
-  "deadline": "Sep 10, 2026"
+  "deadline": "Sep 10, 2026",
+  "organizers": [
+   {
+    "name": "Elena Umili",
+    "role": "Organizer",
+    "affiliation": "Sapienza University of Rome",
+    "photo": "images/people/Sydney_34_0.jpg"
+   },
+   {
+    "name": "Emanuele Musumeci",
+    "role": "Organizer",
+    "affiliation": "Sapienza University of Rome",
+    "photo": "images/people/Sydney_34_1.jpg"
+   },
+   {
+    "name": "Vincenzo Suriani",
+    "role": "Organizer",
+    "affiliation": "Sapienza University of Rome",
+    "photo": "images/people/Sydney_34_2.jpg"
+   },
+   {
+    "name": "Daniel Dobriy",
+    "role": "Organizer",
+    "affiliation": "WU Vienna",
+    "photo": "images/people/Sydney_34_3.jpg"
+   },
+   {
+    "name": "Anna Sofia Lippolis",
+    "role": "Organizer",
+    "affiliation": "University of Bologna",
+    "photo": "images/people/Sydney_34_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -557,7 +2147,51 @@
    "foundation models"
   ],
   "accent": "#8f7a66",
-  "deadline": "Sep 18, 2026"
+  "deadline": "Sep 18, 2026",
+  "organizers": [
+   {
+    "name": "Mengdi Wang",
+    "role": "Organizer",
+    "affiliation": "Princeton University",
+    "photo": "images/people/Sydney_35_0.jpg"
+   },
+   {
+    "name": "Le Song",
+    "role": "Organizer",
+    "affiliation": "BioMap · MBZUAI",
+    "photo": "images/people/Sydney_35_1.jpg"
+   },
+   {
+    "name": "Masatoshi Uehara",
+    "role": "Organizer",
+    "affiliation": "OpenAI",
+    "photo": "images/people/Sydney_35_2.jpg"
+   },
+   {
+    "name": "Xiner Li",
+    "role": "Organizer",
+    "affiliation": "Genentech",
+    "photo": "images/people/Sydney_35_3.jpg"
+   },
+   {
+    "name": "Ehsan Hajiramezanali",
+    "role": "Organizer",
+    "affiliation": "Genentech",
+    "photo": "images/people/Sydney_35_4.jpg"
+   },
+   {
+    "name": "Philipp Sven Lars Schäfer",
+    "role": "Organizer",
+    "affiliation": "Heidelberg University Hospital",
+    "photo": "images/people/Sydney_35_5.jpg"
+   },
+   {
+    "name": "Aviv Regev",
+    "role": "Advisor",
+    "affiliation": "Genentech / Roche",
+    "photo": "images/people/Sydney_35_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -573,7 +2207,27 @@
    "climate science"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Leonardo Pesce",
+    "role": "Organizer",
+    "affiliation": "National University of Singapore",
+    "photo": "images/people/Sydney_36_0.jpg"
+   },
+   {
+    "name": "Jiawen Wei",
+    "role": "Organizer",
+    "affiliation": "National University of Singapore",
+    "photo": "images/people/Sydney_36_1.jpg"
+   },
+   {
+    "name": "Gianmarco Mengaldo",
+    "role": "Organizer",
+    "affiliation": "National University of Singapore",
+    "photo": "images/people/Sydney_36_2.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -589,7 +2243,45 @@
    "reinforcement learning"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Rachit Bansal",
+    "role": "Organizer",
+    "affiliation": "Harvard University · Kempner Institute",
+    "photo": "images/people/Sydney_37_0.jpg"
+   },
+   {
+    "name": "Clara Mohri",
+    "role": "Organizer",
+    "affiliation": "Harvard University · Kempner Institute",
+    "photo": "images/people/Sydney_37_1.jpg"
+   },
+   {
+    "name": "Sunny (Tian) Qin",
+    "role": "Organizer",
+    "affiliation": "Harvard University · Kempner Institute",
+    "photo": "images/people/Sydney_37_2.jpg"
+   },
+   {
+    "name": "Harman Singh",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Sydney_37_3.jpg"
+   },
+   {
+    "name": "Samy Jelassi",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research",
+    "photo": "images/people/Sydney_37_4.jpg"
+   },
+   {
+    "name": "Sham Kakade",
+    "role": "Organizer",
+    "affiliation": "Harvard University · Kempner Institute",
+    "photo": "images/people/Sydney_37_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -605,7 +2297,51 @@
    "mechanistic interpretability"
   ],
   "accent": "#a0785f",
-  "deadline": "Aug 28, 2026"
+  "deadline": "Aug 28, 2026",
+  "organizers": [
+   {
+    "name": "Dhanya Sridhar",
+    "role": "Organizer",
+    "affiliation": "Mila & Université de Montréal",
+    "photo": "images/people/Sydney_38_0.jpg"
+   },
+   {
+    "name": "Navita Goyal",
+    "role": "Organizer",
+    "affiliation": "University of Maryland",
+    "photo": "images/people/Sydney_38_1.jpg"
+   },
+   {
+    "name": "Patrik Reizinger",
+    "role": "Organizer",
+    "affiliation": "MPI-IS Tübingen",
+    "photo": "images/people/Sydney_38_2.jpg"
+   },
+   {
+    "name": "Shruti Joshi",
+    "role": "Organizer",
+    "affiliation": "Mila & Université de Montréal",
+    "photo": "images/people/Sydney_38_3.jpg"
+   },
+   {
+    "name": "Gemma Moran",
+    "role": "Organizer",
+    "affiliation": "Rutgers University",
+    "photo": "images/people/Sydney_38_4.jpg"
+   },
+   {
+    "name": "David Klindt",
+    "role": "Organizer",
+    "affiliation": "Cold Spring Harbor Laboratory",
+    "photo": "images/people/Sydney_38_5.jpg"
+   },
+   {
+    "name": "Hal Daumé III",
+    "role": "Organizer",
+    "affiliation": "University of Maryland",
+    "photo": "images/people/Sydney_38_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -621,7 +2357,51 @@
    "ai safety"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Ahmad Beirami",
+    "role": "Organizer",
+    "affiliation": "Fidian",
+    "photo": "images/people/Sydney_39_0.jpg"
+   },
+   {
+    "name": "Mert Cemri",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Sydney_39_1.jpg"
+   },
+   {
+    "name": "Zhang-Wei Hong",
+    "role": "Organizer",
+    "affiliation": "MIT–IBM Watson AI Lab",
+    "photo": "images/people/Sydney_39_2.jpg"
+   },
+   {
+    "name": "Hung Le",
+    "role": "Organizer",
+    "affiliation": "Fidian",
+    "photo": "images/people/Sydney_39_3.jpg"
+   },
+   {
+    "name": "Ninareh Mehrabi",
+    "role": "Organizer",
+    "affiliation": "Meta Superintelligence Labs",
+    "photo": "images/people/Sydney_39_4.jpg"
+   },
+   {
+    "name": "Melissa Pan",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Sydney_39_5.jpg"
+   },
+   {
+    "name": "Dilara Soylu",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_39_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -637,7 +2417,57 @@
    "robustness"
   ],
   "accent": "#9c7a54",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Maria Brbić",
+    "role": "Organizer",
+    "affiliation": "EPFL",
+    "photo": "images/people/Sydney_40_0.jpg"
+   },
+   {
+    "name": "Peter Koo",
+    "role": "Organizer",
+    "affiliation": "Cold Spring Harbor Laboratory",
+    "photo": "images/people/Sydney_40_1.jpg"
+   },
+   {
+    "name": "Bianca M. Dumitrascu",
+    "role": "Organizer",
+    "affiliation": "Columbia University",
+    "photo": "images/people/Sydney_40_2.jpg"
+   },
+   {
+    "name": "Su-In Lee",
+    "role": "Organizer",
+    "affiliation": "University of Washington",
+    "photo": "images/people/Sydney_40_3.jpg"
+   },
+   {
+    "name": "Siba Smarak Panigrahi",
+    "role": "Organizer",
+    "affiliation": "EPFL",
+    "photo": "images/people/Sydney_40_4.jpg"
+   },
+   {
+    "name": "Masayuki Nagai (Moon)",
+    "role": "Organizer",
+    "affiliation": "Cold Spring Harbor Laboratory",
+    "photo": "images/people/Sydney_40_5.jpg"
+   },
+   {
+    "name": "Ozgur Yilmaz Beker (Oz)",
+    "role": "Organizer",
+    "affiliation": "Columbia University",
+    "photo": "images/people/Sydney_40_6.jpg"
+   },
+   {
+    "name": "Soham Gadgil",
+    "role": "Organizer",
+    "affiliation": "University of Washington",
+    "photo": "images/people/Sydney_40_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -653,7 +2483,39 @@
    "topological data analysis"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 24, 2026"
+  "deadline": "Aug 24, 2026",
+  "organizers": [
+   {
+    "name": "Louisa Cornelis",
+    "role": "Organizer",
+    "affiliation": "UC Santa Barbara"
+   },
+   {
+    "name": "Francisco Acosta",
+    "role": "Organizer",
+    "affiliation": "UC Santa Barbara"
+   },
+   {
+    "name": "Alison Pouplin",
+    "role": "Organizer",
+    "affiliation": "Bayer AG, Berlin"
+   },
+   {
+    "name": "David Klindt",
+    "role": "Organizer",
+    "affiliation": "Cold Spring Harbor Laboratory"
+   },
+   {
+    "name": "Fatih Dinc",
+    "role": "Organizer",
+    "affiliation": "KITP"
+   },
+   {
+    "name": "Nina Miolane",
+    "role": "Organizer",
+    "affiliation": "UC Santa Barbara"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -668,7 +2530,45 @@
    "causal attribution"
   ],
   "accent": "#a0855a",
-  "deadline": "Sep 1, 2026"
+  "deadline": "Sep 1, 2026",
+  "organizers": [
+   {
+    "name": "Bálint Mucsányi",
+    "role": "Organizer",
+    "affiliation": null,
+    "photo": "images/people/Sydney_42_0.jpg"
+   },
+   {
+    "name": "Sarah H. Cen",
+    "role": "Organizer",
+    "affiliation": null,
+    "photo": "images/people/Sydney_42_1.jpg"
+   },
+   {
+    "name": "Andrew Ilyas",
+    "role": "Organizer",
+    "affiliation": null,
+    "photo": "images/people/Sydney_42_2.jpg"
+   },
+   {
+    "name": "Elisa Nguyen",
+    "role": "Organizer",
+    "affiliation": null,
+    "photo": "images/people/Sydney_42_3.jpg"
+   },
+   {
+    "name": "Sung Min Park",
+    "role": "Organizer",
+    "affiliation": null,
+    "photo": "images/people/Sydney_42_4.jpg"
+   },
+   {
+    "name": "Teddi Worledge",
+    "role": "Organizer",
+    "affiliation": null,
+    "photo": "images/people/Sydney_42_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -684,7 +2584,57 @@
    "simulation"
   ],
   "accent": "#8f7a66",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Homanga Bharadhwaj",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Sydney_43_0.jpg"
+   },
+   {
+    "name": "Jing-Wen Chen",
+    "role": "Organizer",
+    "affiliation": "National Taiwan University",
+    "photo": "images/people/Sydney_43_1.jpg"
+   },
+   {
+    "name": "Hiroki Furuta",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind / University of Tokyo",
+    "photo": "images/people/Sydney_43_2.jpg"
+   },
+   {
+    "name": "Kuang-Huei Lee",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_43_3.jpg"
+   },
+   {
+    "name": "Ruoshi Liu",
+    "role": "Organizer",
+    "affiliation": "Amazon FAR",
+    "photo": "images/people/Sydney_43_4.jpg"
+   },
+   {
+    "name": "Zeyi Liu",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_43_5.jpg"
+   },
+   {
+    "name": "Yifu Qiu",
+    "role": "Organizer",
+    "affiliation": "University of Edinburgh / University of Cambridge",
+    "photo": "images/people/Sydney_43_6.jpg"
+   },
+   {
+    "name": "Wenhao Yu",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_43_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -700,7 +2650,63 @@
    "agent safety"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Simon Yu",
+    "role": "Organizer",
+    "affiliation": "Northeastern University",
+    "photo": "images/people/Sydney_44_0.jpg"
+   },
+   {
+    "name": "Dilara Soylu",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_44_1.jpg"
+   },
+   {
+    "name": "Derek Chong",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_44_2.jpg"
+   },
+   {
+    "name": "Ananjan Nandi",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_44_3.jpg"
+   },
+   {
+    "name": "Apurva Gandhi",
+    "role": "Organizer",
+    "affiliation": "Carnegie Mellon University",
+    "photo": "images/people/Sydney_44_4.jpg"
+   },
+   {
+    "name": "Jiuding Sun",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_44_5.jpg"
+   },
+   {
+    "name": "Zichen Liu",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Sydney_44_6.jpg"
+   },
+   {
+    "name": "Christopher D. Manning",
+    "role": "Advisor",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Sydney_44_7.jpg"
+   },
+   {
+    "name": "Weiyan Shi",
+    "role": "Advisor",
+    "affiliation": "Northeastern University",
+    "photo": "images/people/Sydney_44_8.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -716,7 +2722,59 @@
    "generalization"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 26, 2026"
+  "deadline": "Aug 26, 2026",
+  "organizers": [
+   {
+    "name": "Andrey Kolobov",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research"
+   },
+   {
+    "name": "Alex Bewley",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind"
+   },
+   {
+    "name": "Hamidreza Kasaei",
+    "role": "Organizer",
+    "affiliation": "University of Groningen"
+   },
+   {
+    "name": "Roberto Calandra",
+    "role": "Organizer",
+    "affiliation": "TU Dresden"
+   },
+   {
+    "name": "Johannes V. S. Busch",
+    "role": "Organizer",
+    "affiliation": "TU Dresden"
+   },
+   {
+    "name": "Moritz Reuss",
+    "role": "Organizer",
+    "affiliation": "NVIDIA"
+   },
+   {
+    "name": "Jiaxu Xing",
+    "role": "Organizer",
+    "affiliation": "University of Zurich"
+   },
+   {
+    "name": "Jen Jen Chung",
+    "role": "Organizer",
+    "affiliation": "University of Queensland"
+   },
+   {
+    "name": "Markus Wulfmeier",
+    "role": "Advisor",
+    "affiliation": "Nomagic"
+   },
+   {
+    "name": "Masha Itkina",
+    "role": "Advisor",
+    "affiliation": "Toyota Research Institute"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -732,7 +2790,45 @@
    "neural decoding"
   ],
   "accent": "#a0785f",
-  "deadline": "Sep 5, 2026"
+  "deadline": "Sep 5, 2026",
+  "organizers": [
+   {
+    "name": "Mehdi Azabou",
+    "role": "Organizer",
+    "affiliation": "Constellation",
+    "photo": "images/people/Sydney_46_0.jpg"
+   },
+   {
+    "name": "Nanda H Krishna",
+    "role": "Organizer",
+    "affiliation": "Mila",
+    "photo": "images/people/Sydney_46_1.jpg"
+   },
+   {
+    "name": "Pierre Guetschel",
+    "role": "Organizer",
+    "affiliation": "Donders Institute",
+    "photo": "images/people/Sydney_46_2.jpg"
+   },
+   {
+    "name": "Jonathan D McCart",
+    "role": "Organizer",
+    "affiliation": "Emory, Georgia Tech",
+    "photo": "images/people/Sydney_46_3.jpg"
+   },
+   {
+    "name": "Alexandre Andre",
+    "role": "Organizer",
+    "affiliation": "UPenn",
+    "photo": "images/people/Sydney_46_4.jpg"
+   },
+   {
+    "name": "Melanie Segado",
+    "role": "Organizer",
+    "affiliation": "UPenn",
+    "photo": "images/people/Sydney_46_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -748,7 +2844,51 @@
    "self-improvement"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Jonghyun Choi",
+    "role": "Organizer",
+    "affiliation": "Seoul National University",
+    "photo": "images/people/Sydney_47_0.jpg"
+   },
+   {
+    "name": "Xiao-Ming Wu",
+    "role": "Organizer",
+    "affiliation": "The Hong Kong Polytechnic University",
+    "photo": "images/people/Sydney_47_1.jpg"
+   },
+   {
+    "name": "Rahaf Aljundi",
+    "role": "Organizer",
+    "affiliation": "Toyota Motor Europe",
+    "photo": "images/people/Sydney_47_2.jpg"
+   },
+   {
+    "name": "Jorge Mendez-Mendez",
+    "role": "Organizer",
+    "affiliation": "Stony Brook University",
+    "photo": "images/people/Sydney_47_3.jpg"
+   },
+   {
+    "name": "Liyuan Wang",
+    "role": "Organizer",
+    "affiliation": "Tsinghua University",
+    "photo": "images/people/Sydney_47_4.jpg"
+   },
+   {
+    "name": "Yujie Feng",
+    "role": "Organizer",
+    "affiliation": "The Hong Kong Polytechnic University",
+    "photo": "images/people/Sydney_47_5.jpg"
+   },
+   {
+    "name": "Yuankai Luo",
+    "role": "Organizer",
+    "affiliation": "Nanjing University",
+    "photo": "images/people/Sydney_47_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -764,7 +2904,45 @@
    "ai ethics"
   ],
   "accent": "#9c7a54",
-  "deadline": "Sep 10, 2026"
+  "deadline": "Sep 10, 2026",
+  "organizers": [
+   {
+    "name": "Maruf Adewole",
+    "role": "Organizer",
+    "affiliation": "Medical Artificial Intelligence Laboratory, Nigeria",
+    "photo": "images/people/Sydney_48_0.jpg"
+   },
+   {
+    "name": "Udunna Anazodo",
+    "role": "Organizer",
+    "affiliation": "McGill University & MAI Lab, Nigeria",
+    "photo": "images/people/Sydney_48_1.jpg"
+   },
+   {
+    "name": "Sahar Selim",
+    "role": "Organizer",
+    "affiliation": "Center for Informatics Science, Giza, Egypt",
+    "photo": "images/people/Sydney_48_2.jpg"
+   },
+   {
+    "name": "Fatade Olawayemisi Boye",
+    "role": "Organizer",
+    "affiliation": "Babcock University, Nigeria",
+    "photo": "images/people/Sydney_48_3.jpg"
+   },
+   {
+    "name": "Lukman Enegi Ismaila",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University School of Medicine",
+    "photo": "images/people/Sydney_48_4.jpg"
+   },
+   {
+    "name": "Ifeoluwa Oladeji",
+    "role": "Organizer",
+    "affiliation": "Medical Artificial Intelligence Laboratory, Nigeria",
+    "photo": "images/people/Sydney_48_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -779,7 +2957,8 @@
    "mentorship"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 20, 2026"
+  "deadline": "Aug 20, 2026",
+  "organizers": []
  },
  {
   "venue": "Sydney",
@@ -795,7 +2974,74 @@
    "nlp"
   ],
   "accent": "#a0855a",
-  "deadline": "Sep 10, 2026"
+  "deadline": "Sep 10, 2026",
+  "organizers": [
+   {
+    "name": "Shaokai Yang",
+    "role": "Organizer",
+    "affiliation": "University of Alberta"
+   },
+   {
+    "name": "Ahmed Youssef",
+    "role": "Organizer",
+    "affiliation": "Synopsys",
+    "photo": "images/people/Sydney_50_1.jpg"
+   },
+   {
+    "name": "Ehsaneddin Asgari",
+    "role": "Organizer",
+    "affiliation": "Qatar Computing Research Institute",
+    "photo": "images/people/Sydney_50_2.jpg"
+   },
+   {
+    "name": "Yousra Farhani",
+    "role": "Organizer",
+    "affiliation": "Niels Bohr Institute",
+    "photo": "images/people/Sydney_50_3.jpg"
+   },
+   {
+    "name": "Suleiman Ali Khan",
+    "role": "Organizer",
+    "affiliation": "Amazon",
+    "photo": "images/people/Sydney_50_4.jpg"
+   },
+   {
+    "name": "Azmine Toushik Wasi",
+    "role": "Organizer",
+    "affiliation": "CIOL",
+    "photo": "images/people/Sydney_50_5.jpg"
+   },
+   {
+    "name": "Gasser Elbanna",
+    "role": "Organizer",
+    "affiliation": "Harvard University",
+    "photo": "images/people/Sydney_50_6.jpg"
+   },
+   {
+    "name": "Nasik Muhammad Nafi",
+    "role": "Organizer",
+    "affiliation": "Oak Ridge National Lab",
+    "photo": "images/people/Sydney_50_7.jpg"
+   },
+   {
+    "name": "Kamran Soomro",
+    "role": "Organizer",
+    "affiliation": "UWE Bristol",
+    "photo": "images/people/Sydney_50_8.jpg"
+   },
+   {
+    "name": "Rian Adam Rajagede",
+    "role": "Organizer",
+    "affiliation": "University of Central Florida",
+    "photo": "images/people/Sydney_50_9.jpg"
+   },
+   {
+    "name": "Muhammad Irfan Khan",
+    "role": "Organizer",
+    "affiliation": "Turku University of Applied Sciences",
+    "photo": "images/people/Sydney_50_10.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -811,7 +3057,51 @@
    "dense correspondence"
   ],
   "accent": "#8f7a66",
-  "deadline": "Sep 15, 2026"
+  "deadline": "Sep 15, 2026",
+  "organizers": [
+   {
+    "name": "Shashank Agnihotri",
+    "role": "Organizer",
+    "affiliation": "University of Mannheim",
+    "photo": "images/people/Sydney_51_0.jpg"
+   },
+   {
+    "name": "Victor Oei",
+    "role": "Organizer",
+    "affiliation": "University of Stuttgart",
+    "photo": "images/people/Sydney_51_1.jpg"
+   },
+   {
+    "name": "Jenny Schmalfuss",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Sydney_51_2.jpg"
+   },
+   {
+    "name": "Katrin Bauer",
+    "role": "Organizer",
+    "affiliation": "University of Stuttgart",
+    "photo": "images/people/Sydney_51_3.jpg"
+   },
+   {
+    "name": "Henrique Morimitsu",
+    "role": "Organizer",
+    "affiliation": "University of Science and Technology Beijing",
+    "photo": "images/people/Sydney_51_4.jpg"
+   },
+   {
+    "name": "Andrés Bruhn",
+    "role": "Organizer",
+    "affiliation": "University of Stuttgart",
+    "photo": "images/people/Sydney_51_5.jpg"
+   },
+   {
+    "name": "Margret Keuper",
+    "role": "Organizer",
+    "affiliation": "University of Mannheim and MPI-INF",
+    "photo": "images/people/Sydney_51_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -826,7 +3116,49 @@
    "ai for social impact"
   ],
   "accent": "#9a6f63",
-  "deadline": "Sep 5, 2026"
+  "deadline": "Sep 5, 2026",
+  "organizers": [
+   {
+    "name": "Tushar Shinde",
+    "role": "Chair",
+    "affiliation": "IIT Madras Zanzibar, Tanzania"
+   },
+   {
+    "name": "Saurabh Deshpande",
+    "role": "Organizer",
+    "affiliation": "Birla AI Labs, India"
+   },
+   {
+    "name": "Sandareka Wickramanayake",
+    "role": "Organizer",
+    "affiliation": "University of Moratuwa, Sri Lanka"
+   },
+   {
+    "name": "Kumar Rahul",
+    "role": "Organizer",
+    "affiliation": "Amazon Prime Video, USA"
+   },
+   {
+    "name": "Akila Hewa Thondilege",
+    "role": "Organizer",
+    "affiliation": "Queensland University of Technology, Australia"
+   },
+   {
+    "name": "Jonathan Shock",
+    "role": "Organizer",
+    "affiliation": "University of Cape Town, South Africa"
+   },
+   {
+    "name": "Divya Sharma",
+    "role": "Organizer",
+    "affiliation": "York University, Canada"
+   },
+   {
+    "name": "Chaker Larabi",
+    "role": "Organizer",
+    "affiliation": "Université de Poitiers, France"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -842,7 +3174,49 @@
    "affinity group"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Sep 3, 2026"
+  "deadline": "Sep 3, 2026",
+  "organizers": [
+   {
+    "name": "Sharvani Jha",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Alissa Valentine",
+    "role": "Organizer",
+    "affiliation": "University of Copenhagen"
+   },
+   {
+    "name": "Kaiser Sun",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University"
+   },
+   {
+    "name": "Esmeralda S. Whitammer",
+    "role": "Organizer",
+    "affiliation": "University of Edinburgh"
+   },
+   {
+    "name": "Ashwin S",
+    "role": "Organizer",
+    "affiliation": "TU Wien"
+   },
+   {
+    "name": "Thibault Marette",
+    "role": "Organizer",
+    "affiliation": "KTH Royal Institute of Technology"
+   },
+   {
+    "name": "Alex Markham",
+    "role": "Organizer",
+    "affiliation": "University of Copenhagen"
+   },
+   {
+    "name": "Siyan Li",
+    "role": "Organizer",
+    "affiliation": "Columbia University"
+   }
+  ]
  },
  {
   "venue": "Sydney",
@@ -857,7 +3231,104 @@
    "machine learning"
   ],
   "accent": "#a0785f",
-  "deadline": "Aug 17, 2026"
+  "deadline": "Aug 17, 2026",
+  "organizers": [
+   {
+    "name": "Ziqi Huang",
+    "role": "General Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Luxi He",
+    "role": "Senior Program Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Svetlana Churina",
+    "role": "Mentorship and Networking Program Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Supatta Viriyavisuthisakul",
+    "role": "Student Program and Funding Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Aiman Farooq",
+    "role": "Finance and Sponsorship Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Rana Barghout",
+    "role": "Program Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Daphne Charles",
+    "role": "Logistics Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Mélisande Teng",
+    "role": "Program Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Ariana Villegas",
+    "role": "Logistics Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Santhoshi Ravichandran",
+    "role": "Logistics Chair",
+    "affiliation": null
+   },
+   {
+    "name": "Giulia Clerici",
+    "role": "WiML Director / NeurIPS Workshop Liaison",
+    "affiliation": null
+   },
+   {
+    "name": "Nikita Saxena",
+    "role": "WiML Director / NeurIPS Workshop Liaison",
+    "affiliation": null
+   },
+   {
+    "name": "Yuko Kuroki Miyauchi",
+    "role": "Volunteer",
+    "affiliation": null
+   },
+   {
+    "name": "Nikita Malik",
+    "role": "Volunteer",
+    "affiliation": null
+   },
+   {
+    "name": "Swati Sharma",
+    "role": "Volunteer",
+    "affiliation": null
+   },
+   {
+    "name": "Alanis González",
+    "role": "Volunteer",
+    "affiliation": null
+   },
+   {
+    "name": "Radhika Dua",
+    "role": "Volunteer",
+    "affiliation": null
+   },
+   {
+    "name": "Khongorzul Munkhbat",
+    "role": "Volunteer",
+    "affiliation": null
+   },
+   {
+    "name": "Keerthi Gopalakrishnan",
+    "role": "Volunteer",
+    "affiliation": null
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -873,7 +3344,45 @@
    "security-utility tradeoff"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 22, 2026"
+  "deadline": "Aug 22, 2026",
+  "organizers": [
+   {
+    "name": "Egor Zverev",
+    "role": "Organizer",
+    "affiliation": "Institute of Science and Technology Austria",
+    "photo": "images/people/Paris_1_0.jpg"
+   },
+   {
+    "name": "Maura Pintor",
+    "role": "Organizer",
+    "affiliation": "University of Cagliari",
+    "photo": "images/people/Paris_1_1.jpg"
+   },
+   {
+    "name": "Santiago Zanella-Béguelin",
+    "role": "Organizer",
+    "affiliation": "Microsoft",
+    "photo": "images/people/Paris_1_2.jpg"
+   },
+   {
+    "name": "Ana-Maria Cretu",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center for Information Security",
+    "photo": "images/people/Paris_1_3.jpg"
+   },
+   {
+    "name": "Nicole Nichols",
+    "role": "Organizer",
+    "affiliation": "Palo Alto Networks",
+    "photo": "images/people/Paris_1_4.jpg"
+   },
+   {
+    "name": "Pavel Laskov",
+    "role": "Organizer",
+    "affiliation": "University of Liechtenstein",
+    "photo": "images/people/Paris_1_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -889,7 +3398,39 @@
    "autonomous laboratories"
   ],
   "accent": "#7d8a5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Odalric-Ambrym Maillard",
+    "role": "Organizer",
+    "affiliation": "INRIA & University of Lille, France"
+   },
+   {
+    "name": "Ronald Ortner",
+    "role": "Organizer",
+    "affiliation": "Technical University of Leoben, Austria"
+   },
+   {
+    "name": "Audrey Durand",
+    "role": "Organizer",
+    "affiliation": "Université Laval, Canada"
+   },
+   {
+    "name": "Sadegh Talebi",
+    "role": "Organizer",
+    "affiliation": "University of Copenhagen, Denmark"
+   },
+   {
+    "name": "Samba Diaw",
+    "role": "Organizer",
+    "affiliation": "Higher Polytechnic School, Cheikh Anta DIOP University, Senegal"
+   },
+   {
+    "name": "Tristan Fauvel",
+    "role": "Organizer",
+    "affiliation": "BaysicLabs, France"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -905,7 +3446,51 @@
    "cross-embodiment adaptation"
   ],
   "accent": "#a08656",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Shijie Li",
+    "role": "Organizer",
+    "affiliation": "A*STAR",
+    "photo": "images/people/Paris_3_0.jpg"
+   },
+   {
+    "name": "Shizhe Chen",
+    "role": "Organizer",
+    "affiliation": "Inria Paris",
+    "photo": "images/people/Paris_3_1.jpg"
+   },
+   {
+    "name": "Ziwei Wang",
+    "role": "Organizer",
+    "affiliation": "NTU",
+    "photo": "images/people/Paris_3_2.jpg"
+   },
+   {
+    "name": "Jiafei Duan",
+    "role": "Organizer",
+    "affiliation": "University of Washington",
+    "photo": "images/people/Paris_3_3.jpg"
+   },
+   {
+    "name": "Sihao Lin",
+    "role": "Organizer",
+    "affiliation": "Adelaide University",
+    "photo": "images/people/Paris_3_4.jpg"
+   },
+   {
+    "name": "Changliu Liu",
+    "role": "Organizer",
+    "affiliation": "Carnegie Mellon University",
+    "photo": "images/people/Paris_3_5.jpg"
+   },
+   {
+    "name": "Gerhard Neumann",
+    "role": "Organizer",
+    "affiliation": "KIT",
+    "photo": "images/people/Paris_3_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -921,7 +3506,44 @@
    "efficiency"
   ],
   "accent": "#90826e",
-  "deadline": "Sep 5, 2026"
+  "deadline": "Sep 5, 2026",
+  "organizers": [
+   {
+    "name": "Aurélie Boisbunon",
+    "role": "Organizer",
+    "affiliation": "Ericsson Research",
+    "photo": "images/people/Paris_4_0.jpg"
+   },
+   {
+    "name": "Rémi Emonet",
+    "role": "Organizer",
+    "affiliation": "Université de Lyon / Jean Monnet",
+    "photo": "images/people/Paris_4_1.jpg"
+   },
+   {
+    "name": "Valerio Frascolla",
+    "role": "Organizer",
+    "affiliation": "Intel Germany",
+    "photo": "images/people/Paris_4_2.jpg"
+   },
+   {
+    "name": "Elisa Fromont",
+    "role": "Organizer",
+    "affiliation": "Université de Rennes / IRISA",
+    "photo": "images/people/Paris_4_3.jpg"
+   },
+   {
+    "name": "Fabio Bonassi",
+    "role": "Organizer",
+    "affiliation": "Uppsala University",
+    "photo": "images/people/Paris_4_4.jpg"
+   },
+   {
+    "name": "June Sallou",
+    "role": "Organizer",
+    "affiliation": "Wageningen University"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -937,7 +3559,45 @@
    "governance"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Sana Tonekaboni",
+    "role": "Organizer",
+    "affiliation": "Borealis AI and MIT",
+    "photo": "images/people/Paris_5_0.jpg"
+   },
+   {
+    "name": "Lena Stempfle",
+    "role": "Organizer",
+    "affiliation": "MIT and Broad Institute",
+    "photo": "images/people/Paris_5_1.jpg"
+   },
+   {
+    "name": "Linus Bleistein",
+    "role": "Organizer",
+    "affiliation": "EPFL AI Center",
+    "photo": "images/people/Paris_5_2.jpg"
+   },
+   {
+    "name": "Maryam Molamohammadi",
+    "role": "Organizer",
+    "affiliation": "Mila - Quebec Artificial Intelligence Institute",
+    "photo": "images/people/Paris_5_3.jpg"
+   },
+   {
+    "name": "Adam Dziedzic",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center for Information Securty",
+    "photo": "images/people/Paris_5_4.jpg"
+   },
+   {
+    "name": "Franziska Boenisch",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center for Information Securty",
+    "photo": "images/people/Paris_5_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -953,7 +3613,34 @@
    "egocentric perception"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Titouan Parcollet",
+    "role": "Organizer",
+    "affiliation": "Samsung AI Research Center Cambridge"
+   },
+   {
+    "name": "Shalini De Mello",
+    "role": "Organizer",
+    "affiliation": "NVIDIA"
+   },
+   {
+    "name": "Rogier van Dalen",
+    "role": "Organizer",
+    "affiliation": "Samsung AI Center-Cambridge"
+   },
+   {
+    "name": "Naomi Harte",
+    "role": "Organizer",
+    "affiliation": "Trinity College Dublin"
+   },
+   {
+    "name": "Slim Essid",
+    "role": "Organizer",
+    "affiliation": "NVIDIA"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -969,7 +3656,57 @@
    "scientific simulators"
   ],
   "accent": "#9d8f74",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Georgia Channing",
+    "role": "Organizer",
+    "affiliation": "Hugging Face",
+    "photo": "images/people/Paris_7_0.jpg"
+   },
+   {
+    "name": "Noémi Éltetö",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Paris_7_1.jpg"
+   },
+   {
+    "name": "Richard Gao",
+    "role": "Organizer",
+    "affiliation": "Goethe University Frankfurt",
+    "photo": "images/people/Paris_7_2.jpg"
+   },
+   {
+    "name": "Daniel Gedon",
+    "role": "Organizer",
+    "affiliation": "University of Tübingen",
+    "photo": "images/people/Paris_7_3.jpg"
+   },
+   {
+    "name": "Magdalena Lederbauer",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Paris_7_4.jpg"
+   },
+   {
+    "name": "Cecilia Clementi",
+    "role": "Advisor",
+    "affiliation": "Freie Universität Berlin / Rice University",
+    "photo": "images/people/Paris_7_5.jpg"
+   },
+   {
+    "name": "Jakob Macke",
+    "role": "Advisor",
+    "affiliation": "ELLIS Institute Tübingen / University of Tübingen",
+    "photo": "images/people/Paris_7_6.jpg"
+   },
+   {
+    "name": "Max Welling",
+    "role": "Advisor",
+    "affiliation": "University of Amsterdam / CuspAI",
+    "photo": "images/people/Paris_7_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -985,7 +3722,39 @@
    "generative modeling"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Clément Bonet",
+    "role": "Organizer",
+    "affiliation": "Ecole Polytechnique"
+   },
+   {
+    "name": "Julie Delon",
+    "role": "Organizer",
+    "affiliation": "ENS / Université Paris Cité"
+   },
+   {
+    "name": "Nina Miolane",
+    "role": "Organizer",
+    "affiliation": "UC Santa Barbara"
+   },
+   {
+    "name": "Youssef Mroueh",
+    "role": "Organizer",
+    "affiliation": "IBM Research"
+   },
+   {
+    "name": "Kimia Nadjahi",
+    "role": "Organizer",
+    "affiliation": "CNRS / ENS"
+   },
+   {
+    "name": "Justin Solomon",
+    "role": "Organizer",
+    "affiliation": "MIT"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1001,7 +3770,39 @@
    "physical sciences"
   ],
   "accent": "#7d8a5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Pietro Novelli",
+    "role": "Organizer",
+    "affiliation": "Italian Institute of Technology"
+   },
+   {
+    "name": "Massimiliano Pontil",
+    "role": "Organizer",
+    "affiliation": "Italian Institute of Technology · UCL"
+   },
+   {
+    "name": "Florence d'Alché-Buc",
+    "role": "Organizer",
+    "affiliation": "Télécom Paris · IP Paris"
+   },
+   {
+    "name": "Pierre Gentine",
+    "role": "Organizer",
+    "affiliation": "Columbia University"
+   },
+   {
+    "name": "Kara Lamb",
+    "role": "Organizer",
+    "affiliation": "Columbia University"
+   },
+   {
+    "name": "Mathias Niepert",
+    "role": "Organizer",
+    "affiliation": "University of Stuttgart"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1017,7 +3818,51 @@
    "non-stationary environments"
   ],
   "accent": "#a08656",
-  "deadline": "Aug 30, 2026"
+  "deadline": "Aug 30, 2026",
+  "organizers": [
+   {
+    "name": "Francesco Quinzan",
+    "role": "Lead Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Paris_10_0.jpg"
+   },
+   {
+    "name": "Gabriel Peyré",
+    "role": "Organizer",
+    "affiliation": "École Normale Supérieure",
+    "photo": "images/people/Paris_10_1.jpg"
+   },
+   {
+    "name": "Patrick Rebeschini",
+    "role": "Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Paris_10_2.jpg"
+   },
+   {
+    "name": "Chengchun Shi",
+    "role": "Organizer",
+    "affiliation": "London School of Economics and Political Science",
+    "photo": "images/people/Paris_10_3.jpg"
+   },
+   {
+    "name": "Fanghui Liu",
+    "role": "Organizer",
+    "affiliation": "Shanghai Jiao Tong University",
+    "photo": "images/people/Paris_10_4.jpg"
+   },
+   {
+    "name": "James Dixon",
+    "role": "Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Paris_10_5.jpg"
+   },
+   {
+    "name": "Valentina Zangirolami",
+    "role": "Organizer",
+    "affiliation": "University of Milano-Bicocca",
+    "photo": "images/people/Paris_10_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1033,7 +3878,34 @@
    "benchmarking"
   ],
   "accent": "#90826e",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Nadine Schneider",
+    "role": "Organizer",
+    "affiliation": "Novartis"
+   },
+   {
+    "name": "Günter Klambauer",
+    "role": "Organizer",
+    "affiliation": "ELLIS Unit Linz & Johannes Kepler University Linz"
+   },
+   {
+    "name": "Ola Engkvist",
+    "role": "Organizer",
+    "affiliation": "AstraZeneca & Chalmers University of Technology"
+   },
+   {
+    "name": "Marwin Segler",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research"
+   },
+   {
+    "name": "Sohvi Luukkonen",
+    "role": "Organizer",
+    "affiliation": "ELLIS Unit Linz & Johannes Kepler University Linz"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1049,7 +3921,33 @@
    "edge deployment"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Roberta Calegari",
+    "role": "Chair",
+    "affiliation": "University of Bologna",
+    "photo": "images/people/Paris_12_0.jpg"
+   },
+   {
+    "name": "Michela Milano",
+    "role": "Chair",
+    "affiliation": "University of Bologna / FBK",
+    "photo": "images/people/Paris_12_1.jpg"
+   },
+   {
+    "name": "Dennis Hoppe",
+    "role": "Chair",
+    "affiliation": "High-Performance Computing Center Stuttgart (HLRS)",
+    "photo": "images/people/Paris_12_2.jpg"
+   },
+   {
+    "name": "Joachim Koehler",
+    "role": "Chair",
+    "affiliation": "Fraunhofer IAIS",
+    "photo": "images/people/Paris_12_3.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1065,7 +3963,39 @@
    "conformal prediction"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Shubhada Agrawal",
+    "role": "Organizer",
+    "affiliation": "Indian Institute of Science, Bangalore",
+    "photo": "images/people/Paris_13_0.jpg"
+   },
+   {
+    "name": "Sebastian Arnold",
+    "role": "Organizer",
+    "affiliation": "CWI, Amsterdam",
+    "photo": "images/people/Paris_13_1.jpg"
+   },
+   {
+    "name": "Yo Joong (YJ) Choe",
+    "role": "Organizer",
+    "affiliation": "INSEAD, Singapore",
+    "photo": "images/people/Paris_13_2.jpg"
+   },
+   {
+    "name": "Peter Grünwald",
+    "role": "Organizer",
+    "affiliation": "CWI, Amsterdam and Leiden University",
+    "photo": "images/people/Paris_13_3.jpg"
+   },
+   {
+    "name": "Aaditya Ramdas",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Paris_13_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1081,7 +4011,57 @@
    "memory safety"
   ],
   "accent": "#9d8f74",
-  "deadline": "Aug 24, 2026"
+  "deadline": "Aug 24, 2026",
+  "organizers": [
+   {
+    "name": "Mario Fritz",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center",
+    "photo": "images/people/Paris_14_0.jpg"
+   },
+   {
+    "name": "Seong Joon Oh",
+    "role": "Organizer",
+    "affiliation": "KAIST",
+    "photo": "images/people/Paris_14_1.jpg"
+   },
+   {
+    "name": "Sahar Abdelnabi",
+    "role": "Organizer",
+    "affiliation": "ELLIS Institute Tübingen & MPI-IS",
+    "photo": "images/people/Paris_14_2.jpg"
+   },
+   {
+    "name": "Shawn Shen",
+    "role": "Organizer",
+    "affiliation": "Memories.ai & Univ. of Bristol",
+    "photo": "images/people/Paris_14_3.jpg"
+   },
+   {
+    "name": "Hugo D. Lopes",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Paris_14_4.jpg"
+   },
+   {
+    "name": "Haritz Puerto",
+    "role": "Organizer",
+    "affiliation": "ELLIS Institute Tübingen & MPI-IS",
+    "photo": "images/people/Paris_14_5.jpg"
+   },
+   {
+    "name": "Ivaxi Sheth",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center",
+    "photo": "images/people/Paris_14_6.jpg"
+   },
+   {
+    "name": "Seokwon Jung",
+    "role": "Organizer",
+    "affiliation": "KAIST",
+    "photo": "images/people/Paris_14_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1097,7 +4077,111 @@
    "ai governance"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Terry Jingchen Zhang",
+    "role": "Organizer",
+    "affiliation": "University of Oxford & Vector Institute",
+    "photo": "images/people/Paris_15_0.jpg"
+   },
+   {
+    "name": "Changling Li",
+    "role": "Organizer",
+    "affiliation": "ETH Zürich & MPI-IS",
+    "photo": "images/people/Paris_15_1.jpg"
+   },
+   {
+    "name": "Arian Khorasani",
+    "role": "Organizer",
+    "affiliation": "University of Toronto & Vector Institute",
+    "photo": "images/people/Paris_15_2.jpg"
+   },
+   {
+    "name": "Joan Nwatu",
+    "role": "Organizer",
+    "affiliation": "University of Michigan",
+    "photo": "images/people/Paris_15_3.jpg"
+   },
+   {
+    "name": "Yejin Son",
+    "role": "Organizer",
+    "affiliation": "University of British Columbia & Vector Institute",
+    "photo": "images/people/Paris_15_4.jpg"
+   },
+   {
+    "name": "He (Shawn) Shuang",
+    "role": "Organizer",
+    "affiliation": "Palo Alto Networks",
+    "photo": "images/people/Paris_15_5.jpg"
+   },
+   {
+    "name": "Jerick Shi",
+    "role": "Organizer",
+    "affiliation": "Carnegie Mellon University",
+    "photo": "images/people/Paris_15_6.jpg"
+   },
+   {
+    "name": "Prakhar Gupta",
+    "role": "Organizer",
+    "affiliation": "University of Michigan",
+    "photo": "images/people/Paris_15_7.jpg"
+   },
+   {
+    "name": "Kexin Li",
+    "role": "Organizer",
+    "affiliation": "University of Toronto & Schwartz Reisman Graduate Fellow",
+    "photo": "images/people/Paris_15_8.jpg"
+   },
+   {
+    "name": "Wenjun Qiu",
+    "role": "Organizer",
+    "affiliation": "University of Toronto & Schwartz Reisman Graduate Fellow",
+    "photo": "images/people/Paris_15_9.jpg"
+   },
+   {
+    "name": "Zhijing Jin",
+    "role": "Organizer",
+    "affiliation": "University of Toronto",
+    "photo": "images/people/Paris_15_10.jpg"
+   },
+   {
+    "name": "Rada Mihalcea",
+    "role": "Organizer",
+    "affiliation": "University of Michigan",
+    "photo": "images/people/Paris_15_11.jpg"
+   },
+   {
+    "name": "Milind Tambe",
+    "role": "Organizer",
+    "affiliation": "Harvard University",
+    "photo": "images/people/Paris_15_12.jpg"
+   },
+   {
+    "name": "David Lie",
+    "role": "Organizer",
+    "affiliation": "University of Toronto & Schwartz Reisman Institute",
+    "photo": "images/people/Paris_15_13.jpg"
+   },
+   {
+    "name": "Christian Schroeder de Witt",
+    "role": "Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Paris_15_14.jpg"
+   },
+   {
+    "name": "Klaudia Krawiecka",
+    "role": "Track Lead",
+    "affiliation": "Meta",
+    "photo": "images/people/Paris_15_15.jpg"
+   },
+   {
+    "name": "Swapneel Mehta",
+    "role": "Track Lead",
+    "affiliation": "MIT",
+    "photo": "images/people/Paris_15_16.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1113,7 +4197,81 @@
    "data readiness"
   ],
   "accent": "#7d8a5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Michal Rosen-Zvi",
+    "role": "Organizer",
+    "affiliation": "Hebrew University / Merck KGaA",
+    "photo": "images/people/Paris_16_0.jpg"
+   },
+   {
+    "name": "Zoe Piran",
+    "role": "Organizer",
+    "affiliation": "Stanford / Roche / Genentech",
+    "photo": "images/people/Paris_16_1.jpg"
+   },
+   {
+    "name": "Kenny Workman",
+    "role": "Organizer",
+    "affiliation": "LatchBio",
+    "photo": "images/people/Paris_16_2.jpg"
+   },
+   {
+    "name": "Edaeni Hamid",
+    "role": "Organizer",
+    "affiliation": "Roche / Genentech",
+    "photo": "images/people/Paris_16_3.jpg"
+   },
+   {
+    "name": "Vladimir Ermakov",
+    "role": "Organizer",
+    "affiliation": "Edison Scientific",
+    "photo": "images/people/Paris_16_4.jpg"
+   },
+   {
+    "name": "Arindam Sett",
+    "role": "Organizer",
+    "affiliation": "Roche / Genentech",
+    "photo": "images/people/Paris_16_5.jpg"
+   },
+   {
+    "name": "Sina Booeshaghi",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Paris_16_6.jpg"
+   },
+   {
+    "name": "Aviv Regev",
+    "role": "Advisor",
+    "affiliation": "Roche / Genentech",
+    "photo": "images/people/Paris_16_7.jpg"
+   },
+   {
+    "name": "Sam Rodriques",
+    "role": "Advisor",
+    "affiliation": "Edison Scientific",
+    "photo": "images/people/Paris_16_8.jpg"
+   },
+   {
+    "name": "Mohsen Hejrati",
+    "role": "Advisor",
+    "affiliation": "Apple",
+    "photo": "images/people/Paris_16_9.jpg"
+   },
+   {
+    "name": "Arvind Rajpal",
+    "role": "Advisor",
+    "affiliation": "Merck KGaA",
+    "photo": "images/people/Paris_16_10.jpg"
+   },
+   {
+    "name": "Lior Pachter",
+    "role": "Advisor",
+    "affiliation": "Caltech",
+    "photo": "images/people/Paris_16_11.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1129,7 +4287,44 @@
    "post-training"
   ],
   "accent": "#a08656",
-  "deadline": "Sep 5, 2026"
+  "deadline": "Sep 5, 2026",
+  "organizers": [
+   {
+    "name": "Francesco Cagnetta",
+    "role": "Organizer",
+    "affiliation": "Simplex"
+   },
+   {
+    "name": "Elisabetta Cornacchia",
+    "role": "Organizer",
+    "affiliation": "Bocconi University"
+   },
+   {
+    "name": "Soon Hoe Lim",
+    "role": "Organizer",
+    "affiliation": "KTH & Nordita"
+   },
+   {
+    "name": "Bingbin Liu",
+    "role": "Organizer",
+    "affiliation": "Kempner Institute, Harvard"
+   },
+   {
+    "name": "Bruno Loureiro",
+    "role": "Organizer",
+    "affiliation": "CNRS & École Normale Supérieure"
+   },
+   {
+    "name": "Valentin De Bortoli",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind"
+   },
+   {
+    "name": "Gabriel Peyré",
+    "role": "Organizer",
+    "affiliation": "CNRS & École Normale Supérieure"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1145,7 +4340,81 @@
    "interpretability"
   ],
   "accent": "#90826e",
-  "deadline": "Sep 1, 2026"
+  "deadline": "Sep 1, 2026",
+  "organizers": [
+   {
+    "name": "Bo Zhao",
+    "role": "Organizer",
+    "affiliation": "Harvard University",
+    "photo": "images/people/Paris_18_0.jpg"
+   },
+   {
+    "name": "Aspen Hopkins",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Paris_18_1.jpg"
+   },
+   {
+    "name": "Amil Dravid",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Paris_18_2.jpg"
+   },
+   {
+    "name": "Koyena Pal",
+    "role": "Organizer",
+    "affiliation": "Northeastern University",
+    "photo": "images/people/Paris_18_3.jpg"
+   },
+   {
+    "name": "Fabrizio Frasca",
+    "role": "Organizer",
+    "affiliation": "Technion",
+    "photo": "images/people/Paris_18_4.jpg"
+   },
+   {
+    "name": "Giorgos Bouritsas",
+    "role": "Organizer",
+    "affiliation": "University of Athens; Archimedes/Athena RC; Visible Machines",
+    "photo": "images/people/Paris_18_5.jpg"
+   },
+   {
+    "name": "Haggai Maron",
+    "role": "Advisor",
+    "affiliation": "Technion and NVIDIA",
+    "photo": "images/people/Paris_18_6.jpg"
+   },
+   {
+    "name": "Damian Borth",
+    "role": "Advisor",
+    "affiliation": "University of St. Gallen",
+    "photo": "images/people/Paris_18_7.jpg"
+   },
+   {
+    "name": "Gal Chechik",
+    "role": "Advisor",
+    "affiliation": "NVIDIA and Bar-Ilan University",
+    "photo": "images/people/Paris_18_8.jpg"
+   },
+   {
+    "name": "Michael Bronstein",
+    "role": "Advisor",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Paris_18_9.jpg"
+   },
+   {
+    "name": "Stefanie Jegelka",
+    "role": "Advisor",
+    "affiliation": "MIT and Technical University of Munich",
+    "photo": "images/people/Paris_18_10.jpg"
+   },
+   {
+    "name": "Alex Bronstein",
+    "role": "Advisor",
+    "affiliation": "Institute of Science and Technology Austria and Technion",
+    "photo": "images/people/Paris_18_11.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1161,7 +4430,39 @@
    "research governance"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Prabhant Singh",
+    "role": "Organizer",
+    "affiliation": "Microsoft",
+    "photo": "images/people/Paris_19_0.jpg"
+   },
+   {
+    "name": "Khuong T G Hieu",
+    "role": "Organizer",
+    "affiliation": "Université Paris-Saclay",
+    "photo": "images/people/Paris_19_1.jpg"
+   },
+   {
+    "name": "Hilde Weerts",
+    "role": "Organizer",
+    "affiliation": "Eindhoven University of Technology",
+    "photo": "images/people/Paris_19_2.jpg"
+   },
+   {
+    "name": "Lele Cao",
+    "role": "Organizer",
+    "affiliation": "Microsoft Gaming (King AI Labs)",
+    "photo": "images/people/Paris_19_3.jpg"
+   },
+   {
+    "name": "Joaquin Vanschoren",
+    "role": "Organizer",
+    "affiliation": "Eindhoven University of Technology",
+    "photo": "images/people/Paris_19_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1177,7 +4478,47 @@
    "ml for hardware"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 30, 2026"
+  "deadline": "Aug 30, 2026",
+  "organizers": [
+   {
+    "name": "Dario Garcia-Gasulla",
+    "role": "Organizer",
+    "affiliation": "Barcelona Supercomputing Center (BSC)",
+    "photo": "images/people/Paris_20_0.jpg"
+   },
+   {
+    "name": "Gokcen Kestor",
+    "role": "Organizer",
+    "affiliation": "Barcelona Supercomputing Center (BSC)",
+    "photo": "images/people/Paris_20_1.jpg"
+   },
+   {
+    "name": "Emanuele Parisi",
+    "role": "Organizer",
+    "affiliation": "Barcelona Supercomputing Center (BSC)"
+   },
+   {
+    "name": "Zhiyao Xie",
+    "role": "Organizer",
+    "affiliation": "Hong Kong University of Science and Technology (HKUST)"
+   },
+   {
+    "name": "Luca Benini",
+    "role": "Organizer",
+    "affiliation": "ETH Zürich & Università di Bologna",
+    "photo": "images/people/Paris_20_4.jpg"
+   },
+   {
+    "name": "Leighanne Clevenger",
+    "role": "Organizer",
+    "affiliation": "Silicon Integration Initiative (Si2)"
+   },
+   {
+    "name": "Cong (Callie) Hao",
+    "role": "Organizer",
+    "affiliation": "Georgia Institute of Technology"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1193,7 +4534,33 @@
    "multimodal integration"
   ],
   "accent": "#9d8f74",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Stefan Bonn",
+    "role": "Organizer",
+    "affiliation": "University Medical Center Hamburg-Eppendorf (UKE)",
+    "photo": "images/people/Paris_21_0.jpg"
+   },
+   {
+    "name": "Robin Khatri",
+    "role": "Organizer",
+    "affiliation": "University Medical Center Hamburg-Eppendorf (UKE)",
+    "photo": "images/people/Paris_21_1.jpg"
+   },
+   {
+    "name": "Lucia Testa",
+    "role": "Organizer",
+    "affiliation": "University Medical Center Hamburg-Eppendorf (UKE)",
+    "photo": "images/people/Paris_21_2.jpg"
+   },
+   {
+    "name": "Behnam Yousefi",
+    "role": "Organizer",
+    "affiliation": "University Medical Center Hamburg-Eppendorf (UKE)",
+    "photo": "images/people/Paris_21_3.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1209,7 +4576,45 @@
    "game theory"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Erik Miehling",
+    "role": "Organizer",
+    "affiliation": "IBM Research - Ireland",
+    "photo": "images/people/Paris_22_0.jpg"
+   },
+   {
+    "name": "Madeline Reinecke",
+    "role": "Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Paris_22_1.jpg"
+   },
+   {
+    "name": "Hamza Mostafa",
+    "role": "Organizer",
+    "affiliation": "University of Waterloo",
+    "photo": "images/people/Paris_22_2.jpg"
+   },
+   {
+    "name": "Jordan McAfoose",
+    "role": "Organizer",
+    "affiliation": "IBM Research - Zurich",
+    "photo": "images/people/Paris_22_3.jpg"
+   },
+   {
+    "name": "Irina Rish",
+    "role": "Organizer",
+    "affiliation": "Université de Montréal / Mila",
+    "photo": "images/people/Paris_22_4.jpg"
+   },
+   {
+    "name": "Djallel Bouneffouf",
+    "role": "Organizer",
+    "affiliation": "IBM Research - Yorktown Heights",
+    "photo": "images/people/Paris_22_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1225,7 +4630,39 @@
    "optimization theory"
   ],
   "accent": "#7d8a5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Olga Saukh",
+    "role": "Organizer",
+    "affiliation": "Graz University of Technology",
+    "photo": "images/people/Paris_23_0.jpg"
+   },
+   {
+    "name": "Linara Adilova",
+    "role": "Organizer",
+    "affiliation": "TU Dortmund and RC Trust",
+    "photo": "images/people/Paris_23_1.jpg"
+   },
+   {
+    "name": "Bernhard Geiger",
+    "role": "Organizer",
+    "affiliation": "Graz University of Technology",
+    "photo": "images/people/Paris_23_2.jpg"
+   },
+   {
+    "name": "Yedi Zhang",
+    "role": "Organizer",
+    "affiliation": "University College London",
+    "photo": "images/people/Paris_23_3.jpg"
+   },
+   {
+    "name": "Flavio Martinelli",
+    "role": "Organizer",
+    "affiliation": "EPFL Lausanne",
+    "photo": "images/people/Paris_23_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1241,7 +4678,45 @@
    "distillation"
   ],
   "accent": "#a08656",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Habib Hajimolahoseini",
+    "role": "Organizer",
+    "affiliation": "AMD",
+    "photo": "images/people/Paris_24_0.jpg"
+   },
+   {
+    "name": "Mehdi Rezagholizadeh",
+    "role": "Organizer",
+    "affiliation": "AMD",
+    "photo": "images/people/Paris_24_1.jpg"
+   },
+   {
+    "name": "Vahid Partovi Nia",
+    "role": "Organizer",
+    "affiliation": "École Polytechnique de Montréal and Huawei Canada Noah's Ark Lab",
+    "photo": "images/people/Paris_24_2.jpg"
+   },
+   {
+    "name": "Shahrzad Kianidehkordi",
+    "role": "Organizer",
+    "affiliation": "RBC Borealis",
+    "photo": "images/people/Paris_24_3.jpg"
+   },
+   {
+    "name": "Mouloud Belbahri",
+    "role": "Organizer",
+    "affiliation": "TD Insurance",
+    "photo": "images/people/Paris_24_4.jpg"
+   },
+   {
+    "name": "Pavlo Molchanov",
+    "role": "Organizer",
+    "affiliation": "NVIDIA Research",
+    "photo": "images/people/Paris_24_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1257,7 +4732,34 @@
    "validity"
   ],
   "accent": "#90826e",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Yev Meyer",
+    "role": "Organizer",
+    "affiliation": "NVIDIA"
+   },
+   {
+    "name": "Krisztian Balog",
+    "role": "Organizer",
+    "affiliation": "University of Stavanger & Google DeepMind"
+   },
+   {
+    "name": "Flora Salim",
+    "role": "Organizer",
+    "affiliation": "UNSW Sydney"
+   },
+   {
+    "name": "Victor Barres",
+    "role": "Organizer",
+    "affiliation": "Mercor"
+   },
+   {
+    "name": "Preethi Seshadri",
+    "role": "Organizer",
+    "affiliation": "UC Irvine & Cohere"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1273,7 +4775,51 @@
    "human flourishing"
   ],
   "accent": "#9a6f63",
-  "deadline": null
+  "deadline": null,
+  "organizers": [
+   {
+    "name": "Jacki O'Neill",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research Africa, Nairobi",
+    "photo": "images/people/Paris_26_0.jpg"
+   },
+   {
+    "name": "Haneesha Pinnamaraju",
+    "role": "Organizer",
+    "affiliation": "SHINE Child Development Center, Dubai",
+    "photo": "images/people/Paris_26_1.jpg"
+   },
+   {
+    "name": "Sandrine R. Schiller",
+    "role": "Organizer",
+    "affiliation": "University of Copenhagen",
+    "photo": "images/people/Paris_26_2.jpg"
+   },
+   {
+    "name": "Akhil Arora",
+    "role": "Organizer",
+    "affiliation": "Aarhus University",
+    "photo": "images/people/Paris_26_3.jpg"
+   },
+   {
+    "name": "Monojit Choudhury",
+    "role": "Organizer",
+    "affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "photo": "images/people/Paris_26_4.jpg"
+   },
+   {
+    "name": "Mukund Choudhary",
+    "role": "Organizer",
+    "affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "photo": "images/people/Paris_26_5.jpg"
+   },
+   {
+    "name": "Abdoul Jalil Djiberou Mahamadou",
+    "role": "Organizer",
+    "affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "photo": "images/people/Paris_26_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1289,7 +4835,45 @@
    "bayesian inference"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Sahar Abdelnabi",
+    "role": "Organizer",
+    "affiliation": "ELLIS Institute Tübingen & MPI-IS",
+    "photo": "images/people/Paris_27_0.jpg"
+   },
+   {
+    "name": "Michele Caprio",
+    "role": "Organizer",
+    "affiliation": "University of Manchester",
+    "photo": "images/people/Paris_27_1.jpg"
+   },
+   {
+    "name": "Siu Lun Chau",
+    "role": "Organizer",
+    "affiliation": "Nanyang Technological University",
+    "photo": "images/people/Paris_27_2.jpg"
+   },
+   {
+    "name": "Julian Rodemann",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center for Information Security",
+    "photo": "images/people/Paris_27_3.jpg"
+   },
+   {
+    "name": "Shireen Kudukkil Manchingal",
+    "role": "Organizer",
+    "affiliation": "Oxford Dynamics",
+    "photo": "images/people/Paris_27_4.jpg"
+   },
+   {
+    "name": "Krikamol Muandet",
+    "role": "Organizer",
+    "affiliation": "CISPA Helmholtz Center for Information Security",
+    "photo": "images/people/Paris_27_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Paris",
@@ -1304,7 +4888,51 @@
    "publishing guidance"
   ],
   "accent": "#9d8f74",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Arian Khorasani",
+    "role": "Organizer",
+    "affiliation": "University of Toronto & Vector Institute",
+    "photo": "images/people/Paris_28_0.jpg"
+   },
+   {
+    "name": "Shashank Galla",
+    "role": "Organizer",
+    "affiliation": "Texas A&M University",
+    "photo": "images/people/Paris_28_1.jpg"
+   },
+   {
+    "name": "Zarreen Reza",
+    "role": "Organizer",
+    "affiliation": "JACOBB Applied AI Center",
+    "photo": "images/people/Paris_28_2.jpg"
+   },
+   {
+    "name": "Arth Singh",
+    "role": "Organizer",
+    "affiliation": "AIM Intelligence",
+    "photo": "images/people/Paris_28_3.jpg"
+   },
+   {
+    "name": "Iñigo Parra",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Paris_28_4.jpg"
+   },
+   {
+    "name": "Veeraraju Elluru",
+    "role": "Organizer",
+    "affiliation": "SAAR-India",
+    "photo": "images/people/Paris_28_5.jpg"
+   },
+   {
+    "name": "Zhen (Zach) Xu",
+    "role": "Organizer",
+    "affiliation": "University of Chicago",
+    "photo": "images/people/Paris_28_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1320,7 +4948,117 @@
    "embodied ai"
   ],
   "accent": "#a8895a",
-  "deadline": "Sep 9, 2026"
+  "deadline": "Sep 9, 2026",
+  "organizers": [
+   {
+    "name": "Kaichen Zhou",
+    "role": "Organizer",
+    "affiliation": "Massachusetts Institute of Technology / Harvard University",
+    "photo": "images/people/Atlanta_1_0.jpg"
+   },
+   {
+    "name": "Ruojin Cai",
+    "role": "Organizer",
+    "affiliation": "Harvard University",
+    "photo": "images/people/Atlanta_1_1.jpg"
+   },
+   {
+    "name": "Jianqing Zheng",
+    "role": "Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Atlanta_1_2.jpg"
+   },
+   {
+    "name": "Congyue Deng",
+    "role": "Organizer",
+    "affiliation": "Massachusetts Institute of Technology",
+    "photo": "images/people/Atlanta_1_3.jpg"
+   },
+   {
+    "name": "Amir Jamaludin",
+    "role": "Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Atlanta_1_4.jpg"
+   },
+   {
+    "name": "Yining Hong",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_1_5.jpg"
+   },
+   {
+    "name": "Shangzhe Wu",
+    "role": "Organizer",
+    "affiliation": "University of Cambridge",
+    "photo": "images/people/Atlanta_1_6.jpg"
+   },
+   {
+    "name": "Rao Fu",
+    "role": "Organizer",
+    "affiliation": "Brown University",
+    "photo": "images/people/Atlanta_1_7.jpg"
+   },
+   {
+    "name": "Fangneng Zhan",
+    "role": "Organizer",
+    "affiliation": "Hong Kong University of Science and Technology",
+    "photo": "images/people/Atlanta_1_8.jpg"
+   },
+   {
+    "name": "Wei Dai",
+    "role": "Organizer",
+    "affiliation": "Massachusetts Institute of Technology",
+    "photo": "images/people/Atlanta_1_9.jpg"
+   },
+   {
+    "name": "Tiange Xiang",
+    "role": "Organizer",
+    "affiliation": "Stanford University / Massachusetts Institute of Technology",
+    "photo": "images/people/Atlanta_1_10.jpg"
+   },
+   {
+    "name": "Zihan Wang",
+    "role": "Organizer",
+    "affiliation": "Abaka AI / 2077AI",
+    "photo": "images/people/Atlanta_1_11.jpg"
+   },
+   {
+    "name": "Mengyu Wang",
+    "role": "Organizer",
+    "affiliation": "Harvard Medical School",
+    "photo": "images/people/Atlanta_1_12.jpg"
+   },
+   {
+    "name": "Xinhai Chang",
+    "role": "Junior Organizer",
+    "affiliation": "Peking University",
+    "photo": "images/people/Atlanta_1_13.jpg"
+   },
+   {
+    "name": "Yuzhen Chen",
+    "role": "Junior Organizer",
+    "affiliation": "Harvard Medical School",
+    "photo": "images/people/Atlanta_1_14.jpg"
+   },
+   {
+    "name": "Zeyang Bai",
+    "role": "Junior Organizer",
+    "affiliation": "WorldMind Lab",
+    "photo": "images/people/Atlanta_1_15.jpg"
+   },
+   {
+    "name": "Yu Chen",
+    "role": "Junior Organizer",
+    "affiliation": "University of Maryland",
+    "photo": "images/people/Atlanta_1_16.jpg"
+   },
+   {
+    "name": "Zhiyan Li",
+    "role": "Junior Organizer",
+    "affiliation": "Shanghai Jiao Tong University",
+    "photo": "images/people/Atlanta_1_17.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1336,7 +5074,75 @@
    "llm code generation"
   ],
   "accent": "#a0855a",
-  "deadline": "Sep 13, 2026"
+  "deadline": "Sep 13, 2026",
+  "organizers": [
+   {
+    "name": "Wuyang Chen",
+    "role": "Organizer",
+    "affiliation": "Simon Fraser University",
+    "photo": "images/people/Atlanta_2_0.jpg"
+   },
+   {
+    "name": "Soonho Kong",
+    "role": "Organizer",
+    "affiliation": "Amazon Web Services",
+    "photo": "images/people/Atlanta_2_1.jpg"
+   },
+   {
+    "name": "Hakjoo Oh",
+    "role": "Organizer",
+    "affiliation": "Korea University",
+    "photo": "images/people/Atlanta_2_2.jpg"
+   },
+   {
+    "name": "Jingxuan He",
+    "role": "Organizer",
+    "affiliation": "University of California at Berkeley",
+    "photo": "images/people/Atlanta_2_3.jpg"
+   },
+   {
+    "name": "Jacqueline Mitchell",
+    "role": "Organizer",
+    "affiliation": "University of Southern California",
+    "photo": "images/people/Atlanta_2_4.jpg"
+   },
+   {
+    "name": "Amanda Liu",
+    "role": "Organizer",
+    "affiliation": "Massachusetts Institute of Technology",
+    "photo": "images/people/Atlanta_2_5.jpg"
+   },
+   {
+    "name": "Zhe Ye",
+    "role": "Organizer",
+    "affiliation": "University of California at Berkeley",
+    "photo": "images/people/Atlanta_2_6.jpg"
+   },
+   {
+    "name": "Xiaodong Liu",
+    "role": "Organizer",
+    "affiliation": "Microsoft",
+    "photo": "images/people/Atlanta_2_7.jpg"
+   },
+   {
+    "name": "Varun Pant",
+    "role": "Competition Chair",
+    "affiliation": "Amazon Web Services",
+    "photo": "images/people/Atlanta_2_8.jpg"
+   },
+   {
+    "name": "Simon Frieder",
+    "role": "Competition Chair",
+    "affiliation": "University of Oxford, AIMO",
+    "photo": "images/people/Atlanta_2_9.jpg"
+   },
+   {
+    "name": "Jialin (Mike) Lu",
+    "role": "Competition Chair",
+    "affiliation": "Simon Fraser University",
+    "photo": "images/people/Atlanta_2_10.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1352,7 +5158,57 @@
    "automated discovery"
   ],
   "accent": "#8f7a66",
-  "deadline": "Sep 25, 2026"
+  "deadline": "Sep 25, 2026",
+  "organizers": [
+   {
+    "name": "Peiyang Song",
+    "role": "Organizer",
+    "affiliation": "Carnegie Mellon University",
+    "photo": "images/people/Atlanta_3_0.jpg"
+   },
+   {
+    "name": "Kaiyu Yang",
+    "role": "Organizer",
+    "affiliation": "Apodex",
+    "photo": "images/people/Atlanta_3_1.jpg"
+   },
+   {
+    "name": "Pan Lu",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_3_2.jpg"
+   },
+   {
+    "name": "Patrick Shafto",
+    "role": "Organizer",
+    "affiliation": "DARPA & Rutgers University",
+    "photo": "images/people/Atlanta_3_3.jpg"
+   },
+   {
+    "name": "Sanjeev Arora",
+    "role": "Organizer",
+    "affiliation": "Princeton University",
+    "photo": "images/people/Atlanta_3_4.jpg"
+   },
+   {
+    "name": "Katie Collins",
+    "role": "Organizer",
+    "affiliation": "MIT & Princeton & Cambridge",
+    "photo": "images/people/Atlanta_3_5.jpg"
+   },
+   {
+    "name": "Sean Welleck",
+    "role": "Organizer",
+    "affiliation": "Carnegie Mellon University",
+    "photo": "images/people/Atlanta_3_6.jpg"
+   },
+   {
+    "name": "Mateja Jamnik",
+    "role": "Organizer",
+    "affiliation": "University of Cambridge",
+    "photo": "images/people/Atlanta_3_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1368,7 +5224,49 @@
    "diffusion models"
   ],
   "accent": "#96714f",
-  "deadline": null
+  "deadline": null,
+  "organizers": [
+   {
+    "name": "Zhiyu He",
+    "role": "Organizer",
+    "affiliation": "ETH Zurich / Max Planck Institute for Intelligent Systems, Tübingen"
+   },
+   {
+    "name": "Michael I. Jordan",
+    "role": "Organizer",
+    "affiliation": "Inria Paris and University of California, Berkeley"
+   },
+   {
+    "name": "Jiaming Liang",
+    "role": "Organizer",
+    "affiliation": "University of Rochester"
+   },
+   {
+    "name": "Wenlong Mou",
+    "role": "Organizer",
+    "affiliation": "University of Toronto"
+   },
+   {
+    "name": "Michael Mühlebach",
+    "role": "Organizer",
+    "affiliation": "Max Planck Institute for Intelligent Systems, Tübingen"
+   },
+   {
+    "name": "Purnamrita Sarkar",
+    "role": "Organizer",
+    "affiliation": "University of Texas"
+   },
+   {
+    "name": "Molei Tao",
+    "role": "Organizer",
+    "affiliation": "Georgia Institute of Technology"
+   },
+   {
+    "name": "Andre Wibisono",
+    "role": "Organizer",
+    "affiliation": "Yale University"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1384,7 +5282,45 @@
    "healthcare ai"
   ],
   "accent": "#9a6f63",
-  "deadline": "Sep 1, 2026"
+  "deadline": "Sep 1, 2026",
+  "organizers": [
+   {
+    "name": "Jay Nanavati",
+    "role": "Organizer",
+    "affiliation": "IQVIA",
+    "photo": "images/people/Atlanta_5_0.jpg"
+   },
+   {
+    "name": "Rahul G. Krishnan",
+    "role": "Organizer",
+    "affiliation": "University of Toronto / Vector Institute",
+    "photo": "images/people/Atlanta_5_1.jpg"
+   },
+   {
+    "name": "Shalmali Joshi",
+    "role": "Organizer",
+    "affiliation": "Columbia University",
+    "photo": "images/people/Atlanta_5_2.jpg"
+   },
+   {
+    "name": "Lin Li",
+    "role": "Organizer",
+    "affiliation": "University of Oxford",
+    "photo": "images/people/Atlanta_5_3.jpg"
+   },
+   {
+    "name": "Katie Link",
+    "role": "Organizer",
+    "affiliation": "NVIDIA",
+    "photo": "images/people/Atlanta_5_4.jpg"
+   },
+   {
+    "name": "Emma Slade",
+    "role": "Organizer",
+    "affiliation": "GSK",
+    "photo": "images/people/Atlanta_5_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1399,7 +5335,45 @@
    "knowledge extraction"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Xiaoyan Bai",
+    "role": "Organizer",
+    "affiliation": "University of Chicago",
+    "photo": "images/people/Atlanta_6_0.jpg"
+   },
+   {
+    "name": "Yonatan Belinkov",
+    "role": "Organizer",
+    "affiliation": "Technion",
+    "photo": "images/people/Atlanta_6_1.jpg"
+   },
+   {
+    "name": "Ekdeep Singh Lubana",
+    "role": "Organizer",
+    "affiliation": "Goodfire AI",
+    "photo": "images/people/Atlanta_6_2.jpg"
+   },
+   {
+    "name": "Yaniv Nikankin",
+    "role": "Organizer",
+    "affiliation": "Technion",
+    "photo": "images/people/Atlanta_6_3.jpg"
+   },
+   {
+    "name": "Chenhao Tan",
+    "role": "Organizer",
+    "affiliation": "University of Chicago",
+    "photo": "images/people/Atlanta_6_4.jpg"
+   },
+   {
+    "name": "Amirtha Varshini A S",
+    "role": "Organizer",
+    "affiliation": "Montai Therapeutics",
+    "photo": "images/people/Atlanta_6_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1415,7 +5389,45 @@
    "clinical ai"
   ],
   "accent": "#9c7e5e",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Anas Zafar",
+    "role": "Organizer",
+    "affiliation": "MD Anderson Cancer Center",
+    "photo": "images/people/Atlanta_7_0.jpg"
+   },
+   {
+    "name": "Sana Tonekaboni",
+    "role": "Organizer",
+    "affiliation": "Broad Institute of MIT and Harvard",
+    "photo": "images/people/Atlanta_7_1.jpg"
+   },
+   {
+    "name": "Min Woo Sun",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_7_2.jpg"
+   },
+   {
+    "name": "Julia Vogt",
+    "role": "Organizer",
+    "affiliation": "ETH Zurich",
+    "photo": "images/people/Atlanta_7_3.jpg"
+   },
+   {
+    "name": "Jia Wu",
+    "role": "Organizer",
+    "affiliation": "MD Anderson Cancer Center",
+    "photo": "images/people/Atlanta_7_4.jpg"
+   },
+   {
+    "name": "Alejandro Lozano",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_7_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1431,7 +5443,39 @@
    "benchmarking"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Shanu Sushmita",
+    "role": "Organizer",
+    "affiliation": "Northeastern University (Seattle) & University of Washington",
+    "photo": "images/people/Atlanta_8_0.jpg"
+   },
+   {
+    "name": "Jayash Koshal",
+    "role": "Organizer",
+    "affiliation": "Meta & Northeastern University",
+    "photo": "images/people/Atlanta_8_1.jpg"
+   },
+   {
+    "name": "Meghana Makhija",
+    "role": "Organizer",
+    "affiliation": "Amazon",
+    "photo": "images/people/Atlanta_8_2.jpg"
+   },
+   {
+    "name": "Hui Wan",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Atlanta_8_3.jpg"
+   },
+   {
+    "name": "Amjad Abu-Jbara",
+    "role": "Organizer",
+    "affiliation": "Amazon Ads",
+    "photo": "images/people/Atlanta_8_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1447,7 +5491,57 @@
    "trajectory evaluation"
   ],
   "accent": "#a0855a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Yao Dou",
+    "role": "Organizer",
+    "affiliation": "Georgia Tech",
+    "photo": "images/people/Atlanta_9_0.jpg"
+   },
+   {
+    "name": "Siyan Li",
+    "role": "Organizer",
+    "affiliation": "Columbia University",
+    "photo": "images/people/Atlanta_9_1.jpg"
+   },
+   {
+    "name": "Marwa Abdulhai",
+    "role": "Organizer",
+    "affiliation": "Princeton University",
+    "photo": "images/people/Atlanta_9_2.jpg"
+   },
+   {
+    "name": "Nicholas Tomlin",
+    "role": "Organizer",
+    "affiliation": "TTIC",
+    "photo": "images/people/Atlanta_9_3.jpg"
+   },
+   {
+    "name": "Michel Galley",
+    "role": "Organizer",
+    "affiliation": "Microsoft Research",
+    "photo": "images/people/Atlanta_9_4.jpg"
+   },
+   {
+    "name": "Jacob Eisenstein",
+    "role": "Organizer",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Atlanta_9_5.jpg"
+   },
+   {
+    "name": "Alan Ritter",
+    "role": "Organizer",
+    "affiliation": "Georgia Tech",
+    "photo": "images/people/Atlanta_9_6.jpg"
+   },
+   {
+    "name": "Wei Xu",
+    "role": "Organizer",
+    "affiliation": "Georgia Tech",
+    "photo": "images/people/Atlanta_9_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1463,7 +5557,39 @@
    "benchmarking"
   ],
   "accent": "#8f7a66",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Saidur Rahman",
+    "role": "Organizer",
+    "affiliation": "University of Texas at El Paso",
+    "photo": "images/people/Atlanta_10_0.jpg"
+   },
+   {
+    "name": "Jakub Szefer",
+    "role": "Organizer",
+    "affiliation": "Northwestern University",
+    "photo": "images/people/Atlanta_10_1.jpg"
+   },
+   {
+    "name": "Taqi Raza",
+    "role": "Organizer",
+    "affiliation": "University of Massachusetts Amherst",
+    "photo": "images/people/Atlanta_10_2.jpg"
+   },
+   {
+    "name": "Khoa Luu",
+    "role": "Organizer",
+    "affiliation": "University of Arkansas",
+    "photo": "images/people/Atlanta_10_3.jpg"
+   },
+   {
+    "name": "Shahrooz Pouryousef",
+    "role": "Organizer",
+    "affiliation": "Chalmers University of Technology",
+    "photo": "images/people/Atlanta_10_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1479,7 +5605,45 @@
    "strategic behavior"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Safwan Hossain",
+    "role": "Organizer",
+    "affiliation": "Harvard",
+    "photo": "images/people/Atlanta_11_0.jpg"
+   },
+   {
+    "name": "Meena Jagadeesan",
+    "role": "Organizer",
+    "affiliation": "UPenn",
+    "photo": "images/people/Atlanta_11_1.jpg"
+   },
+   {
+    "name": "Eric Mazumdar",
+    "role": "Organizer",
+    "affiliation": "Caltech",
+    "photo": "images/people/Atlanta_11_2.jpg"
+   },
+   {
+    "name": "Ariel Procaccia",
+    "role": "Organizer",
+    "affiliation": "Harvard",
+    "photo": "images/people/Atlanta_11_3.jpg"
+   },
+   {
+    "name": "Eden Saig",
+    "role": "Organizer",
+    "affiliation": "Caltech",
+    "photo": "images/people/Atlanta_11_4.jpg"
+   },
+   {
+    "name": "Kunhe Yang",
+    "role": "Organizer",
+    "affiliation": "UC Berkeley",
+    "photo": "images/people/Atlanta_11_5.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1495,7 +5659,57 @@
    "agentic learning"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Zheyuan Zhang",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Atlanta_12_0.jpg"
+   },
+   {
+    "name": "Chuanyang Jin",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Atlanta_12_1.jpg"
+   },
+   {
+    "name": "Jacob Sansom",
+    "role": "Organizer",
+    "affiliation": "University of Michigan",
+    "photo": "images/people/Atlanta_12_2.jpg"
+   },
+   {
+    "name": "Zekun Wang",
+    "role": "Organizer",
+    "affiliation": "Georgia Institute of Technology",
+    "photo": "images/people/Atlanta_12_3.jpg"
+   },
+   {
+    "name": "Jianwen Xie",
+    "role": "Organizer",
+    "affiliation": "Lambda",
+    "photo": "images/people/Atlanta_12_4.jpg"
+   },
+   {
+    "name": "Joyce Chai",
+    "role": "Organizer",
+    "affiliation": "University of Michigan",
+    "photo": "images/people/Atlanta_12_5.jpg"
+   },
+   {
+    "name": "Daniel Khashabi",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Atlanta_12_6.jpg"
+   },
+   {
+    "name": "Tianmin Shu",
+    "role": "Organizer",
+    "affiliation": "Johns Hopkins University",
+    "photo": "images/people/Atlanta_12_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1511,7 +5725,39 @@
    "prompt injection"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Denghui Zhang",
+    "role": "Organizer",
+    "affiliation": "Stevens Institute of Technology",
+    "photo": "images/people/Atlanta_13_0.jpg"
+   },
+   {
+    "name": "Jianing Zhu",
+    "role": "Organizer",
+    "affiliation": "UT Austin",
+    "photo": "images/people/Atlanta_13_1.jpg"
+   },
+   {
+    "name": "Gopal Ramchurn",
+    "role": "Organizer",
+    "affiliation": "University of Southampton",
+    "photo": "images/people/Atlanta_13_2.jpg"
+   },
+   {
+    "name": "Manling Li",
+    "role": "Organizer",
+    "affiliation": "Northwestern",
+    "photo": "images/people/Atlanta_13_3.jpg"
+   },
+   {
+    "name": "Atlas Wang",
+    "role": "Organizer",
+    "affiliation": "UT Austin / XTX Markets",
+    "photo": "images/people/Atlanta_13_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1527,7 +5773,51 @@
    "deployment"
   ],
   "accent": "#9c7e5e",
-  "deadline": "Sep 4, 2026"
+  "deadline": "Sep 4, 2026",
+  "organizers": [
+   {
+    "name": "Naoki Abe",
+    "role": "Organizer",
+    "affiliation": "IBM",
+    "photo": "images/people/Atlanta_14_0.jpg"
+   },
+   {
+    "name": "Aurélie Lozano",
+    "role": "Organizer",
+    "affiliation": "IBM",
+    "photo": "images/people/Atlanta_14_1.jpg"
+   },
+   {
+    "name": "Xi Yang",
+    "role": "Organizer",
+    "affiliation": "IBM",
+    "photo": "images/people/Atlanta_14_2.jpg"
+   },
+   {
+    "name": "Yu Deng",
+    "role": "Organizer",
+    "affiliation": "IBM",
+    "photo": "images/people/Atlanta_14_3.jpg"
+   },
+   {
+    "name": "Meng Jiang",
+    "role": "Organizer",
+    "affiliation": "University of Notre Dame",
+    "photo": "images/people/Atlanta_14_4.jpg"
+   },
+   {
+    "name": "Chengxiang Zhai",
+    "role": "Organizer",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "photo": "images/people/Atlanta_14_5.jpg"
+   },
+   {
+    "name": "Michael L. Littman",
+    "role": "Organizer",
+    "affiliation": "Brown University",
+    "photo": "images/people/Atlanta_14_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1543,7 +5833,51 @@
    "evaluation"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Ehsan Adeli",
+    "role": "Organizer",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_15_0.jpg"
+   },
+   {
+    "name": "Tal Arbel",
+    "role": "Organizer",
+    "affiliation": "McGill University",
+    "photo": "images/people/Atlanta_15_1.jpg"
+   },
+   {
+    "name": "Adrian V. Dalca",
+    "role": "Organizer",
+    "affiliation": "MGH / Harvard Medical School / MIT",
+    "photo": "images/people/Atlanta_15_2.jpg"
+   },
+   {
+    "name": "Klaus Maier-Hein",
+    "role": "Organizer",
+    "affiliation": "German Cancer Research Center (DKFZ)",
+    "photo": "images/people/Atlanta_15_3.jpg"
+   },
+   {
+    "name": "Yixuan Yuan",
+    "role": "Organizer",
+    "affiliation": "The Chinese University of Hong Kong",
+    "photo": "images/people/Atlanta_15_4.jpg"
+   },
+   {
+    "name": "Curtis Langlotz",
+    "role": "Advisor",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_15_5.jpg"
+   },
+   {
+    "name": "Mert Sabuncu",
+    "role": "Advisor",
+    "affiliation": "Cornell University",
+    "photo": "images/people/Atlanta_15_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1559,7 +5893,57 @@
    "egocentric learning"
   ],
   "accent": "#a0855a",
-  "deadline": "Aug 31, 2026"
+  "deadline": "Aug 31, 2026",
+  "organizers": [
+   {
+    "name": "Paula Buttery",
+    "role": "Organizer",
+    "affiliation": "University of Cambridge",
+    "photo": "images/people/Atlanta_16_0.jpg"
+   },
+   {
+    "name": "Leshem Choshen",
+    "role": "Organizer",
+    "affiliation": "Weizmann Institute of Science",
+    "photo": "images/people/Atlanta_16_1.jpg"
+   },
+   {
+    "name": "Boqing Gong",
+    "role": "Organizer",
+    "affiliation": "Boston University / Google DeepMind",
+    "photo": "images/people/Atlanta_16_2.jpg"
+   },
+   {
+    "name": "Aaron Mueller",
+    "role": "Organizer",
+    "affiliation": "Boston University",
+    "photo": "images/people/Atlanta_16_3.jpg"
+   },
+   {
+    "name": "Suchir Salhan",
+    "role": "Organizer",
+    "affiliation": "University of Cambridge",
+    "photo": "images/people/Atlanta_16_4.jpg"
+   },
+   {
+    "name": "Shengao Wang",
+    "role": "Organizer",
+    "affiliation": "Boston University",
+    "photo": "images/people/Atlanta_16_5.jpg"
+   },
+   {
+    "name": "Wenqi Wang",
+    "role": "Organizer",
+    "affiliation": "Boston University",
+    "photo": "images/people/Atlanta_16_6.jpg"
+   },
+   {
+    "name": "Max Whitton",
+    "role": "Organizer",
+    "affiliation": "Boston University",
+    "photo": "images/people/Atlanta_16_7.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1575,7 +5959,29 @@
    "trust and safety"
   ],
   "accent": "#8f7a66",
-  "deadline": "Sep 5, 2026"
+  "deadline": "Sep 5, 2026",
+  "organizers": [
+   {
+    "name": "Pradyumna Chari",
+    "role": "Organizer",
+    "affiliation": "MIT"
+   },
+   {
+    "name": "Eric Horvitz",
+    "role": "Organizer",
+    "affiliation": "Microsoft"
+   },
+   {
+    "name": "Zixuan Ke",
+    "role": "Organizer",
+    "affiliation": "Salesforce AI Research"
+   },
+   {
+    "name": "Risto Miikkulainen",
+    "role": "Organizer",
+    "affiliation": "UT Austin & Cognizant AI Lab"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1591,7 +5997,39 @@
    "alignment"
   ],
   "accent": "#96714f",
-  "deadline": "Aug 25, 2026"
+  "deadline": "Aug 25, 2026",
+  "organizers": [
+   {
+    "name": "Xiangjue Dong",
+    "role": "Organizer",
+    "affiliation": "TAMU & Microsoft",
+    "photo": "images/people/Atlanta_18_0.jpg"
+   },
+   {
+    "name": "Jiseon Kim",
+    "role": "Organizer",
+    "affiliation": "Vector Institute",
+    "photo": "images/people/Atlanta_18_1.jpg"
+   },
+   {
+    "name": "Yunah Jang",
+    "role": "Organizer",
+    "affiliation": "Seoul National University",
+    "photo": "images/people/Atlanta_18_2.jpg"
+   },
+   {
+    "name": "Tim G. J. Rudner",
+    "role": "Organizer",
+    "affiliation": "University of Toronto & Vector Institute",
+    "photo": "images/people/Atlanta_18_3.jpg"
+   },
+   {
+    "name": "Alice Oh",
+    "role": "Organizer",
+    "affiliation": "KAIST",
+    "photo": "images/people/Atlanta_18_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1607,7 +6045,51 @@
    "agent orchestration"
   ],
   "accent": "#9a6f63",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Kai-Wei Chang",
+    "role": "Organizer",
+    "affiliation": "UCLA",
+    "photo": "images/people/Atlanta_19_0.jpg"
+   },
+   {
+    "name": "Dakuo Wang",
+    "role": "Organizer",
+    "affiliation": "Northeastern University",
+    "photo": "images/people/Atlanta_19_1.jpg"
+   },
+   {
+    "name": "Luke Zettlemoyer",
+    "role": "Organizer",
+    "affiliation": "University of Washington / Meta",
+    "photo": "images/people/Atlanta_19_2.jpg"
+   },
+   {
+    "name": "Jiri Gesi",
+    "role": "Organizer",
+    "affiliation": "Microsoft",
+    "photo": "images/people/Atlanta_19_3.jpg"
+   },
+   {
+    "name": "Weijia Shi",
+    "role": "Organizer",
+    "affiliation": "Meta / Cornell Tech (incoming)",
+    "photo": "images/people/Atlanta_19_4.jpg"
+   },
+   {
+    "name": "Jiaxin Pei",
+    "role": "Organizer",
+    "affiliation": "UT Austin / Stanford HAI",
+    "photo": "images/people/Atlanta_19_5.jpg"
+   },
+   {
+    "name": "Yuxuan Lu",
+    "role": "Organizer",
+    "affiliation": "Northeastern University",
+    "photo": "images/people/Atlanta_19_6.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1623,7 +6105,49 @@
    "governance"
   ],
   "accent": "#8a7f5c",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Rebecca Portnoff",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Virginia Smith",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Andrew Strait",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Ashia Wilson",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Campbell Wilson",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Neil Kale",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Aashiq Muhamed",
+    "role": "Organizer",
+    "affiliation": null
+   },
+   {
+    "name": "Vinith Suriyakumar",
+    "role": "Organizer",
+    "affiliation": null
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1639,7 +6163,39 @@
    "validity"
   ],
   "accent": "#9c7e5e",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Kiana Jafari",
+    "role": "General chair",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_21_0.jpg"
+   },
+   {
+    "name": "Marc Schlichting",
+    "role": "Submissions & review",
+    "affiliation": "Stanford University",
+    "photo": "images/people/Atlanta_21_1.jpg"
+   },
+   {
+    "name": "Dylan Asmar",
+    "role": "Program committee",
+    "affiliation": "MIT Lincoln Laboratory",
+    "photo": "images/people/Atlanta_21_2.jpg"
+   },
+   {
+    "name": "Ahmad Rushdi",
+    "role": "Sponsorship & inclusion",
+    "affiliation": "Stanford University (HAI)",
+    "photo": "images/people/Atlanta_21_3.jpg"
+   },
+   {
+    "name": "Martin Gonzalez",
+    "role": "Outreach",
+    "affiliation": "Google DeepMind",
+    "photo": "images/people/Atlanta_21_4.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1655,7 +6211,49 @@
    "reinforcement learning"
   ],
   "accent": "#a8895a",
-  "deadline": "Aug 31, 2026"
+  "deadline": "Aug 31, 2026",
+  "organizers": [
+   {
+    "name": "Minshuo Chen",
+    "role": "Organizer",
+    "affiliation": "Northwestern University"
+   },
+   {
+    "name": "Jing Dong",
+    "role": "Organizer",
+    "affiliation": "Columbia University"
+   },
+   {
+    "name": "Henry Lam",
+    "role": "Organizer",
+    "affiliation": "Columbia University"
+   },
+   {
+    "name": "Karthyek Murthy",
+    "role": "Organizer",
+    "affiliation": "University of Southern California"
+   },
+   {
+    "name": "Min-hwan Oh",
+    "role": "Organizer",
+    "affiliation": "Seoul National University"
+   },
+   {
+    "name": "Devavrat Shah",
+    "role": "Organizer",
+    "affiliation": "MIT"
+   },
+   {
+    "name": "Renyuan Xu",
+    "role": "Organizer",
+    "affiliation": "Stanford University"
+   },
+   {
+    "name": "Enlu Zhou",
+    "role": "Organizer",
+    "affiliation": "Georgia Institute of Technology"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1671,7 +6269,63 @@
    "experimental biology"
   ],
   "accent": "#a0855a",
-  "deadline": "Aug 30, 2026"
+  "deadline": "Aug 30, 2026",
+  "organizers": [
+   {
+    "name": "Chenghao Liu",
+    "role": "Organizer",
+    "affiliation": "Caltech, FutureHouse",
+    "photo": "images/people/Atlanta_23_0.jpg"
+   },
+   {
+    "name": "Jarrid Rector-Brooks",
+    "role": "Organizer",
+    "affiliation": "Caltech, Mila, Université de Montréal",
+    "photo": "images/people/Atlanta_23_1.jpg"
+   },
+   {
+    "name": "Soojung Yang",
+    "role": "Organizer",
+    "affiliation": "MIT",
+    "photo": "images/people/Atlanta_23_2.jpg"
+   },
+   {
+    "name": "Sidney Lisanza",
+    "role": "Organizer",
+    "affiliation": "Genentech",
+    "photo": "images/people/Atlanta_23_3.jpg"
+   },
+   {
+    "name": "Jacob Gershon",
+    "role": "Organizer",
+    "affiliation": "University of Washington",
+    "photo": "images/people/Atlanta_23_4.jpg"
+   },
+   {
+    "name": "Lauren Hong",
+    "role": "Organizer",
+    "affiliation": "University of Pennsylvania",
+    "photo": "images/people/Atlanta_23_5.jpg"
+   },
+   {
+    "name": "Pranam Chatterjee",
+    "role": "Organizer",
+    "affiliation": "University of Pennsylvania",
+    "photo": "images/people/Atlanta_23_6.jpg"
+   },
+   {
+    "name": "Yoshua Bengio",
+    "role": "Organizer",
+    "affiliation": "Mila, Université de Montréal, LawZero",
+    "photo": "images/people/Atlanta_23_7.jpg"
+   },
+   {
+    "name": "Nick Myerberg",
+    "role": "Organizer",
+    "affiliation": "Braidwell",
+    "photo": "images/people/Atlanta_23_8.jpg"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1687,7 +6341,34 @@
    "emergence of intelligence"
   ],
   "accent": "#8f7a66",
-  "deadline": "Aug 29, 2026"
+  "deadline": "Aug 29, 2026",
+  "organizers": [
+   {
+    "name": "Shify Treger",
+    "role": "Co-organizer",
+    "affiliation": "Weizmann Institute of Science"
+   },
+   {
+    "name": "Yehonatan Avidan",
+    "role": "Co-organizer",
+    "affiliation": "Hebrew University"
+   },
+   {
+    "name": "Mengmi Zhang",
+    "role": "Co-organizer",
+    "affiliation": "Nanyang Technological University"
+   },
+   {
+    "name": "Kelsey Allen",
+    "role": "Co-organizer",
+    "affiliation": "University of British Columbia"
+   },
+   {
+    "name": "Shimon Ullman",
+    "role": "Co-organizer",
+    "affiliation": "Weizmann Institute of Science"
+   }
+  ]
  },
  {
   "venue": "Atlanta",
@@ -1703,6 +6384,38 @@
    "evaluation"
   ],
   "accent": "#96714f",
-  "deadline": "Sep 7, 2026"
+  "deadline": "Sep 7, 2026",
+  "organizers": [
+   {
+    "name": "Savannah Thais",
+    "role": "Organizer",
+    "affiliation": "City University of New York",
+    "photo": "images/people/Atlanta_25_0.jpg"
+   },
+   {
+    "name": "Nathan Suri",
+    "role": "Organizer",
+    "affiliation": "Yale University",
+    "photo": "images/people/Atlanta_25_1.jpg"
+   },
+   {
+    "name": "Lauren Greenspan",
+    "role": "Organizer",
+    "affiliation": "Principles of Intelligence (PrincInt)",
+    "photo": "images/people/Atlanta_25_2.jpg"
+   },
+   {
+    "name": "Max Hennick",
+    "role": "Organizer",
+    "affiliation": "Stormglass AI",
+    "photo": "images/people/Atlanta_25_3.jpg"
+   },
+   {
+    "name": "Roberto Trotta",
+    "role": "Organizer",
+    "affiliation": "International School for Advanced Studies (SISSA)",
+    "photo": "images/people/Atlanta_25_4.jpg"
+   }
+  ]
  }
 ]

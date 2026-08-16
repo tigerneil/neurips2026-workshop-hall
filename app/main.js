@@ -51,6 +51,7 @@ let roomBuilt = false;
 let roomTargets = { front: null, portal: null };
 let roomParts = {};              // meshes whose textures/colors are swapped per workshop
 const roomTexCache = new Map();  // `${venue}:${idx}` -> {title, desc, topics}
+const orgTexCache = new Map();   // `${venue}:${idx}` -> {left, right}
 
 const raycaster = new THREE.Raycaster();
 const CENTER = new THREE.Vector2(0, 0);
@@ -784,6 +785,96 @@ function roomTopicsTex(r) {
   });
 }
 
+/* ======================= organizing committee panels ======================= */
+function truncate(g, text, maxW) {
+  if (!text) return '';
+  if (g.measureText(text).width <= maxW) return text;
+  let s = text;
+  while (s.length > 1 && g.measureText(s + '…').width > maxW) s = s.slice(0, -1);
+  return s + '…';
+}
+
+function initials(name) {
+  const parts = (name || '').trim().split(/\s+/).filter(Boolean);
+  return ((parts[0] ? parts[0][0] : '') + (parts[1] ? parts[1][0] : '')).toUpperCase();
+}
+
+function loadImage(src) {
+  return new Promise(resolve => {
+    if (!src) return resolve(null);
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.onload = () => resolve(img);
+    img.onerror = () => resolve(null);
+    img.src = src;
+  });
+}
+
+function drawOrgPanel(g, w, h, orgs, accent, title) {
+  g.fillStyle = '#f7f2e6'; g.fillRect(0, 0, w, h);
+  g.strokeStyle = accent; g.lineWidth = 6; g.strokeRect(10, 10, w - 20, h - 20);
+  g.fillStyle = accent; g.fillRect(34, 34, 150, 8);
+  g.fillStyle = '#5c4a2c'; g.textAlign = 'left'; g.textBaseline = 'alphabetic';
+  g.font = '700 46px Georgia, "PingFang SC", serif';
+  g.fillText(title, 34, 108);
+
+  const rowH = 150;
+  let y = 130;
+  for (let i = 0; i < orgs.length; i++) {
+    if (y + rowH > h - 16) break;
+    const o = orgs[i];
+    const cx = 34 + 56, cy = y + 56, r = 56;
+    g.save();
+    g.beginPath(); g.arc(cx, cy, r, 0, Math.PI * 2); g.clip();
+    if (o.img) {
+      const s = Math.max((r * 2) / o.img.width, (r * 2) / o.img.height);
+      const dw = o.img.width * s, dh = o.img.height * s;
+      g.drawImage(o.img, cx - dw / 2, cy - dh / 2, dw, dh);
+    } else {
+      g.fillStyle = accent; g.fillRect(cx - r, cy - r, r * 2, r * 2);
+      g.fillStyle = '#fffdf6'; g.font = '700 46px Georgia, "PingFang SC", sans-serif';
+      g.textAlign = 'center'; g.textBaseline = 'middle';
+      g.fillText(initials(o.name), cx, cy + 2);
+      g.textAlign = 'left'; g.textBaseline = 'alphabetic';
+    }
+    g.restore();
+    g.strokeStyle = accent; g.lineWidth = 3;
+    g.beginPath(); g.arc(cx, cy, r, 0, Math.PI * 2); g.stroke();
+
+    const tx = 34 + 132, maxW = w - tx - 40;
+    g.fillStyle = '#43351f'; g.font = '700 36px Georgia, "PingFang SC", serif';
+    g.fillText(truncate(g, o.name, maxW), tx, cy - 24);
+    g.fillStyle = '#8a6d3f'; g.font = '600 28px Georgia, "PingFang SC", serif';
+    g.fillText(truncate(g, o.role, maxW), tx, cy + 16);
+    g.fillStyle = '#6b5b3c'; g.font = '500 26px Georgia, "PingFang SC", serif';
+    g.fillText(truncate(g, o.affiliation || '', maxW), tx, cy + 52);
+    y += rowH;
+  }
+  if (orgs.length > Math.floor((h - 130) / rowH)) {
+    g.fillStyle = '#9a8a66'; g.font = 'italic 26px Georgia, serif';
+    g.fillText('… 更多成员见官网', 34, h - 40);
+  }
+}
+
+async function buildOrganizerTextures(r) {
+  const orgs = (r.organizers || []).filter(o => o && o.name);
+  const half = Math.ceil(orgs.length / 2);
+  const left = orgs.slice(0, half), right = orgs.slice(half);
+  // preload photos
+  const load = async (list) => {
+    await Promise.all(list.map(async (o, i) => {
+      o.img = await loadImage(o.photo);
+    }));
+  };
+  await Promise.all([load(left), load(right)]);
+  const accent = r.accent || '#a8895a';
+  const mk = (list, title) => {
+    const t = canvasTex(1320, 960, (g, w, h) => drawOrgPanel(g, w, h, list, accent, title));
+    return t;
+  };
+  return { left: mk(left, '组织委员会 · CHAIRS'), right: mk(right, '组织委员会 · CHAIRS') };
+}
+
 function portalTex() {
   return canvasTex(700, 220, (g, w, h) => {
     g.fillStyle = '#3d3120'; g.fillRect(0, 0, w, h);
@@ -889,6 +980,21 @@ function buildRoom() {
   roomParts.topics = topP;
   const topBack = descBack.clone(); topBack.position.set(x1 - 0.17, 1.95, ROOM.cz); g.add(topBack);
 
+  // back wall: organizing committee panels (left & right of the door)
+  const orgGeo = new THREE.PlaneGeometry(4.4, 3.2);
+  const orgBackMat = new THREE.MeshLambertMaterial({ color: 0x8a6f4d });
+  const orgBackGeo = new THREE.BoxGeometry(4.6, 3.35, 0.1);
+  const orgL = new THREE.Mesh(orgGeo, new THREE.MeshBasicMaterial({ color: 0xffffff }));
+  orgL.rotation.y = Math.PI; orgL.position.set((x0 - ROOM.doorX) / 2, 2.0, z1 - 0.18); g.add(orgL);
+  roomParts.orgL = orgL;
+  const orgLBack = new THREE.Mesh(orgBackGeo, orgBackMat);
+  orgLBack.position.set((x0 - ROOM.doorX) / 2, 2.0, z1 - 0.25); g.add(orgLBack);
+  const orgR = new THREE.Mesh(orgGeo, new THREE.MeshBasicMaterial({ color: 0xffffff }));
+  orgR.rotation.y = Math.PI; orgR.position.set((ROOM.doorX + x1) / 2, 2.0, z1 - 0.18); g.add(orgR);
+  roomParts.orgR = orgR;
+  const orgRBack = new THREE.Mesh(orgBackGeo, orgBackMat);
+  orgRBack.position.set((ROOM.doorX + x1) / 2, 2.0, z1 - 0.25); g.add(orgRBack);
+
   // return portal above door (glowing sign) + accent door frame
   const portal = new THREE.Mesh(new THREE.PlaneGeometry(2.4, 0.75),
     new THREE.MeshBasicMaterial({ map: portalTex() }));
@@ -935,6 +1041,27 @@ function enterRoom(ws) {
   roomParts.title.material.map = tex.title; roomParts.title.material.needsUpdate = true;
   roomParts.desc.material.map = tex.desc; roomParts.desc.material.needsUpdate = true;
   roomParts.topics.material.map = tex.topics; roomParts.topics.material.needsUpdate = true;
+  // organizing committee panels (async: photos may still be loading)
+  if (orgTexCache.has(key)) {
+    const ot = orgTexCache.get(key);
+    roomParts.orgL.material.map = ot.left; roomParts.orgL.material.needsUpdate = true;
+    roomParts.orgR.material.map = ot.right; roomParts.orgR.material.needsUpdate = true;
+  } else {
+    roomParts.orgL.material.map = null; roomParts.orgL.material.color.set(0xf2ebdc);
+    roomParts.orgR.material.map = null; roomParts.orgR.material.color.set(0xf2ebdc);
+    if ((r.organizers || []).length) {
+      buildOrganizerTextures(r).then(ot => {
+        if (mode !== 'room' || currentWs !== ws) return;
+        orgTexCache.set(key, ot);
+        roomParts.orgL.material.map = ot.left; roomParts.orgL.material.color.set(0xffffff); roomParts.orgL.material.needsUpdate = true;
+        roomParts.orgR.material.map = ot.right; roomParts.orgR.material.color.set(0xffffff); roomParts.orgR.material.needsUpdate = true;
+        if (orgTexCache.size > 24) {
+          const [k, v] = orgTexCache.entries().next().value;
+          if (k !== key) { v.left.dispose(); v.right.dispose(); orgTexCache.delete(k); }
+        }
+      });
+    }
+  }
   // big front image: reuse the already-loaded booth texture (or its placeholder)
   const booth = booths.find(b => b.data === ws);
   const imgTex = booth ? booth.targets[0].material.map : null;
