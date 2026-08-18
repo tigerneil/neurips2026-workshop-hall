@@ -2470,8 +2470,25 @@
   ]
  },
  {
+  "name": "2nd Embodied Spatial Reasoning Workshop",
+  "url": "https://embodiedsr.github.io/",
+  "desc": "Second edition on embodied spatial reasoning — how agents understand, represent, and reason about space for navigation and manipulation.",
+  "topics": [
+   "embodied ai",
+   "spatial reasoning",
+   "navigation",
+   "robot learning",
+   "world models"
+  ],
+  "accent": "#a8895a",
+  "deadline": null,
+  "organizers": [],
   "venue": "Sydney",
-  "idx": 41,
+  "idx": 41
+ },
+ {
+  "venue": "Sydney",
+  "idx": 42,
   "name": "Symmetry and Geometry in Neural Representations (NeurReps)",
   "url": "https://neurreps.org/",
   "desc": "Gathers mathematicians, ML researchers, and neuroscientists to study symmetry and geometry in neural representations shared by brains and machines.",
@@ -2519,7 +2536,7 @@
  },
  {
   "venue": "Sydney",
-  "idx": 42,
+  "idx": 43,
   "name": "Third Workshop on Attributing Model Behavior at Scale: Data Attribution and Provenance (ATTRIB)",
   "url": "https://attrib-workshop.cc/",
   "desc": "Focuses on attributing model outputs to training data, spanning contributive and corroborative attribution and downstream uses such as provenance, litigation, and auditing.",
@@ -2572,7 +2589,7 @@
  },
  {
   "venue": "Sydney",
-  "idx": 43,
+  "idx": 44,
   "name": "Robot Learning with World Models: Capabilities, Frontiers, and Challenges",
   "url": "https://robowm-ws.github.io/",
   "desc": "Explores using world models to advance physical AI and robot learning, addressing consistency, physical accuracy, and multimodality beyond vision for real-world control.",
@@ -2638,7 +2655,7 @@
  },
  {
   "venue": "Sydney",
-  "idx": 44,
+  "idx": 45,
   "name": "First Workshop on Meta Agents: Managing Agents that Manage Agents",
   "url": "https://meta-agents-workshop.github.io/",
   "desc": "Examines meta-agents that build, optimize, and supervise other agents, covering technical challenges, evaluation, safety, and governance of their responsible use.",
@@ -2710,7 +2727,7 @@
  },
  {
   "venue": "Sydney",
-  "idx": 45,
+  "idx": 46,
   "name": "8th Robot Learning Workshop: Is Physical AI Truly Going Zero-Shot?",
   "url": "https://www.robot-learning.ml/2026/",
   "desc": "Debates whether physical AI is going zero-shot, examining foundation models, scaling laws, and embodied generalization in robot learning.",
@@ -2778,7 +2795,7 @@
  },
  {
   "venue": "Sydney",
-  "idx": 46,
+  "idx": 47,
   "name": "Foundation Models for the Brain and Body",
   "url": "https://brainbodyfm-workshop.github.io",
   "desc": "Focuses on foundation models for neural and physiological biosignals, spanning brain-computer interfacing, health monitoring, and embodied intelligence.",
@@ -2832,7 +2849,7 @@
  },
  {
   "venue": "Sydney",
-  "idx": 47,
+  "idx": 48,
   "name": "Continual Learning in the Era of Foundation Models and Embodied Agents (CL4FMAgents)",
   "url": "https://neurips26-cl4fmagents.github.io",
   "desc": "Addresses continual learning for foundation models and embodied agents in dynamic environments, from catastrophic forgetting to agent self-improvement.",
@@ -2887,446 +2904,6 @@
     "role": "Organizer",
     "affiliation": "Nanjing University",
     "photo": "images/people/Sydney_47_6.jpg"
-   }
-  ]
- },
- {
-  "venue": "Sydney",
-  "idx": 48,
-  "name": "Africa in AI",
-  "url": "https://africainai.mailab.io/",
-  "desc": "Elevates African perspectives in AI for sustainable development, advancing resource-efficient, trustworthy AI across health, education, and energy.",
-  "topics": [
-   "ai for africa",
-   "low-resource ai",
-   "sustainable development",
-   "language technologies",
-   "ai ethics"
-  ],
-  "accent": "#9c7a54",
-  "deadline": "Sep 10, 2026",
-  "organizers": [
-   {
-    "name": "Maruf Adewole",
-    "role": "Organizer",
-    "affiliation": "Medical Artificial Intelligence Laboratory, Nigeria",
-    "photo": "images/people/Sydney_48_0.jpg"
-   },
-   {
-    "name": "Udunna Anazodo",
-    "role": "Organizer",
-    "affiliation": "McGill University & MAI Lab, Nigeria",
-    "photo": "images/people/Sydney_48_1.jpg"
-   },
-   {
-    "name": "Sahar Selim",
-    "role": "Organizer",
-    "affiliation": "Center for Informatics Science, Giza, Egypt",
-    "photo": "images/people/Sydney_48_2.jpg"
-   },
-   {
-    "name": "Fatade Olawayemisi Boye",
-    "role": "Organizer",
-    "affiliation": "Babcock University, Nigeria",
-    "photo": "images/people/Sydney_48_3.jpg"
-   },
-   {
-    "name": "Lukman Enegi Ismaila",
-    "role": "Organizer",
-    "affiliation": "Johns Hopkins University School of Medicine",
-    "photo": "images/people/Sydney_48_4.jpg"
-   },
-   {
-    "name": "Ifeoluwa Oladeji",
-    "role": "Organizer",
-    "affiliation": "Medical Artificial Intelligence Laboratory, Nigeria",
-    "photo": "images/people/Sydney_48_5.jpg"
-   }
-  ]
- },
- {
-  "venue": "Sydney",
-  "idx": 49,
-  "name": "LatinX in AI (LXAI)",
-  "url": "https://www.latinxinai.org/neurips-2026",
-  "desc": "Official LatinX in AI affinity workshop offering LatinX researchers a venue for talks, posters, panels, and mentoring across machine learning topics.",
-  "topics": [
-   "affinity group",
-   "diversity",
-   "machine learning",
-   "mentorship"
-  ],
-  "accent": "#a8895a",
-  "deadline": "Aug 20, 2026",
-  "organizers": []
- },
- {
-  "venue": "Sydney",
-  "idx": 50,
-  "name": "Muslims in ML (MusIML)",
-  "url": "https://www.musiml.org/",
-  "desc": "Affinity workshop advancing ML research by Muslim scholars and exploring AI's impact on Muslim communities, emphasizing fairness, ethics, and inclusion.",
-  "topics": [
-   "affinity group",
-   "muslim community",
-   "ethical ai",
-   "fairness",
-   "nlp"
-  ],
-  "accent": "#a0855a",
-  "deadline": "Sep 10, 2026",
-  "organizers": [
-   {
-    "name": "Shaokai Yang",
-    "role": "Organizer",
-    "affiliation": "University of Alberta"
-   },
-   {
-    "name": "Ahmed Youssef",
-    "role": "Organizer",
-    "affiliation": "Synopsys",
-    "photo": "images/people/Sydney_50_1.jpg"
-   },
-   {
-    "name": "Ehsaneddin Asgari",
-    "role": "Organizer",
-    "affiliation": "Qatar Computing Research Institute",
-    "photo": "images/people/Sydney_50_2.jpg"
-   },
-   {
-    "name": "Yousra Farhani",
-    "role": "Organizer",
-    "affiliation": "Niels Bohr Institute",
-    "photo": "images/people/Sydney_50_3.jpg"
-   },
-   {
-    "name": "Suleiman Ali Khan",
-    "role": "Organizer",
-    "affiliation": "Amazon",
-    "photo": "images/people/Sydney_50_4.jpg"
-   },
-   {
-    "name": "Azmine Toushik Wasi",
-    "role": "Organizer",
-    "affiliation": "CIOL",
-    "photo": "images/people/Sydney_50_5.jpg"
-   },
-   {
-    "name": "Gasser Elbanna",
-    "role": "Organizer",
-    "affiliation": "Harvard University",
-    "photo": "images/people/Sydney_50_6.jpg"
-   },
-   {
-    "name": "Nasik Muhammad Nafi",
-    "role": "Organizer",
-    "affiliation": "Oak Ridge National Lab",
-    "photo": "images/people/Sydney_50_7.jpg"
-   },
-   {
-    "name": "Kamran Soomro",
-    "role": "Organizer",
-    "affiliation": "UWE Bristol",
-    "photo": "images/people/Sydney_50_8.jpg"
-   },
-   {
-    "name": "Rian Adam Rajagede",
-    "role": "Organizer",
-    "affiliation": "University of Central Florida",
-    "photo": "images/people/Sydney_50_9.jpg"
-   },
-   {
-    "name": "Muhammad Irfan Khan",
-    "role": "Organizer",
-    "affiliation": "Turku University of Applied Sciences",
-    "photo": "images/people/Sydney_50_10.jpg"
-   }
-  ]
- },
- {
-  "venue": "Sydney",
-  "idx": 51,
-  "name": "RoCo-Spring: The Robust Correspondence Challenge",
-  "url": "https://roco-spring.github.io/",
-  "desc": "Competition-track challenge evaluating robust dense correspondence under realistic corruptions across optical flow, stereo matching, and scene flow.",
-  "topics": [
-   "optical flow",
-   "stereo matching",
-   "scene flow",
-   "robustness",
-   "dense correspondence"
-  ],
-  "accent": "#8f7a66",
-  "deadline": "Sep 15, 2026",
-  "organizers": [
-   {
-    "name": "Shashank Agnihotri",
-    "role": "Organizer",
-    "affiliation": "University of Mannheim",
-    "photo": "images/people/Sydney_51_0.jpg"
-   },
-   {
-    "name": "Victor Oei",
-    "role": "Organizer",
-    "affiliation": "University of Stuttgart",
-    "photo": "images/people/Sydney_51_1.jpg"
-   },
-   {
-    "name": "Jenny Schmalfuss",
-    "role": "Organizer",
-    "affiliation": "NVIDIA",
-    "photo": "images/people/Sydney_51_2.jpg"
-   },
-   {
-    "name": "Katrin Bauer",
-    "role": "Organizer",
-    "affiliation": "University of Stuttgart",
-    "photo": "images/people/Sydney_51_3.jpg"
-   },
-   {
-    "name": "Henrique Morimitsu",
-    "role": "Organizer",
-    "affiliation": "University of Science and Technology Beijing",
-    "photo": "images/people/Sydney_51_4.jpg"
-   },
-   {
-    "name": "Andrés Bruhn",
-    "role": "Organizer",
-    "affiliation": "University of Stuttgart",
-    "photo": "images/people/Sydney_51_5.jpg"
-   },
-   {
-    "name": "Margret Keuper",
-    "role": "Organizer",
-    "affiliation": "University of Mannheim and MPI-INF",
-    "photo": "images/people/Sydney_51_6.jpg"
-   }
-  ]
- },
- {
-  "venue": "Sydney",
-  "idx": 52,
-  "name": "Global South in AI (GlobalSouthAI)",
-  "url": "https://sites.google.com/view/globalsouthai-neurips26/home",
-  "desc": "Affinity event strengthening AI research for and from the Global South, covering resource-aware AI, low-resource languages, and AI for social impact.",
-  "topics": [
-   "global south",
-   "resource-aware ai",
-   "low-resource languages",
-   "ai for social impact"
-  ],
-  "accent": "#9a6f63",
-  "deadline": "Sep 5, 2026",
-  "organizers": [
-   {
-    "name": "Tushar Shinde",
-    "role": "Chair",
-    "affiliation": "IIT Madras Zanzibar, Tanzania"
-   },
-   {
-    "name": "Saurabh Deshpande",
-    "role": "Organizer",
-    "affiliation": "Birla AI Labs, India"
-   },
-   {
-    "name": "Sandareka Wickramanayake",
-    "role": "Organizer",
-    "affiliation": "University of Moratuwa, Sri Lanka"
-   },
-   {
-    "name": "Kumar Rahul",
-    "role": "Organizer",
-    "affiliation": "Amazon Prime Video, USA"
-   },
-   {
-    "name": "Akila Hewa Thondilege",
-    "role": "Organizer",
-    "affiliation": "Queensland University of Technology, Australia"
-   },
-   {
-    "name": "Jonathan Shock",
-    "role": "Organizer",
-    "affiliation": "University of Cape Town, South Africa"
-   },
-   {
-    "name": "Divya Sharma",
-    "role": "Organizer",
-    "affiliation": "York University, Canada"
-   },
-   {
-    "name": "Chaker Larabi",
-    "role": "Organizer",
-    "affiliation": "Université de Poitiers, France"
-   }
-  ]
- },
- {
-  "venue": "Sydney",
-  "idx": 53,
-  "name": "Queer in AI and {Dis}Ability in AI",
-  "url": "https://www.queerinai.com/neurips-2026",
-  "desc": "Joint affinity workshop gathering queer and disabled scholars to explore AI and ML at the intersection of queerness and disability, from research to community building.",
-  "topics": [
-   "queer",
-   "disability",
-   "intersectionality",
-   "bias",
-   "affinity group"
-  ],
-  "accent": "#8a7f5c",
-  "deadline": "Sep 3, 2026",
-  "organizers": [
-   {
-    "name": "Sharvani Jha",
-    "role": "Organizer",
-    "affiliation": null
-   },
-   {
-    "name": "Alissa Valentine",
-    "role": "Organizer",
-    "affiliation": "University of Copenhagen"
-   },
-   {
-    "name": "Kaiser Sun",
-    "role": "Organizer",
-    "affiliation": "Johns Hopkins University"
-   },
-   {
-    "name": "Esmeralda S. Whitammer",
-    "role": "Organizer",
-    "affiliation": "University of Edinburgh"
-   },
-   {
-    "name": "Ashwin S",
-    "role": "Organizer",
-    "affiliation": "TU Wien"
-   },
-   {
-    "name": "Thibault Marette",
-    "role": "Organizer",
-    "affiliation": "KTH Royal Institute of Technology"
-   },
-   {
-    "name": "Alex Markham",
-    "role": "Organizer",
-    "affiliation": "University of Copenhagen"
-   },
-   {
-    "name": "Siyan Li",
-    "role": "Organizer",
-    "affiliation": "Columbia University"
-   }
-  ]
- },
- {
-  "venue": "Sydney",
-  "idx": 54,
-  "name": "Women in Machine Learning (WiML)",
-  "url": "https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/",
-  "desc": "21st Women in Machine Learning workshop providing women and non-binary researchers a venue for talks, posters, and mentoring across ML topics.",
-  "topics": [
-   "women in ml",
-   "affinity group",
-   "mentoring",
-   "machine learning"
-  ],
-  "accent": "#a0785f",
-  "deadline": "Aug 17, 2026",
-  "organizers": [
-   {
-    "name": "Ziqi Huang",
-    "role": "General Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Luxi He",
-    "role": "Senior Program Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Svetlana Churina",
-    "role": "Mentorship and Networking Program Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Supatta Viriyavisuthisakul",
-    "role": "Student Program and Funding Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Aiman Farooq",
-    "role": "Finance and Sponsorship Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Rana Barghout",
-    "role": "Program Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Daphne Charles",
-    "role": "Logistics Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Mélisande Teng",
-    "role": "Program Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Ariana Villegas",
-    "role": "Logistics Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Santhoshi Ravichandran",
-    "role": "Logistics Chair",
-    "affiliation": null
-   },
-   {
-    "name": "Giulia Clerici",
-    "role": "WiML Director / NeurIPS Workshop Liaison",
-    "affiliation": null
-   },
-   {
-    "name": "Nikita Saxena",
-    "role": "WiML Director / NeurIPS Workshop Liaison",
-    "affiliation": null
-   },
-   {
-    "name": "Yuko Kuroki Miyauchi",
-    "role": "Volunteer",
-    "affiliation": null
-   },
-   {
-    "name": "Nikita Malik",
-    "role": "Volunteer",
-    "affiliation": null
-   },
-   {
-    "name": "Swati Sharma",
-    "role": "Volunteer",
-    "affiliation": null
-   },
-   {
-    "name": "Alanis González",
-    "role": "Volunteer",
-    "affiliation": null
-   },
-   {
-    "name": "Radhika Dua",
-    "role": "Volunteer",
-    "affiliation": null
-   },
-   {
-    "name": "Khongorzul Munkhbat",
-    "role": "Volunteer",
-    "affiliation": null
-   },
-   {
-    "name": "Keerthi Gopalakrishnan",
-    "role": "Volunteer",
-    "affiliation": null
    }
   ]
  },
@@ -3493,8 +3070,42 @@
   ]
  },
  {
+  "name": "2nd Workshop on Advances in Representation Learning for Earth Observation (REO-2)",
+  "url": "https://reo-workshop.org/2026/",
+  "desc": "Second workshop on representation learning for Earth observation, spanning remote sensing, climate, and geospatial foundation models.",
+  "topics": [
+   "earth observation",
+   "remote sensing",
+   "representation learning",
+   "foundation models",
+   "geospatial"
+  ],
+  "accent": "#9d8f74",
+  "deadline": null,
+  "organizers": [],
   "venue": "Paris",
-  "idx": 4,
+  "idx": 4
+ },
+ {
+  "name": "AI for Peace",
+  "url": "https://aiforpeaceworkshop.github.io/",
+  "desc": "Explores how AI can support conflict prevention, peacebuilding, and humanitarian action, alongside the risks of AI in conflict settings.",
+  "topics": [
+   "peacebuilding",
+   "humanitarian ai",
+   "conflict prevention",
+   "ai ethics",
+   "governance"
+  ],
+  "accent": "#9d8f74",
+  "deadline": null,
+  "organizers": [],
+  "venue": "Paris",
+  "idx": 5
+ },
+ {
+  "venue": "Paris",
+  "idx": 6,
   "name": "TS-LIMITS: Generalization for Time Series in Tight Settings",
   "url": "https://ts-limits.github.io/",
   "desc": "Addresses generalization for time series under tight constraints of latency, inference, memory, privacy, and sustainability for practical deployment.",
@@ -3547,7 +3158,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 5,
+  "idx": 7,
   "name": "Privacy in the Era of Large Opaque Models: Theoretical, Legal, and Practical Perspectives",
   "url": "https://neurips-workshop2026.github.io/foundation_model_agentic_privacy/",
   "desc": "Examines memorization and privacy risks in opaque foundation models and agentic systems, bridging theoretical, legal, and practical perspectives on defining, measuring, and governing privacy.",
@@ -3601,7 +3212,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 6,
+  "idx": 8,
   "name": "Real-Time Multimodal Conversational AI",
   "url": "https://sites.google.com/view/remucai",
   "desc": "Advances real-time multimodal conversational AI spanning speech, video, and embodied interaction, integrating egocentric, exocentric, and dyadic perspectives.",
@@ -3644,7 +3255,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 7,
+  "idx": 9,
   "name": "Sim2Science: ML with Imperfect Scientific Models",
   "url": "https://www.sim2science.com/",
   "desc": "Focuses on leveraging imperfect, misspecified scientific simulators, using machine learning to account for and mitigate simulator limitations across scientific domains.",
@@ -3710,7 +3321,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 8,
+  "idx": 10,
   "name": "Bridging Optimal Transport, Learning, and Structured Data: Toward Geometric Distributional Learning",
   "url": "https://gddl-neurips-2026.github.io",
   "desc": "Bridges optimal transport, geometric deep learning, and structured data to build models that jointly capture the geometry and distributional nature of data.",
@@ -3758,7 +3369,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 9,
+  "idx": 11,
   "name": "Representations for the Physical Sciences",
   "url": "https://representations-physical-sciences.github.io/workshop-2026/",
   "desc": "A forum for representation learning in physical systems, centered on self-supervision, transfer learning, sampling, and tokenization of scientific data.",
@@ -3806,7 +3417,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 10,
+  "idx": 12,
   "name": "Foundations of LLM Post-Training in Changing Environments",
   "url": "https://www.fllmpt-work.shop/",
   "desc": "Develops principled foundations for LLM post-training under task evolution and distribution shift, addressing repeated adaptation in non-stationary environments.",
@@ -3866,7 +3477,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 11,
+  "idx": 13,
   "name": "ML4Molecules: Agentic Systems for Molecular Sciences",
   "url": "https://moleculediscovery.github.io/workshop2026/",
   "desc": "Focuses on agentic systems for the molecular sciences, from in-silico chemists and closed-loop labs to rigorous benchmarking, negative results, and careful baselines.",
@@ -3909,7 +3520,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 12,
+  "idx": 14,
   "name": "LIGHT: Deployable Small Foundation Models",
   "url": "https://almaai-disi-unibo.github.io/neurips2026-light-smallModels/",
   "desc": "Promotes compact, trustworthy, energy-efficient foundation models for real-world deployment through distillation, compression, quantization, and pruning.",
@@ -3951,7 +3562,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 13,
+  "idx": 15,
   "name": "E-values: From Statistics to ML",
   "url": "https://e-values-workshop.github.io/",
   "desc": "Bridges statistics and machine learning around e-values for anytime-valid inference, sequential monitoring, and uncertainty quantification in modern ML systems.",
@@ -3999,7 +3610,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 14,
+  "idx": 16,
   "name": "PALM: Personalized, Aligned, Long-Term Memory for AI Systems",
   "url": "https://palm-neurips-2026.github.io/",
   "desc": "Workshop on safe, personalized, long-term memory for AI agents and conversational assistants, covering memory architectures, personalization, evaluation, and safety.",
@@ -4065,7 +3676,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 15,
+  "idx": 17,
   "name": "Trustworthy AI for Good (AI4GOOD)",
   "url": "https://trustworthy-ai-for-good.github.io/",
   "desc": "Bridges trustworthy AI, AI for social good, and policy/governance to translate model safety into societal impact, with a multi-agent security and safety track.",
@@ -4185,7 +3796,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 16,
+  "idx": 18,
   "name": "AIDaR: AI Data Readiness for Scientific Discovery",
   "url": "https://aidar-workshop.github.io/2026/",
   "desc": "Focuses on AI data readiness for scientific discovery, addressing how scientific data should be organized for models and agents and how evaluations determine model reliability.",
@@ -4275,7 +3886,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 17,
+  "idx": 19,
   "name": "Principles of Generative Modeling (PriGM)",
   "url": "https://sites.google.com/view/prigmneurips2026/home",
   "desc": "Second workshop on the principles of generative modeling, articulating theoretical foundations for expressivity, generalization, inference-time computation, and post-training.",
@@ -4328,7 +3939,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 18,
+  "idx": 20,
   "name": "Neural Network Artifacts as a New Data Modality",
   "url": "https://artifactsasdata.org",
   "desc": "Treats neural network artifacts (weights, gradients, representations, training traces) as a data modality, covering model analysis, synthesis, search, and AI supply chains.",
@@ -4418,7 +4029,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 19,
+  "idx": 21,
   "name": "AI for Meta-Science: Scaling and Organizing Science in the Age of AI Scientists",
   "url": "https://ai4metascience.org/",
   "desc": "Treats the scientific enterprise itself as an object of study, focusing on evaluation, verification, peer review, and governance as AI scientists scale research production.",
@@ -4466,7 +4077,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 20,
+  "idx": 22,
   "name": "AI for Chip Design",
   "url": "https://neurips-ai-for-chip-design-2026.github.io/",
   "desc": "Brings together ML and semiconductor communities on AI-driven chip design, covering electronic design automation, physical design, and LLMs for hardware description languages.",
@@ -4522,7 +4133,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 21,
+  "idx": 23,
   "name": "Machine Learning for Spatially Resolved High-dimensional Biology",
   "url": "https://imsb-uke.github.io/ml4spatialbio-2026/",
   "desc": "Explores ML methods for spatially resolved high-dimensional biology, including spatial multiomics integration, geometry-based learning, and foundation models for tissue data.",
@@ -4564,7 +4175,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 22,
+  "idx": 24,
   "name": "Foundations of Agentic Systems Theory",
   "url": "https://fast-workshop.github.io",
   "desc": "Investigates foundations of emergent behavior in systems of LLM-based agents, drawing on control theory, game theory, and social sciences to understand system-level risks.",
@@ -4618,7 +4229,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 23,
+  "idx": 25,
   "name": "AXIOM: Foundations of Efficient Deep Learning",
   "url": "https://axiom-neurips2026.github.io/",
   "desc": "Develops predictive theoretical principles for efficient deep learning, connecting scaling laws and learning dynamics with pruning, quantization, and sparse computation.",
@@ -4666,7 +4277,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 24,
+  "idx": 26,
   "name": "SLM-Agents: 1st Workshop on SLMs for Agentic Systems",
   "url": "https://slmw2026.github.io/",
   "desc": "Focuses on small language models as the foundation for agentic AI systems, covering compression, distillation, hardware co-design, and on-device deployment.",
@@ -4720,7 +4331,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 25,
+  "idx": 27,
   "name": "Grounded User Simulation for Model Evaluation and Training",
   "url": "https://usersim-workshop.github.io/",
   "desc": "Works to establish evidence, standards, and open tools for trustworthy user simulation in AI evaluation and training, centered on diversity, fidelity, and validity.",
@@ -4763,7 +4374,7 @@
  },
  {
   "venue": "Paris",
-  "idx": 26,
+  "idx": 28,
   "name": "AI and the Self: Human Identity, Authenticity, and Agency in the Age of AI",
   "url": "https://aintheself.github.io/",
   "desc": "Explores how AI systems mediate human identity, agency, authenticity, and flourishing, combining technical, empirical, and philosophical methods.",
@@ -4818,119 +4429,6 @@
     "role": "Organizer",
     "affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "photo": "images/people/Paris_26_6.jpg"
-   }
-  ]
- },
- {
-  "venue": "Paris",
-  "idx": 27,
-  "name": "Epistemic Intelligence in Machine Learning (EIML)",
-  "url": "https://epistemic-intelligence-in-ml.github.io",
-  "desc": "Studies how learning systems recognize, represent, and act under the limits of their knowledge, spanning epistemic uncertainty, robustness, and uncertainty quantification.",
-  "topics": [
-   "epistemic uncertainty",
-   "uncertainty quantification",
-   "robustness",
-   "unknown unknowns",
-   "bayesian inference"
-  ],
-  "accent": "#96714f",
-  "deadline": "Aug 29, 2026",
-  "organizers": [
-   {
-    "name": "Sahar Abdelnabi",
-    "role": "Organizer",
-    "affiliation": "ELLIS Institute Tübingen & MPI-IS",
-    "photo": "images/people/Paris_27_0.jpg"
-   },
-   {
-    "name": "Michele Caprio",
-    "role": "Organizer",
-    "affiliation": "University of Manchester",
-    "photo": "images/people/Paris_27_1.jpg"
-   },
-   {
-    "name": "Siu Lun Chau",
-    "role": "Organizer",
-    "affiliation": "Nanyang Technological University",
-    "photo": "images/people/Paris_27_2.jpg"
-   },
-   {
-    "name": "Julian Rodemann",
-    "role": "Organizer",
-    "affiliation": "CISPA Helmholtz Center for Information Security",
-    "photo": "images/people/Paris_27_3.jpg"
-   },
-   {
-    "name": "Shireen Kudukkil Manchingal",
-    "role": "Organizer",
-    "affiliation": "Oxford Dynamics",
-    "photo": "images/people/Paris_27_4.jpg"
-   },
-   {
-    "name": "Krikamol Muandet",
-    "role": "Organizer",
-    "affiliation": "CISPA Helmholtz Center for Information Security",
-    "photo": "images/people/Paris_27_5.jpg"
-   }
-  ]
- },
- {
-  "venue": "Paris",
-  "idx": 28,
-  "name": "New in Machine Learning (NewInML)",
-  "url": "https://newinml.github.io/NewInML2026NeurIPS/",
-  "desc": "Supports researchers who have not yet published at a top ML venue, offering mentoring, reviewing, and guidance to help them publish and contribute to ML research.",
-  "topics": [
-   "machine learning",
-   "mentorship",
-   "early-career research",
-   "publishing guidance"
-  ],
-  "accent": "#9d8f74",
-  "deadline": "Aug 29, 2026",
-  "organizers": [
-   {
-    "name": "Arian Khorasani",
-    "role": "Organizer",
-    "affiliation": "University of Toronto & Vector Institute",
-    "photo": "images/people/Paris_28_0.jpg"
-   },
-   {
-    "name": "Shashank Galla",
-    "role": "Organizer",
-    "affiliation": "Texas A&M University",
-    "photo": "images/people/Paris_28_1.jpg"
-   },
-   {
-    "name": "Zarreen Reza",
-    "role": "Organizer",
-    "affiliation": "JACOBB Applied AI Center",
-    "photo": "images/people/Paris_28_2.jpg"
-   },
-   {
-    "name": "Arth Singh",
-    "role": "Organizer",
-    "affiliation": "AIM Intelligence",
-    "photo": "images/people/Paris_28_3.jpg"
-   },
-   {
-    "name": "Iñigo Parra",
-    "role": "Organizer",
-    "affiliation": "UC Berkeley",
-    "photo": "images/people/Paris_28_4.jpg"
-   },
-   {
-    "name": "Veeraraju Elluru",
-    "role": "Organizer",
-    "affiliation": "SAAR-India",
-    "photo": "images/people/Paris_28_5.jpg"
-   },
-   {
-    "name": "Zhen (Zach) Xu",
-    "role": "Organizer",
-    "affiliation": "University of Chicago",
-    "photo": "images/people/Paris_28_6.jpg"
    }
   ]
  },
@@ -6150,8 +5648,25 @@
   ]
  },
  {
+  "name": "The Third Workshop on Long-Context Foundation Models",
+  "url": "https://longcontextfm.github.io/",
+  "desc": "Third workshop on long-context foundation models, covering efficient attention, memory, retrieval, and evaluation at scale.",
+  "topics": [
+   "long context",
+   "attention",
+   "memory",
+   "efficient inference",
+   "evaluation"
+  ],
+  "accent": "#9c7e5e",
+  "deadline": null,
+  "organizers": [],
   "venue": "Atlanta",
-  "idx": 21,
+  "idx": 21
+ },
+ {
+  "venue": "Atlanta",
+  "idx": 22,
   "name": "Human-AI Coevolution: Measuring Human-Agent Teams in the Agentic Era",
   "url": "https://neurips2026haic.com",
   "desc": "Builds methodological foundations for empirically evaluating human-agent teams, focusing on validity, expert disagreement, and adaptive evaluation as systems and users coevolve.",
@@ -6199,7 +5714,7 @@
  },
  {
   "venue": "Atlanta",
-  "idx": 22,
+  "idx": 23,
   "name": "Second Workshop on ML×OR (MLxOR)",
   "url": "https://mlxor-2026.github.io/",
   "desc": "Presents developments at the intersection of machine learning and operations research, emphasizing decision-making with GenAI and OR for uncertainty-aware applications.",
@@ -6257,7 +5772,7 @@
  },
  {
   "venue": "Atlanta",
-  "idx": 23,
+  "idx": 24,
   "name": "GEM: Integrating Generative and Experimental Platforms for Biomolecular Design",
   "url": "https://www.gembio.ai/",
   "desc": "Bridges generative machine learning and experimental biology for biomolecular design, with in-silico and wet-lab tracks and seed grants for dry-wet collaborations.",
@@ -6329,7 +5844,7 @@
  },
  {
   "venue": "Atlanta",
-  "idx": 24,
+  "idx": 25,
   "name": "DevAI: Developmental Perspectives on AI",
   "url": "https://sites.google.com/view/devai-workshop-2026/",
   "desc": "Brings together AI, cognitive science, neuroscience, and developmental psychology to explore what human development teaches about building more robust, human-like AI.",
@@ -6372,7 +5887,7 @@
  },
  {
   "venue": "Atlanta",
-  "idx": 25,
+  "idx": 26,
   "name": "AI & Science: Evolution or Extinction?",
   "url": "https://aiscik.github.io/",
   "desc": "Develops a domain-specific safety, alignment, and evaluation agenda for AI in science, examining epistemic integrity when AI systems participate in scientific discovery.",

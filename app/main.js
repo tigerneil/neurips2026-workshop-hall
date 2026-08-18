@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 
 /* ============================================================
-   NeurIPS 2026 Workshop Hall — 107 workshops, 3 wings
+   NeurIPS 2026 Workshop Hall — 102 workshops, 3 wings
    ============================================================ */
 
 const VENUE_DATES = {

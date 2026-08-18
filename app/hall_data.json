@@ -280,102 +280,60 @@
   "url": "https://icbinb-bio.github.io/"
  },
  {
+  "name": "2nd Embodied Spatial Reasoning Workshop",
+  "image": null,
+  "url": "https://embodiedsr.github.io/",
   "venue": "Sydney",
-  "idx": 41,
+  "idx": 41
+ },
+ {
+  "venue": "Sydney",
+  "idx": 42,
   "name": "Symmetry and Geometry in Neural Representations (NeurReps)",
   "image": "images/NeurReps.png",
   "url": "https://neurreps.org/"
  },
  {
   "venue": "Sydney",
-  "idx": 42,
+  "idx": 43,
   "name": "Third Workshop on Attributing Model Behavior at Scale: Data Attribution and Provenance (ATTRIB)",
   "image": "images/ATTRIB_logo.png",
   "url": "https://attrib-workshop.cc/"
  },
  {
   "venue": "Sydney",
-  "idx": 43,
+  "idx": 44,
   "name": "Robot Learning with World Models: Capabilities, Frontiers, and Challenges",
   "image": null,
   "url": "https://robowm-ws.github.io/"
  },
  {
   "venue": "Sydney",
-  "idx": 44,
+  "idx": 45,
   "name": "First Workshop on Meta Agents: Managing Agents that Manage Agents",
   "image": "images/Meta-Agents_logo.jpg",
   "url": "https://meta-agents-workshop.github.io/"
  },
  {
   "venue": "Sydney",
-  "idx": 45,
+  "idx": 46,
   "name": "8th Robot Learning Workshop: Is Physical AI Truly Going Zero-Shot?",
   "image": null,
   "url": "https://www.robot-learning.ml/2026/"
  },
  {
   "venue": "Sydney",
-  "idx": 46,
+  "idx": 47,
   "name": "Foundation Models for the Brain and Body",
   "image": null,
   "url": "https://brainbodyfm-workshop.github.io"
  },
  {
   "venue": "Sydney",
-  "idx": 47,
+  "idx": 48,
   "name": "Continual Learning in the Era of Foundation Models and Embodied Agents (CL4FMAgents)",
   "image": "images/CL4FMAgents.jpg",
   "url": "https://neurips26-cl4fmagents.github.io"
- },
- {
-  "venue": "Sydney",
-  "idx": 48,
-  "name": "Africa in AI",
-  "image": "images/Africa_in_AI.png",
-  "url": "https://africainai.mailab.io/"
- },
- {
-  "venue": "Sydney",
-  "idx": 49,
-  "name": "LatinX in AI (LXAI)",
-  "image": "images/LXAI_logo.webp",
-  "url": "https://www.latinxinai.org/neurips-2026"
- },
- {
-  "venue": "Sydney",
-  "idx": 50,
-  "name": "Muslims in ML (MusIML)",
-  "image": "images/MusIML.jpg",
-  "url": "https://www.musiml.org/"
- },
- {
-  "venue": "Sydney",
-  "idx": 51,
-  "name": "RoCo-Spring: The Robust Correspondence Challenge",
-  "image": "images/RoCo-Spring.png",
-  "url": "https://roco-spring.github.io/"
- },
- {
-  "venue": "Sydney",
-  "idx": 52,
-  "name": "Global South in AI (GlobalSouthAI)",
-  "image": null,
-  "url": "https://sites.google.com/view/globalsouthai-neurips26/home"
- },
- {
-  "venue": "Sydney",
-  "idx": 53,
-  "name": "Queer in AI and {Dis}Ability in AI",
-  "image": "images/QueerInAI.webp",
-  "url": "https://www.queerinai.com/neurips-2026"
- },
- {
-  "venue": "Sydney",
-  "idx": 54,
-  "name": "Women in Machine Learning (WiML)",
-  "image": "images/WiML.png",
-  "url": "https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2026/"
  },
  {
   "venue": "Paris",
@@ -399,179 +357,179 @@
   "url": "https://robotpad2026.github.io/"
  },
  {
+  "name": "2nd Workshop on Advances in Representation Learning for Earth Observation (REO-2)",
+  "image": null,
+  "url": "https://reo-workshop.org/2026/",
   "venue": "Paris",
-  "idx": 4,
+  "idx": 4
+ },
+ {
+  "name": "AI for Peace",
+  "image": null,
+  "url": "https://aiforpeaceworkshop.github.io/",
+  "venue": "Paris",
+  "idx": 5
+ },
+ {
+  "venue": "Paris",
+  "idx": 6,
   "name": "TS-LIMITS: Generalization for Time Series in Tight Settings",
   "image": null,
   "url": "https://ts-limits.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 5,
+  "idx": 7,
   "name": "Privacy in the Era of Large Opaque Models: Theoretical, Legal, and Practical Perspectives",
   "image": "images/MPLR-FM.png",
   "url": "https://neurips-workshop2026.github.io/foundation_model_agentic_privacy/"
  },
  {
   "venue": "Paris",
-  "idx": 6,
+  "idx": 8,
   "name": "Real-Time Multimodal Conversational AI",
   "image": "images/ReMuCAI.png",
   "url": "https://sites.google.com/view/remucai"
  },
  {
   "venue": "Paris",
-  "idx": 7,
+  "idx": 9,
   "name": "Sim2Science: ML with Imperfect Scientific Models",
   "image": "images/Sim2Sci_logo.svg",
   "url": "https://www.sim2science.com/"
  },
  {
   "venue": "Paris",
-  "idx": 8,
+  "idx": 10,
   "name": "Bridging Optimal Transport, Learning, and Structured Data: Toward Geometric Distributional Learning",
   "image": null,
   "url": "https://gddl-neurips-2026.github.io"
  },
  {
   "venue": "Paris",
-  "idx": 9,
+  "idx": 11,
   "name": "Representations for the Physical Sciences",
   "image": "images/RPS.png",
   "url": "https://representations-physical-sciences.github.io/workshop-2026/"
  },
  {
   "venue": "Paris",
-  "idx": 10,
+  "idx": 12,
   "name": "Foundations of LLM Post-Training in Changing Environments",
   "image": null,
   "url": "https://www.fllmpt-work.shop/"
  },
  {
   "venue": "Paris",
-  "idx": 11,
+  "idx": 13,
   "name": "ML4Molecules: Agentic Systems for Molecular Sciences",
   "image": "images/ML4Molecules.jpg",
   "url": "https://moleculediscovery.github.io/workshop2026/"
  },
  {
   "venue": "Paris",
-  "idx": 12,
+  "idx": 14,
   "name": "LIGHT: Deployable Small Foundation Models",
   "image": "images/LIGHT.svg",
   "url": "https://almaai-disi-unibo.github.io/neurips2026-light-smallModels/"
  },
  {
   "venue": "Paris",
-  "idx": 13,
+  "idx": 15,
   "name": "E-values: From Statistics to ML",
   "image": null,
   "url": "https://e-values-workshop.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 14,
+  "idx": 16,
   "name": "PALM: Personalized, Aligned, Long-Term Memory for AI Systems",
   "image": "images/PALM.png",
   "url": "https://palm-neurips-2026.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 15,
+  "idx": 17,
   "name": "Trustworthy AI for Good (AI4GOOD)",
   "image": "images/AI4GOOD.png",
   "url": "https://trustworthy-ai-for-good.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 16,
+  "idx": 18,
   "name": "AIDaR: AI Data Readiness for Scientific Discovery",
   "image": null,
   "url": "https://aidar-workshop.github.io/2026/"
  },
  {
   "venue": "Paris",
-  "idx": 17,
+  "idx": 19,
   "name": "Principles of Generative Modeling (PriGM)",
   "image": null,
   "url": "https://sites.google.com/view/prigmneurips2026/home"
  },
  {
   "venue": "Paris",
-  "idx": 18,
+  "idx": 20,
   "name": "Neural Network Artifacts as a New Data Modality",
   "image": null,
   "url": "https://artifactsasdata.org"
  },
  {
   "venue": "Paris",
-  "idx": 19,
+  "idx": 21,
   "name": "AI for Meta-Science: Scaling and Organizing Science in the Age of AI Scientists",
   "image": "images/AI4MetaScience.png",
   "url": "https://ai4metascience.org/"
  },
  {
   "venue": "Paris",
-  "idx": 20,
+  "idx": 22,
   "name": "AI for Chip Design",
   "image": "images/AI4ChipDesign.png",
   "url": "https://neurips-ai-for-chip-design-2026.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 21,
+  "idx": 23,
   "name": "Machine Learning for Spatially Resolved High-dimensional Biology",
   "image": "images/ML4SpatialBio.webp",
   "url": "https://imsb-uke.github.io/ml4spatialbio-2026/"
  },
  {
   "venue": "Paris",
-  "idx": 22,
+  "idx": 24,
   "name": "Foundations of Agentic Systems Theory",
   "image": null,
   "url": "https://fast-workshop.github.io"
  },
  {
   "venue": "Paris",
-  "idx": 23,
+  "idx": 25,
   "name": "AXIOM: Foundations of Efficient Deep Learning",
   "image": "images/AXIOM.jpg",
   "url": "https://axiom-neurips2026.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 24,
+  "idx": 26,
   "name": "SLM-Agents: 1st Workshop on SLMs for Agentic Systems",
   "image": "images/SLM-Agents.webp",
   "url": "https://slmw2026.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 25,
+  "idx": 27,
   "name": "Grounded User Simulation for Model Evaluation and Training",
   "image": null,
   "url": "https://usersim-workshop.github.io/"
  },
  {
   "venue": "Paris",
-  "idx": 26,
+  "idx": 28,
   "name": "AI and the Self: Human Identity, Authenticity, and Agency in the Age of AI",
   "image": "images/AI_and_the_Self_logo.svg",
   "url": "https://aintheself.github.io/"
- },
- {
-  "venue": "Paris",
-  "idx": 27,
-  "name": "Epistemic Intelligence in Machine Learning (EIML)",
-  "image": "images/EIML.png",
-  "url": "https://epistemic-intelligence-in-ml.github.io"
- },
- {
-  "venue": "Paris",
-  "idx": 28,
-  "name": "New in Machine Learning (NewInML)",
-  "image": null,
-  "url": "https://newinml.github.io/NewInML2026NeurIPS/"
  },
  {
   "venue": "Atlanta",
@@ -714,36 +672,43 @@
   "url": "https://childsafety-ai.github.io/"
  },
  {
+  "name": "The Third Workshop on Long-Context Foundation Models",
+  "image": null,
+  "url": "https://longcontextfm.github.io/",
   "venue": "Atlanta",
-  "idx": 21,
+  "idx": 21
+ },
+ {
+  "venue": "Atlanta",
+  "idx": 22,
   "name": "Human-AI Coevolution: Measuring Human-Agent Teams in the Agentic Era",
   "image": null,
   "url": "https://neurips2026haic.com"
  },
  {
   "venue": "Atlanta",
-  "idx": 22,
+  "idx": 23,
   "name": "Second Workshop on ML×OR (MLxOR)",
   "image": "images/MLxOR_logo.png",
   "url": "https://mlxor-2026.github.io/"
  },
  {
   "venue": "Atlanta",
-  "idx": 23,
+  "idx": 24,
   "name": "GEM: Integrating Generative and Experimental Platforms for Biomolecular Design",
   "image": null,
   "url": "https://www.gembio.ai/"
  },
  {
   "venue": "Atlanta",
-  "idx": 24,
+  "idx": 25,
   "name": "DevAI: Developmental Perspectives on AI",
   "image": null,
   "url": "https://sites.google.com/view/devai-workshop-2026/"
  },
  {
   "venue": "Atlanta",
-  "idx": 25,
+  "idx": 26,
   "name": "AI & Science: Evolution or Extinction?",
   "image": null,
   "url": "https://aiscik.github.io/"
